@@ -1,4 +1,4 @@
-const csv = require('csvtojson')
+const { csv } = require('./core')
 const path = require('path')
 const glob = require('glob')
 const fs = require('fs')
@@ -17,7 +17,7 @@ glob(`${DATABASE_DIR}/*.csv`, async function (err, files) {
 		const inputFilename = path.parse(inputFile).name
 		const outputFile = `${OUTPUT_DIR}/${inputFilename}.json`
 
-		const json = await csv().fromFile(inputFile)
+		const json = await csv.load(inputFile)
 		fs.writeFileSync(path.resolve(outputFile), JSON.stringify(json, null, 2))
 	}
 })
