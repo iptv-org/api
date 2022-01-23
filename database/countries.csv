@@ -1,0 +1,251 @@
+name,code,lang,flag
+Andorra,AD,cat,🇦🇩
+United Arab Emirates,AE,ara,🇦🇪
+Afghanistan,AF,pus,🇦🇫
+Antigua and Barbuda,AG,eng,🇦🇬
+Anguilla,AI,eng,
+Albania,AL,sqi,🇦🇱
+Armenia,AM,hye,🇦🇲
+Angola,AO,por,🇦🇴
+Antarctica,AQ,,
+Argentina,AR,spa,🇦🇷
+American Samoa,AS,eng,🇦🇸
+Austria,AT,deu,🇦🇹
+Australia,AU,eng,🇦🇺
+Aruba,AW,nld,🇦🇼
+Åland,AX,swe,
+Azerbaijan,AZ,aze,🇦🇿
+Bosnia and Herzegovina,BA,bos,🇧🇦
+Barbados,BB,eng,🇧🇧
+Bangladesh,BD,ben,🇧🇩
+Belgium,BE,nld,🇧🇪
+Burkina Faso,BF,fra,🇧🇫
+Bulgaria,BG,bul,🇧🇬
+Bahrain,BH,ara,🇧🇭
+Burundi,BI,fra,🇧🇮
+Benin,BJ,fra,🇧🇯
+Saint Barthélemy,BL,fra,🇧🇱
+Bermuda,BM,eng,
+Brunei,BN,msa,🇧🇳
+Bolivia,BO,spa,🇧🇴
+Bonaire,BQ,nld,
+Brazil,BR,por,🇧🇷
+Bahamas,BS,eng,🇧🇸
+Bhutan,BT,dzo,🇧🇹
+Bouvet Island,BV,nor,
+Botswana,BW,eng,🇧🇼
+Belarus,BY,bel,🇧🇾
+Belize,BZ,eng,
+Canada,CA,eng,🇨🇦
+Cocos [Keeling] Islands,CC,eng,
+Democratic Republic of the Congo,CD,fra,🇨🇩
+Central African Republic,CF,fra,🇨🇫
+Republic of the Congo,CG,fra,🇨🇬
+Switzerland,CH,deu,🇨🇭
+Ivory Coast,CI,fra,🇨🇮
+Cook Islands,CK,eng,🇨🇰
+Chile,CL,spa,🇨🇱
+Cameroon,CM,eng,🇨🇲
+China,CN,zho,🇨🇳
+Colombia,CO,spa,🇨🇴
+Costa Rica,CR,spa,🇨🇷
+Cuba,CU,spa,🇨🇺
+Cape Verde,CV,por,🇨🇻
+Curacao,CW,nld,🇨🇼
+Christmas Island,CX,eng,
+Cyprus,CY,ell,🇨🇾
+Czech Republic,CZ,ces,🇨🇿
+Germany,DE,deu,🇩🇪
+Djibouti,DJ,fra,🇩🇯
+Denmark,DK,dan,🇩🇰
+Dominica,DM,eng,
+Dominican Republic,DO,spa,🇩🇴
+Algeria,DZ,ara,🇩🇿
+Ecuador,EC,spa,🇪🇨
+Estonia,EE,est,🇪🇪
+Egypt,EG,ara,🇪🇬
+Western Sahara,EH,spa,🇪🇭
+Eritrea,ER,tir,🇪🇷
+Spain,ES,spa,🇪🇸
+Ethiopia,ET,amh,🇪🇹
+Finland,FI,fin,🇫🇮
+Fiji,FJ,eng,🇫🇯
+Falkland Islands,FK,eng,
+Micronesia,FM,eng,🇫🇲
+Faroe Islands,FO,fao,🇫🇴
+France,FR,fra,🇫🇷
+Gabon,GA,fra,🇬🇦
+United Kingdom,UK,eng,🇬🇧
+Grenada,GD,eng,
+Georgia,GE,kat,🇬🇪
+French Guiana,GF,fra,🇬🇫
+Guernsey,GG,eng,
+Ghana,GH,eng,🇬🇭
+Gibraltar,GI,eng,
+Greenland,GL,kal,🇬🇱
+Gambia,GM,eng,🇬🇲
+Guinea,GN,fra,🇬🇳
+Guadeloupe,GP,fra,🇬🇵
+Equatorial Guinea,GQ,spa,🇬🇶
+Greece,GR,ell,🇬🇷
+South Georgia and the South Sandwich Islands,GS,eng,
+Guatemala,GT,spa,🇬🇹
+Guam,GU,eng,🇬🇺
+Guinea-Bissau,GW,por,🇬🇼
+Guyana,GY,eng,
+Hong Kong,HK,zho,🇭🇰
+Heard Island and McDonald Islands,HM,eng,
+Honduras,HN,spa,🇭🇳
+Croatia,HR,hrv,🇭🇷
+Haiti,HT,fra,🇭🇹
+Hungary,HU,hun,🇭🇺
+Indonesia,ID,ind,🇮🇩
+Ireland,IE,gle,🇮🇪
+Israel,IL,heb,🇮🇱
+Isle of Man,IM,eng,
+India,IN,hin,🇮🇳
+British Indian Ocean Territory,IO,eng,
+Iraq,IQ,ara,🇮🇶
+Iran,IR,fas,🇮🇷
+Iceland,IS,isl,🇮🇸
+Italy,IT,ita,🇮🇹
+Jersey,JE,eng,
+Jamaica,JM,eng,🇯🇲
+Jordan,JO,ara,🇯🇴
+Japan,JP,jpn,🇯🇵
+Kenya,KE,eng,🇰🇪
+Kyrgyzstan,KG,kir,🇰🇬
+Cambodia,KH,khm,🇰🇭
+Kiribati,KI,eng,🇰🇮
+Comoros,KM,ara,🇰🇲
+Saint Kitts and Nevis,KN,eng,
+North Korea,KP,kor,🇰🇵
+South Korea,KR,kor,🇰🇷
+Kuwait,KW,ara,🇰🇼
+Cayman Islands,KY,eng,
+Kazakhstan,KZ,kaz,🇰🇿
+Laos,LA,lao,🇱🇦
+Lebanon,LB,ara,🇱🇧
+Saint Lucia,LC,eng,
+Liechtenstein,LI,deu,🇱🇮
+Sri Lanka,LK,sin,🇱🇰
+Liberia,LR,eng,🇱🇷
+Lesotho,LS,eng,🇱🇸
+Lithuania,LT,lit,🇱🇹
+Luxembourg,LU,fra,🇱🇺
+Latvia,LV,lav,🇱🇻
+Libya,LY,ara,🇱🇾
+Morocco,MA,ara,🇲🇦
+Monaco,MC,fra,🇲🇨
+Moldova,MD,ron,🇲🇩
+Montenegro,ME,srp,🇲🇪
+Saint Martin,MF,eng,🇲🇫
+Madagascar,MG,fra,🇲🇬
+Marshall Islands,MH,eng,🇲🇭
+North Macedonia,MK,mkd,🇲🇰
+Mali,ML,fra,🇲🇱
+Myanmar [Burma],MM,mya,🇲🇲
+Mongolia,MN,mon,🇲🇳
+Macao,MO,zho,🇲🇴
+Northern Mariana Islands,MP,eng,🇲🇵
+Martinique,MQ,fra,🇲🇶
+Mauritania,MR,ara,🇲🇷
+Montserrat,MS,eng,
+Malta,MT,mlt,🇲🇹
+Mauritius,MU,eng,🇲🇺
+Maldives,MV,div,🇲🇻
+Malawi,MW,eng,🇲🇼
+Mexico,MX,spa,🇲🇽
+Malaysia,MY,msa,🇲🇾
+Mozambique,MZ,por,🇲🇿
+Namibia,NA,eng,🇳🇦
+New Caledonia,NC,fra,🇳🇨
+Niger,NE,fra,🇳🇪
+Norfolk Island,NF,eng,🇳🇫
+Nigeria,NG,eng,🇳🇬
+Nicaragua,NI,spa,🇳🇮
+Netherlands,NL,nld,🇳🇱
+Norway,NO,nor,🇳🇴
+Nepal,NP,nep,🇳🇵
+Nauru,NR,eng,🇳🇷
+Niue,NU,eng,🇳🇺
+New Zealand,NZ,eng,🇳🇿
+Oman,OM,ara,🇴🇲
+Panama,PA,spa,🇵🇦
+Peru,PE,spa,🇵🇪
+French Polynesia,PF,fra,🇵🇫
+Papua New Guinea,PG,eng,🇵🇬
+Philippines,PH,eng,🇵🇭
+Pakistan,PK,eng,🇵🇰
+Poland,PL,pol,🇵🇱
+Saint Pierre and Miquelon,PM,fra,
+Pitcairn Islands,PN,eng,🇵🇳
+Puerto Rico,PR,spa,🇵🇷
+Palestine,PS,ara,🇵🇸
+Portugal,PT,por,🇵🇹
+Palau,PW,eng,🇵🇼
+Paraguay,PY,spa,🇵🇾
+Qatar,QA,ara,🇶🇦
+Réunion,RE,fra,🇷🇪
+Romania,RO,ron,🇷🇴
+Serbia,RS,srp,🇷🇸
+Russia,RU,rus,🇷🇺
+Rwanda,RW,kin,🇷🇼
+Saudi Arabia,SA,ara,🇸🇦
+Solomon Islands,SB,eng,🇸🇧
+Seychelles,SC,fra,🇸🇨
+Sudan,SD,ara,🇸🇩
+Sweden,SE,swe,🇸🇪
+Singapore,SG,eng,🇸🇬
+Saint Helena,SH,eng,🇸🇭
+Slovenia,SI,slv,🇸🇮
+Svalbard and Jan Mayen,SJ,nor,
+Slovakia,SK,slk,🇸🇰
+Sierra Leone,SL,eng,🇸🇱
+San Marino,SM,ita,🇸🇲
+Senegal,SN,fra,🇸🇳
+Somalia,SO,som,🇸🇴
+Suriname,SR,nld,
+South Sudan,SS,eng,🇸🇸
+São Tomé and Príncipe,ST,por,🇸🇹
+El Salvador,SV,spa,🇸🇻
+Sint Maarten,SX,nld,
+Syria,SY,ara,🇸🇾
+Swaziland,SZ,eng,🇸🇿
+Turks and Caicos Islands,TC,eng,
+Chad,TD,fra,🇹🇩
+French Southern Territories,TF,fra,🇹🇫
+Togo,TG,fra,🇹🇬
+Thailand,TH,tha,🇹🇭
+Tajikistan,TJ,tgk,🇹🇯
+Tokelau,TK,eng,🇹🇰
+East Timor,TL,por,🇹🇱
+Turkmenistan,TM,tuk,🇹🇲
+Tunisia,TN,ara,🇹🇳
+Tonga,TO,eng,🇹🇴
+Turkey,TR,tur,🇹🇷
+Trinidad and Tobago,TT,eng,🇹🇹
+Tuvalu,TV,eng,🇹🇻
+Taiwan,TW,zho,🇹🇼
+Tanzania,TZ,swa,🇹🇿
+Ukraine,UA,ukr,🇺🇦
+Uganda,UG,eng,🇺🇬
+U.S. Minor Outlying Islands,UM,eng,
+United States,US,eng,🇺🇸
+Uruguay,UY,spa,🇺🇾
+Uzbekistan,UZ,uzb,🇺🇿
+Vatican City,VA,ita,🇻🇦
+Saint Vincent and the Grenadines,VC,eng,
+Venezuela,VE,spa,🇻🇪
+British Virgin Islands,VG,eng,
+U.S. Virgin Islands,VI,eng,🇻🇮
+Vietnam,VN,vie,🇻🇳
+Vanuatu,VU,bis,🇻🇺
+Wallis and Futuna,WF,fra,🇼🇫
+Samoa,WS,smo,🇼🇸
+Kosovo,XK,sqi,🇽🇰
+Yemen,YE,ara,🇾🇪
+Mayotte,YT,fra,🇾🇹
+South Africa,ZA,afr,🇿🇦
+Zambia,ZM,eng,🇿🇲
+Zimbabwe,ZW,eng,🇿🇼
