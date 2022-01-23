@@ -1,7 +1,7 @@
 const csv = require('csvtojson')
-const fs = require('fs')
 const path = require('path')
 const glob = require('glob')
+const fs = require('fs')
 
 const DATABASE_DIR = './database'
 const OUTPUT_DIR = './.gh-pages'
@@ -18,6 +18,6 @@ glob(`${DATABASE_DIR}/*.csv`, async function (err, files) {
 		const outputFile = `${OUTPUT_DIR}/${inputFilename}.json`
 
 		const json = await csv().fromFile(inputFile)
-		fs.writeFileSync(path.resolve(outputFile), JSON.stringify(json))
+		fs.writeFileSync(path.resolve(outputFile), JSON.stringify(json, null, 2))
 	}
 })
