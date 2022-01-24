@@ -1,73 +1,73 @@
-code,name,country
-CA-AB,Alberta,CA
-CA-BC,British Columbia,CA
-CA-MB,Manitoba,CA
-CA-NB,New Brunswick,CA
-CA-NL,Newfoundland and Labrador,CA
-CA-NS,Nova Scotia,CA
-CA-NT,Northwest Territories,CA
-CA-NU,Nunavut,CA
-CA-ON,Ontario,CA
-CA-PE,Prince Edward Island,CA
-CA-QC,Quebec,CA
-CA-SK,Saskatchewan,CA
-CA-YT,Yukon Territory,CA
-US-AK,Alaska,US
-US-AL,Alabama,US
-US-AR,Arkansas,US
-US-AS,American Samoa,US
-US-AZ,Arizona,US
-US-CA,California,US
-US-CO,Colorado,US
-US-CT,Connecticut,US
-US-DC,District Of Columbia,US
-US-DE,Delaware,US
-US-FL,Florida,US
-US-FM,Federated States Of Micronesia,US
-US-GA,Georgia,US
-US-GU,Guam,US
-US-HI,Hawaii,US
-US-IA,Iowa,US
-US-ID,Idaho,US
-US-IL,Illinois,US
-US-IN,Indiana,US
-US-KS,Kansas,US
-US-KY,Kentucky,US
-US-LA,Louisiana,US
-US-MA,Massachusetts,US
-US-MD,Maryland,US
-US-ME,Maine,US
-US-MH,Marshall Islands,US
-US-MI,Michigan,US
-US-MN,Minnesota,US
-US-MO,Missouri,US
-US-MP,Northern Mariana Islands,US
-US-MS,Mississippi,US
-US-MT,Montana,US
-US-NC,North Carolina,US
-US-ND,North Dakota,US
-US-NE,Nebraska,US
-US-NH,New Hampshire,US
-US-NJ,New Jersey,US
-US-NM,New Mexico,US
-US-NV,Nevada,US
-US-NY,New York,US
-US-OH,Ohio,US
-US-OK,Oklahoma,US
-US-OR,Oregon,US
-US-PA,Pennsylvania,US
-US-PR,Puerto Rico,US
-US-PW,Palau,US
-US-RI,Rhode Island,US
-US-SC,South Carolina,US
-US-SD,South Dakota,US
-US-TN,Tennessee,US
-US-TX,Texas,US
-US-UT,Utah,US
-US-VA,Virginia,US
-US-VI,Virgin Islands,US
-US-VT,Vermont,US
-US-WA,Washington,US
-US-WI,Wisconsin,US
-US-WV,West Virginia,US
-US-WY,Wyoming,US
+name,code,country
+Alabama,US-AL,US
+Alaska,US-AK,US
+Alberta,CA-AB,CA
+American Samoa,US-AS,US
+Arizona,US-AZ,US
+Arkansas,US-AR,US
+British Columbia,CA-BC,CA
+California,US-CA,US
+Colorado,US-CO,US
+Connecticut,US-CT,US
+Delaware,US-DE,US
+District Of Columbia,US-DC,US
+Federated States Of Micronesia,US-FM,US
+Florida,US-FL,US
+Georgia,US-GA,US
+Guam,US-GU,US
+Hawaii,US-HI,US
+Idaho,US-ID,US
+Illinois,US-IL,US
+Indiana,US-IN,US
+Iowa,US-IA,US
+Kansas,US-KS,US
+Kentucky,US-KY,US
+Louisiana,US-LA,US
+Maine,US-ME,US
+Manitoba,CA-MB,CA
+Marshall Islands,US-MH,US
+Maryland,US-MD,US
+Massachusetts,US-MA,US
+Michigan,US-MI,US
+Minnesota,US-MN,US
+Mississippi,US-MS,US
+Missouri,US-MO,US
+Montana,US-MT,US
+Nebraska,US-NE,US
+Nevada,US-NV,US
+New Brunswick,CA-NB,CA
+New Hampshire,US-NH,US
+New Jersey,US-NJ,US
+New Mexico,US-NM,US
+New York,US-NY,US
+Newfoundland and Labrador,CA-NL,CA
+North Carolina,US-NC,US
+North Dakota,US-ND,US
+Northern Mariana Islands,US-MP,US
+Northwest Territories,CA-NT,CA
+Nova Scotia,CA-NS,CA
+Nunavut,CA-NU,CA
+Ohio,US-OH,US
+Oklahoma,US-OK,US
+Ontario,CA-ON,CA
+Oregon,US-OR,US
+Palau,US-PW,US
+Pennsylvania,US-PA,US
+Prince Edward Island,CA-PE,CA
+Puerto Rico,US-PR,US
+Quebec,CA-QC,CA
+Rhode Island,US-RI,US
+Saskatchewan,CA-SK,CA
+South Carolina,US-SC,US
+South Dakota,US-SD,US
+Tennessee,US-TN,US
+Texas,US-TX,US
+Utah,US-UT,US
+Vermont,US-VT,US
+Virgin Islands,US-VI,US
+Virginia,US-VA,US
+Washington,US-WA,US
+West Virginia,US-WV,US
+Wisconsin,US-WI,US
+Wyoming,US-WY,US
+Yukon Territory,CA-YT,CA
