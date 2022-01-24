@@ -1,4 +1,4 @@
-name,slug,is_nsfw
+name,id,is_nsfw
 Auto,auto,false
 Animation,animation,false
 Business,business,false
