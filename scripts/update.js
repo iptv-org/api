@@ -18,6 +18,6 @@ glob(`${DATABASE_DIR}/*.csv`, async function (err, files) {
 		const outputFile = `${OUTPUT_DIR}/${inputFilename}.json`
 
 		const json = await csv.load(inputFile)
-		fs.writeFileSync(path.resolve(outputFile), JSON.stringify(json, null, 2))
+		fs.writeFileSync(path.resolve(outputFile), JSON.stringify(json))
 	}
 })
