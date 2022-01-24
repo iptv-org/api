@@ -2050,7 +2050,7 @@ BBC Knowledge Australia,BBCKnowledgeAustralia.uk,UK,eng,c/UK,,
 BBC Lifestyle Asia,BBCLifestyleAsia.uk,UK,eng,c/UK,,https://cms.dmpcdn.com/livetv/2019/01/24/c187dafd-24b4-4a9a-bb35-9ddd0f96f4f9.png
 BBC Lifestyle Polska,BBCLifestylePolska.uk,UK,eng,c/UK,,https://ocdn.eu/ptv2-images-transforms/1/zqjkr9sb2dvLW1pZ3JhdGVkL2JiYy1saWZlc3R5bGUucG5nkpUCZADCw5UCACjCww
 BBC Lifestyle South Africa,BBCLifestyleSouthAfrica.uk,UK,eng,c/UK,,https://cdn.dstv.com/www.dstv.com/dstvchannels/NowLogos/BBC_Lifestyle_small.png
-BBC News,BBCNews.uk,UK,eng,r/AFR;r/AMER;r/APAC;r/ARAB;r/ASIA;r/CARIB;r/CAS;r/CIS;r/EMEA;r/EUR;r/HISPAM;r/INT;r/LAC;r/LATAM;r/MAGHREB;r/MENA;r/MIDEAST;r/NAM;r/NORAM;r/NORD;r/OCE;r/SAS;r/SSA;r/WAFR,news,https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/bbc-news-uk.png
+BBC News,BBCNews.uk,UK,eng,r/INT,news,https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/bbc-news-uk.png
 BBC News Arabic,BBCNewsArabic.uk,UK,eng,c/UK,,https://cdn.tvpassport.com/image/station/100x100/bbc-arabic.png
 BBC One,BBCOne.uk,UK,eng,c/UK,,https://otv-us-web.s3-us-west-2.amazonaws.com/logos/guide/2/Open/92x36_352/Source/28209/bbconehdtv.png
 BBC One Channel Islands,BBCOneChannelIslands.uk,UK,eng,c/UK,,
@@ -2084,7 +2084,7 @@ BBC Two Wales,BBCTwoWales.uk,UK,eng,c/UK,,
 BBC UKTV Australia,BBCUKTVAustralia.uk,UK,eng,c/UK,,
 BBC UKTV Australia +2,BBCUKTVAustraliaPlus2.uk,UK,eng,c/UK,,
 BBC UKTV New Zealand,BBCUKTVNewZealand.uk,UK,eng,c/UK,,
-BBC World News,BBCWorldNews.uk,UK,eng,r/AFR;r/AMER;r/APAC;r/ARAB;r/ASIA;r/CARIB;r/CAS;r/CIS;r/EMEA;r/EUR;r/HISPAM;r/INT;r/LAC;r/LATAM;r/MAGHREB;r/MENA;r/MIDEAST;r/NAM;r/NORAM;r/NORD;r/OCE;r/SAS;r/SSA;r/WAFR,news,https://i.imgur.com/Nx0BRdV.png
+BBC World News,BBCWorldNews.uk,UK,eng,r/INT,news,https://i.imgur.com/Nx0BRdV.png
 BBC World News Africa,BBCWorldNewsAfrica.uk,UK,eng,c/UK,,https://service.canal-overseas.com/image-api/v1/image/c7bdac1b1c5edb66a5823bda068d4060
 BBC World News Americas,BBCWorldNewsAmericas.uk,UK,eng,c/UK,,https://cdn.mitvstatic.com/channels/br_bbc-news_m.png
 BBC World News Asia Pacific,BBCWorldNewsAsiaPacific.uk,UK,eng,c/UK,,https://www.mncvision.id/userfiles/image/channel/channel_332.png
@@ -4563,7 +4563,6 @@ Cartoon Network Argentina,CartoonNetworkArgentina.us,US,eng,c/US,,https://cdn.mi
 Cartoon Network Asia,CartoonNetworkAsia.us,US,eng,c/US,,https://cms.dmpcdn.com/livetv/2017/10/18/01393493-1e29-4eb5-869b-1bd3e60b7b76.png
 Cartoon Network Australia,CartoonNetworkAustralia.us,US,eng,c/US,,
 Cartoon Network Brasil,CartoonNetworkBrasil.br,BR,por,c/BR,,https://cdn.mitvstatic.com/channels/br_cartoon_m.png
-Cartoon Network Brasil,CartoonNetworkBrasil.us,US,eng,c/US,,
 Cartoon Network Bulgaria,CartoonNetworkBulgaria.us,US,eng,c/US,,https://i.dir.bg/tv/imgs/ch_logos/2011/12/21/te_170854.jpg
 Cartoon Network Canada,CartoonNetworkCanada.us,US,eng,c/US,,https://cdn.tvpassport.com/image/station/100x100/cartoonnetwork.png
 Cartoon Network Central & Eastern Europe,CartoonNetworkCentralEasternEurope.us,US,eng,c/US,,https://tv2go.t-2.net/static/media/img/channels/dark/ios/small/retina/145760.png
@@ -6329,7 +6328,7 @@ DTour West,DTourWest.ca,CA,eng,c/CA,,https://cdn.tvpassport.com/image/station/10
 DW Arabia,DWArabia.de,DE,deu,c/DE,,
 DW Deutsch,DWDeutsch.de,DE,deu,c/DE,news,https://rndcdn.dstv.com/dstvcms/2017/11/17/dstv_Deutshe_Welle_4-3_lightbackground_001_xlrg.png
 DW Deutsch+,DWDeutschPlus.de,DE,deu,c/DE,news,https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/deutschewelle.png
-DW English,DWEnglish.de,DE,eng,r/AFR;r/AMER;r/APAC;r/ARAB;r/ASIA;r/CARIB;r/CAS;r/CIS;r/EMEA;r/EUR;r/HISPAM;r/INT;r/LAC;r/LATAM;r/MAGHREB;r/MENA;r/MIDEAST;r/NAM;r/NORAM;r/NORD;r/OCE;r/SAS;r/SSA;r/WAFR,news,https://i.imgur.com/xnv0Pgm.jpg
+DW English,DWEnglish.de,DE,eng,r/INT,news,https://i.imgur.com/xnv0Pgm.jpg
 "DW English (KBDI-DT3) Denver, CO",KBDITV3.us,US,eng,d/US-CO,local,https://cdn.tvpassport.com/image/station/100x100/dw.png
 "DW English (KBID-DT2) Fresno, CA",KBIDLP2.us,US,eng,d/US-CA,local,https://cdn.tvpassport.com/image/station/100x100/dw.png
 "DW English (KPJK-DT4) San Mateo, CA",KPJKTV4.us,US,eng,d/US-CA,local,https://cdn.tvpassport.com/image/station/100x100/dw.png
@@ -7711,7 +7710,7 @@ EuroNews Serbia,EuroNewsSerbia.fr,FR,fra,c/FR,,https://mts.rs/oec/images/tv_chan
 EuroStar,EuroStar.tr,TR,tur,c/TR,,https://services.sg101.prd.sctv.ch/content/images/tv/channel/162_image_7_w116.webp
 Eurochannel,Eurochannel.us,US,eng,c/US,,https://www.programme-tv.net/imgre/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2F34df6f95d8064751.2Epng/80x80/quality/80/eurochannel.png
 Eurofilm,Eurofilm.al,AL,sqi,c/AL,,
-Euronews English,EuronewsEnglish.fr,FR,eng,r/AFR;r/AMER;r/APAC;r/ARAB;r/ASIA;r/CARIB;r/CAS;r/CIS;r/EMEA;r/EUR;r/HISPAM;r/INT;r/LAC;r/LATAM;r/MAGHREB;r/MENA;r/MIDEAST;r/NAM;r/NORAM;r/NORD;r/OCE;r/SAS;r/SSA;r/WAFR,news,https://i.postimg.cc/X7YYFZR2/euronews.png
+Euronews English,EuronewsEnglish.fr,FR,eng,r/INT,news,https://i.postimg.cc/X7YYFZR2/euronews.png
 Euronews Français,EuronewsFrancais.fr,FR,fra,c/FR,news,https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Euronews_2016_logo.svg/1000px-Euronews_2016_logo.svg.png
 Europa Europa,EuropaEuropa.uk,UK,eng,c/UK,,https://cdn.mitvstatic.com/channels/ar_europa-europa_m.png
 Europa Plus TV,EuropaPlusTV.ru,RU,rus,c/RU,,https://avatars.mds.yandex.net/get-tv-shows/70241/2a0000015185959bff1fee64a0cb8a30bd7c/orig
@@ -8620,7 +8619,7 @@ France 2,France2.fr,FR,fra,c/FR,general,https://i.postimg.cc/SKxgxTLz/fr2.png
 "France 24 (WYBE-DT3) Philadelphia, PA",WYBE3.us,US,eng,d/US-PA,local,https://cdn.tvpassport.com/image/station/100x100/france24.png
 "France 24 (WYBN-LD4) Albany, NY",WYBNLD4.us,US,eng,d/US-NY,local,https://cdn.tvpassport.com/image/station/100x100/france24.png
 France 24 Arabic,France24Arabic.fr,FR,ara,r/ARAB;r/MAGHREB,news,https://i.imgur.com/61MSiq9.png
-France 24 English,France24English.fr,FR,eng,r/AFR;r/AMER;r/APAC;r/ARAB;r/ASIA;r/CARIB;r/CAS;r/CIS;r/EMEA;r/EUR;r/HISPAM;r/INT;r/LAC;r/LATAM;r/MAGHREB;r/MENA;r/MIDEAST;r/NAM;r/NORAM;r/NORD;r/OCE;r/SAS;r/SSA;r/WAFR,news,https://upload.wikimedia.org/wikipedia/commons/8/8a/France24.png
+France 24 English,France24English.fr,FR,eng,r/INT,news,https://upload.wikimedia.org/wikipedia/commons/8/8a/France24.png
 France 24 Español,France24Espanol.fr,FR,spa,r/HISPAM,news,https://upload.wikimedia.org/wikipedia/commons/8/8a/France24.png
 France 24 Français,France24Francais.fr,FR,fra,c/FR,news,https://i.imgur.com/61MSiq9.png
 France 3,France3.fr,FR,fra,c/FR,general,https://i.postimg.cc/JzmT94Gx/fr3.png
@@ -16831,7 +16830,7 @@ Peace TV,PeaceTV.th,TH,tha,c/TH,,
 Peace TV Bangla,PeaceTVBangla.ae,AE,ben,c/BD;c/IN,religious,https://github.com/fawazahmed0/tiger/raw/master/peace/bangla.jpg
 Peace TV Chinese,PeaceTVChinese.ae,AE,zho,c/CN,religious,https://github.com/fawazahmed0/tiger/raw/master/peace/chinese.jpg
 Peace TV English,PeaceTV.ae,AE,ara,c/AE,,https://cdn.tvpassport.com/image/station/100x100/peacetv.png
-Peace TV English,PeaceTVEnglish.ae,AE,eng,r/AFR;r/AMER;r/APAC;r/ARAB;r/ASIA;r/CARIB;r/CAS;r/CIS;r/EMEA;r/EUR;r/HISPAM;r/INT;r/LAC;r/LATAM;r/MAGHREB;r/MENA;r/MIDEAST;r/NAM;r/NORAM;r/NORD;r/OCE;r/SAS;r/SSA;r/WAFR,religious,https://github.com/fawazahmed0/tiger/raw/master/peace/english.jpg
+Peace TV English,PeaceTVEnglish.ae,AE,eng,r/INT,religious,https://github.com/fawazahmed0/tiger/raw/master/peace/english.jpg
 Peace TV Middle East,PeaceTVMiddleEast.ae,AE,ara,c/AE,,
 Peace TV Urdu,PeaceTVUrdu.ae,AE,urd,c/PK;c/IN,religious,https://github.com/fawazahmed0/tiger/raw/master/peace/urdu.jpg
 Peace of Mind TV,PeaceofMindTV.in,IN,hin,c/IN,,http://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/GvoGmXGM.png
@@ -17684,10 +17683,10 @@ RT,RT.in,IN,hin,c/IN,,
 RT America,RTAmerica.ru,RU,eng,c/US,news,https://i.imgur.com/tyXIHlj.png
 RT Arabic,RTArabic.ru,RU,ara,r/ARAB;r/MAGHREB,news,https://content.osn.com/logo/channel/cropped/RUS.png
 RT Doc,RTDoc.ru,RU,rus,c/RU,documentary,https://i.imgur.com/C6fylkt.png
-RT Documentary,RTDocumentary.ru,RU,eng,r/AFR;r/AMER;r/APAC;r/ARAB;r/ASIA;r/CARIB;r/CAS;r/CIS;r/EMEA;r/EUR;r/HISPAM;r/INT;r/LAC;r/LATAM;r/MAGHREB;r/MENA;r/MIDEAST;r/NAM;r/NORAM;r/NORD;r/OCE;r/SAS;r/SSA;r/WAFR,documentary,https://i.imgur.com/XJGki3v.png
+RT Documentary,RTDocumentary.ru,RU,eng,r/INT,documentary,https://i.imgur.com/XJGki3v.png
 RT Español,RTEspanol.ru,RU,rus,c/RU,,https://cdn.mitvstatic.com/channels/ar_russia-today-hd_m.png
 RT France,RTFrance.ru,RU,fra,c/FR,news,https://i.imgur.com/gVedXRh.png
-RT News,RTNews.ru,RU,eng,r/AFR;r/AMER;r/APAC;r/ARAB;r/ASIA;r/CARIB;r/CAS;r/CIS;r/EMEA;r/EUR;r/HISPAM;r/INT;r/LAC;r/LATAM;r/MAGHREB;r/MENA;r/MIDEAST;r/NAM;r/NORAM;r/NORD;r/OCE;r/SAS;r/SSA;r/WAFR,news,https://i.imgur.com/tyXIHlj.png
+RT News,RTNews.ru,RU,eng,r/INT,news,https://i.imgur.com/tyXIHlj.png
 RT UK,RTUK.ru,RU,eng,c/UK,news,https://i.imgur.com/zdTA0ha.png
 RTA,RTA.af,AF,pus,c/AF,,
 RTA,RTA.mg,MG,fra,c/MG,,https://service.canal-overseas.com/image-api/v1/image/89510e017bdee77c740af69748b0b4a5
@@ -18076,7 +18075,7 @@ Record TV Américas,RecordTVAmericas.br,BR,por,c/BR,,https://comteco.com.bo/img/
 Record TV Europa,RecordTVEuropa.br,BR,por,c/BR,,https://ocdn.eu/ptv2-images-transforms/1/8jpkrtsb2dvLW1pZ3JhdGVkL3JlY29yZC10di5wbmeSlQJkAMLDlQIAKMLD
 Record TV África,RecordTVAfrica.br,BR,por,c/BR,,
 Red AD Venir Internacional,RedADVenirInternacional.bo,BO,spa,c/BO,,
-Red Bull TV,RedBullTV.at,AT,eng,r/AFR;r/AMER;r/APAC;r/ARAB;r/ASIA;r/CARIB;r/CAS;r/CIS;r/EMEA;r/EUR;r/HISPAM;r/INT;r/LAC;r/LATAM;r/MAGHREB;r/MENA;r/MIDEAST;r/NAM;r/NORAM;r/NORD;r/OCE;r/SAS;r/SSA;r/WAFR,sports,https://i.imgur.com/7NeBmWX.jpg
+Red Bull TV,RedBullTV.at,AT,eng,r/INT,sports,https://i.imgur.com/7NeBmWX.jpg
 Red Carpet,RedCarpet.pl,PL,pol,c/PL,,https://www.sms.cz/kategorie/televize/bmp/loga/velka/redcarpet.png
 Red Cherry,RedCherry.jp,JP,jpn,c/JP,,https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65534-291-400x400.png
 Red Hot TV,RedHotTV.ca,CA,eng,c/CA,,https://cdn.tvpassport.com/image/station/100x100/redhottv.png
@@ -21075,7 +21074,7 @@ TRT Spor 2,TRTSpor2.tr,TR,tur,c/TR,,
 TRT Spor Yildiz,TRTSporYildiz.tr,TR,tur,c/TR,,http://contentlibrary.digiturk.com.tr/Channel/533/Image/trt_spor_yildiz_72x44.png
 TRT Türk,TRTTurk.tr,TR,tur,c/TR,,https://services.sg101.prd.sctv.ch/content/images/tv/channel/620_image_7_w116.webp
 TRT Türk +8,TRTTurkPlus8.tr,TR,tur,c/TR,,
-TRT World,TRTWorld.tr,TR,eng,r/AFR;r/AMER;r/APAC;r/ARAB;r/ASIA;r/CARIB;r/CAS;r/CIS;r/EMEA;r/EUR;r/HISPAM;r/INT;r/LAC;r/LATAM;r/MAGHREB;r/MENA;r/MIDEAST;r/NAM;r/NORAM;r/NORD;r/OCE;r/SAS;r/SSA;r/WAFR,news,https://i.ibb.co/phw4pjP/mjTjJ1N.png
+TRT World,TRTWorld.tr,TR,eng,r/INT,news,https://i.ibb.co/phw4pjP/mjTjJ1N.png
 TRT Çocuk,TRTCocuk.tr,TR,tur,c/TR,kids,https://i.ibb.co/c1zC46V/idYZDje.jpg
 TRT Çocuk +8,TRTCocukPlus8.tr,TR,tur,c/TR,,
 TRV Muji,TRVMuji.ru,RU,rus,c/RU,,
@@ -23760,7 +23759,7 @@ VisionCruise TV,VisionCruiseTV.uk,UK,eng,c/UK,,
 VisionTV,VisionTV.ca,CA,eng,c/CA,,https://cdn.tvpassport.com/image/station/100x100/vision.png
 VisionTV East,VisionTVEast.ca,CA,eng,c/CA,,https://cdn.tvpassport.com/image/station/100x100/vision.png
 VisionTV Pacific,VisionTVPacific.ca,CA,eng,c/CA,,https://cdn.tvpassport.com/image/station/100x100/vision.png
-Visit-X TV,VisitXTV.nl,NL,nld,r/AFR;r/AMER;r/APAC;r/ARAB;r/ASIA;r/CARIB;r/CAS;r/CIS;r/EMEA;r/EUR;r/HISPAM;r/INT;r/LAC;r/LATAM;r/MAGHREB;r/MENA;r/MIDEAST;r/NAM;r/NORAM;r/NORD;r/OCE;r/SAS;r/SSA;r/WAFR,xxx,https://i.imgur.com/RJ9wbNF.jpg
+Visit-X TV,VisitXTV.nl,NL,nld,r/INT,xxx,https://i.imgur.com/RJ9wbNF.jpg
 Vissa,Vissa.in,IN,hin,c/IN,,
 Vitel,Vitel.si,SI,slv,c/SI,,https://tv2go.t-2.net/static/media/img/channels/dark/ios/small/retina/1339658.png
 Vitrina TV,VitrinaTV.ru,RU,rus,c/RU,,
