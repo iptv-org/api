@@ -52,8 +52,8 @@ https://iptv-org.github.io/api/categories.json
 [
   ...
   {
-    "name": "Documentary",
-    "id": "documentary"
+    "id": "documentary",
+    "name": "Documentary"
   },
   ...
 ]
@@ -61,8 +61,8 @@ https://iptv-org.github.io/api/categories.json
 
 | Field | Description          |
 | ----- | -------------------- |
-| name  | Name of the category |
 | id    | Category ID          |
+| name  | Name of the category |
 
 ### Countries
 
