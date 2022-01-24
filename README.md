@@ -67,10 +67,10 @@ https://iptv-org.github.io/api/countries.json
 ]
 ```
 
-### Divisions
+### Subdivisions
 
 ```
-https://iptv-org.github.io/api/divisions.json
+https://iptv-org.github.io/api/subdivisions.json
 ```
 
 ```
