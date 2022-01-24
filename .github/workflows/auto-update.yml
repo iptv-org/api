@@ -1,9 +1,8 @@
 name: auto-update
 on:
   workflow_dispatch:
-  on:
-    release:
-      types: [published]
+  release:
+    types: [published]
 jobs:
   update:
     runs-on: ubuntu-latest
