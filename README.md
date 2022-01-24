@@ -37,8 +37,8 @@ https://iptv-org.github.io/api/channels.json
 | name           | Full name of the channel                                                                                       |
 | country        | Broadcast source country ([ISO 3166-1 alpha-2](https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2) code)         |
 | broadcast_area | List of codes describing the broadcasting area (`r/<region_code>`, `c/<country_code>`, `s/<subdivision_code>`) |
-| languages      | List of [languages](#languages) broadcast                                                                      |
-| categories     | List of [categories](#categories) to which this channel belongs                                                |
+| languages      | List of [languages](database/languages.csv) broadcast                                                          |
+| categories     | List of [categories](database/categories.csv) to which this channel belongs                                    |
 | is_nsfw        | Indicates whether the channel broadcasts adult content                                                         |
 | logo           | Logo URL                                                                                                       |
 
@@ -160,11 +160,11 @@ https://iptv-org.github.io/api/regions.json
 ]
 ```
 
-| Field     | Description                                   |
-| --------- | --------------------------------------------- |
-| name      | Region name                                   |
-| code      | Code of the region                            |
-| countries | List of [countries](#countries) in the region |
+| Field     | Description                                               |
+| --------- | --------------------------------------------------------- |
+| name      | Region name                                               |
+| code      | Code of the region                                        |
+| countries | List of [countries](database/countries.csv) in the region |
 
 ## Contribution
 
