@@ -15,7 +15,9 @@ const csv2jsonOptions = {
 		categories: listParser,
 		broadcast_area: listParser,
 		is_nsfw: boolParser,
-		logo: nullable
+		logo: nullable,
+		subdivision: nullable,
+		city: nullable
 	}
 }
 

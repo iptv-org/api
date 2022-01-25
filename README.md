@@ -15,6 +15,8 @@ https://iptv-org.github.io/api/channels.json
     "id": "CNN.us",
     "name": "CNN",
     "country": "US",
+    "subdivision": null,
+    "city": null,
     "broadcast_area": [
       "c/US"
     ],
@@ -31,16 +33,18 @@ https://iptv-org.github.io/api/channels.json
 ]
 ```
 
-| Field          | Description                                                                                                    |
-| -------------- | -------------------------------------------------------------------------------------------------------------- |
-| id             | Unique channel ID                                                                                              |
-| name           | Full name of the channel                                                                                       |
-| country        | Broadcast source country ([ISO 3166-1 alpha-2](https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2) code)         |
-| broadcast_area | List of codes describing the broadcasting area (`r/<region_code>`, `c/<country_code>`, `s/<subdivision_code>`) |
-| languages      | List of [languages](database/languages.csv) broadcast                                                          |
-| categories     | List of [categories](database/categories.csv) to which this channel belongs                                    |
-| is_nsfw        | Indicates whether the channel broadcasts adult content                                                         |
-| logo           | Logo URL                                                                                                       |
+| Field          | Description                                                                                                                                          |
+| -------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
+| id             | Unique channel ID                                                                                                                                    |
+| name           | Full name of the channel                                                                                                                             |
+| country        | Country code from which the broadcast is transmitted ([ISO 3166-1 alpha-2](https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2))                        |
+| subdivision    | Code of the subdivision (e.g., provinces or states) from which the broadcast is transmitted ([ISO 3166-2](https://en.wikipedia.org/wiki/ISO_3166-2)) |
+| city           | Name of the city from which the broadcast is transmitted                                                                                             |
+| broadcast_area | List of codes describing the broadcasting area (`r/<region_code>`, `c/<country_code>`, `s/<subdivision_code>`)                                       |
+| languages      | List of [languages](database/languages.csv) broadcast                                                                                                |
+| categories     | List of [categories](database/categories.csv) to which this channel belongs                                                                          |
+| is_nsfw        | Indicates whether the channel broadcasts adult content                                                                                               |
+| logo           | Logo URL                                                                                                                                             |
 
 ### Categories
 
@@ -112,7 +116,7 @@ https://iptv-org.github.io/api/subdivisions.json
 | ------- | ------------------------------------------------------------------------------------------ |
 | country | [ISO 3166-1 alpha-2](https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2) code of the country |
 | name    | Subdivision name                                                                           |
-| code    | [ISO 3166-2](https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2) code of the subdivision     |
+| code    | [ISO 3166-2](https://en.wikipedia.org/wiki/ISO_3166-2) code of the subdivision             |
 
 ### Languages
 
