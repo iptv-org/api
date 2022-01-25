@@ -12,6 +12,7 @@
     "glob": "^7.2.0",
     "json2csv": "^6.0.0-alpha.0",
     "mz": "^2.7.0",
-    "slugify": "^1.6.5"
+    "slugify": "^1.6.5",
+    "transliteration": "^2.2.0"
   }
 }
