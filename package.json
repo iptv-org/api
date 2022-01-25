@@ -7,6 +7,7 @@
   "author": "Arhey",
   "dependencies": {
     "axios": "^0.25.0",
+    "cheerio": "^1.0.0-rc.10",
     "csvtojson": "^2.0.10",
     "glob": "^7.2.0",
     "json2csv": "^6.0.0-alpha.0",
