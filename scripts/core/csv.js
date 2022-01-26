@@ -40,6 +40,12 @@ csv.save = async function (filepath, data) {
 	return fs.writeFile(filepath, string)
 }
 
+csv.saveSync = function (filepath, data) {
+	const string = json2csv.parse(data)
+
+	return fs.writeFileSync(filepath, string)
+}
+
 module.exports = csv
 
 function flattenArray(item) {
