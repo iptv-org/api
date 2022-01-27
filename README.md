@@ -14,6 +14,7 @@ https://iptv-org.github.io/api/channels.json
   {
     "id": "CNN.us",
     "name": "CNN",
+    "network": "CNN",
     "country": "US",
     "subdivision": null,
     "city": null,
@@ -37,6 +38,7 @@ https://iptv-org.github.io/api/channels.json
 | -------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
 | id             | Unique channel ID                                                                                                                                    |
 | name           | Full name of the channel                                                                                                                             |
+| network        | Name of the network operating the channel                                                                                                            |
 | country        | Country code from which the broadcast is transmitted ([ISO 3166-1 alpha-2](https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2))                        |
 | subdivision    | Code of the subdivision (e.g., provinces or states) from which the broadcast is transmitted ([ISO 3166-2](https://en.wikipedia.org/wiki/ISO_3166-2)) |
 | city           | Name of the city from which the broadcast is transmitted                                                                                             |

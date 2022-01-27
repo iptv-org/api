@@ -17,7 +17,8 @@ const csv2jsonOptions = {
 		is_nsfw: boolParser,
 		logo: nullable,
 		subdivision: nullable,
-		city: nullable
+		city: nullable,
+		network: nullable
 	}
 }
 
