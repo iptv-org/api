@@ -98,7 +98,7 @@ id,name,network,country,subdivision,city,broadcast_area,languages,categories,is_
 3TV.bf,3 TV,,BF,,,c/BF,fra,,false,https://i.imgur.com/oYctB4J.png
 4050Channel.th,4050 Channel,,TH,,,c/TH,tha,,false,https://www.lyngsat.com/logo/tv/num/4050_channel_th.png
 48NewsUK.pk,48 News UK,,PK,,,c/PK,eng,,false,
-4E.gr,4E,,GR,,,c/GR,ell,,false,https://www.cosmote.gr/portal/image/journal/article?img_id=56014332&amp;t=1544180299920
+4E.gr,4E,,GR,,,c/GR,ell,,false,https://www.cosmote.gr/portal/image/journal/article?img_id=56014332&t=1544180299920
 4Edu.mm,4 Edu,,MM,,,c/MM,mya,,false,https://www.lyngsat.com/logo/tv/num/4_tv_mm_edu.png
 4EylulTV.tr,4 Eylül TV,,TR,,,c/TR,tur,,false,https://www.lyngsat.com/logo/tv/num/4-eylul-tv-tr.png
 4FunDance.pl,4 Fun Dance,,PL,,,c/PL,pol,,false,https://ocdn.eu/ptv2-images-transforms/1/Y8Vkrxsb2dvLW1pZ3JhdGVkLzRmdW4tZGFuY2UucG5nkpUCZADCw5UCACjCww
@@ -459,7 +459,7 @@ AhsanTV.id,Ahsan TV,,ID,,,c/ID,ind,,false,https://www.lyngsat.com/logo/tv/aa/ahs
 AhsasTV.in,Ahsas TV,,IN,,,c/IN,hin,,false,https://www.lyngsat.com/logo/tv/aa/ahsas_tv_in.png
 AhwaznaSatelliteChannel.dk,Ahwazna Satellite Channel,,DK,,,c/DK,dan,,false,
 AICTV.ye,AIC TV,,YE,,,c/YE,ara,,false,https://www.lyngsat.com/logo/tv/aa/aic-tv-ye.png
-AigaioTV.gr,Aigaio TV,,GR,,,c/GR,ell,,false,https://www.cosmote.gr/portal/image/journal/article?img_id=56014248&amp;t=1544180256224
+AigaioTV.gr,Aigaio TV,,GR,,,c/GR,ell,,false,https://www.cosmote.gr/portal/image/journal/article?img_id=56014248&t=1544180256224
 Ainos.id,Ainos,,ID,,,c/ID,ind,,false,https://www.lyngsat.com/logo/tv/aa/ainos-id.png
 Air1TV.mn,Air 1 TV,,MN,,,c/MN,mon,,false,https://www.lyngsat.com/logo/tv/aa/air-1-tv-mn.png
 AirItalia.it,Air Italia,,IT,,,c/IT,ita,,false,https://www.lyngsat.com/logo/tv/aa/air-italia-it.png
@@ -2378,7 +2378,7 @@ CartoonNetworkJapan.us,Cartoon Network Japan,,US,,,c/JP,eng,,false,https://tvgui
 CartoonNetworkKorea.us,Cartoon Network Korea,,US,,,c/KR,eng,,false,https://www.lyngsat.com/logo/tv/cc/cartoon-network-us.svg
 CartoonNetworkLatinAmerica.us,Cartoon Network Latin America,,US,,,r/LATAM,eng,,false,https://comteco.com.bo/img/upload/canales/Y1NVpq.png
 CartoonNetworkMexico.us,Cartoon Network México,,US,,,c/MX,eng,,false,https://imagenes.gatotv.com/logos/canales/oscuros/cartoon_network_latinoamerica-mediano.png
-CartoonNetworkMiddleEastAfrica.us,Cartoon Network Middle East &amp; Africa,,US,,,c/US,eng,,false,https://cdn.dstv.com/www.dstv.com/dstvchannels/NowLogos/CartoonNertwork_small.png
+CartoonNetworkMiddleEastAfrica.us,Cartoon Network Middle East & Africa,,US,,,c/US,eng,,false,https://cdn.dstv.com/www.dstv.com/dstvchannels/NowLogos/CartoonNertwork_small.png
 CartoonNetworkNederland.us,Cartoon Network Nederland,,US,,,c/US,eng,,false,https://live-delta.ottnow.stoneroos.com/image/logo/tv.delta.nl/assets/graphics/thumbnails/channel/delta/cartoonnetwork.svg
 CartoonNetworkNewZealand.us,Cartoon Network New Zealand,,US,,,c/US,eng,,false,https://www.lyngsat.com/logo/tv/cc/cartoon-network-us.svg
 CartoonNetworkNordic.us,Cartoon Network Nordic,,US,,,c/US,eng,,false,https://images.ctfassets.net/989y85n5kcxs/4JZepUS4IMEseiceq6um6e/fa10fe4d5e983399c661df3e07736dcc/cartoon_network_0.png
@@ -3762,7 +3762,7 @@ DiscoveryChannelItaliaPlus1.us,Discovery Channel Italia +1,,US,,,c/US,eng,,false
 DiscoveryChannelJapan.us,Discovery Channel Japan,,US,,,c/US,eng,,false,https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65534-121-400x400.png
 DiscoveryChannelLatinoamerica.us,Discovery Channel Latinoamérica,,US,,,c/US,eng,,false,http://cdn-std-1.sibasa.netdna-cdn.com/co/4b1b9d6293a4a26b002be3951242466c.jpg
 DiscoveryChannelMexico.us,Discovery Channel México,,US,,,c/US,eng,,false,https://cdn.mitvstatic.com/channels/mx_discovery-channel_m.png
-DiscoveryChannelMiddleEastAfrica.us,Discovery Channel Middle East &amp; Africa,,US,,,c/US,eng,,false,https://rndcdn.dstv.com/dstvcms/2017/11/17/dstv_Discovery121_4-3_lightbackground_xlrg.png
+DiscoveryChannelMiddleEastAfrica.us,Discovery Channel Middle East & Africa,,US,,,c/US,eng,,false,https://rndcdn.dstv.com/dstvcms/2017/11/17/dstv_Discovery121_4-3_lightbackground_xlrg.png
 DiscoveryChannelNederland.us,Discovery Channel Nederland,,US,,,c/US,eng,,false,https://live-delta.ottnow.stoneroos.com/image/logo/tv.delta.nl/assets/graphics/thumbnails/operatorChannel/1/channel_13_1_5dbaadcdec8881.83653111.svg
 DiscoveryChannelNewZealand.us,Discovery Channel New Zealand,,US,,,c/US,eng,,false,https://www.lyngsat.com/logo/tv/dd/discovery-channel-east-us.png
 DiscoveryChannelNorge.us,Discovery Channel Norge,,US,,,c/US,eng,,false,https://images.ctfassets.net/989y85n5kcxs/70nkps7MpCFgwUvMqeLd43/7d26c867fb846f3250c6f9d725cf5fc8/uhd_dc_192x54.png
@@ -4351,7 +4351,7 @@ EmPhi2.id,EmPhi 2,,ID,,,c/ID,ind,,false,https://www.lyngsat.com/logo/tv/ee/emphi
 EmPhi3.id,EmPhi 3,,ID,,,c/ID,ind,,false,https://www.lyngsat.com/logo/tv/ee/emphi-3-id.png
 EmPhi7.id,EmPhi 7,,ID,,,c/ID,ind,,false,https://www.lyngsat.com/logo/tv/ee/emphi-7-id.png
 EMTV.pg,EM TV,,PG,,,c/PG,eng,,false,https://www.lyngsat.com/logo/tv/ee/emtv-pg.png
-EnaChannel.gr,Ena Channel,,GR,,,c/GR,ell,,false,https://www.cosmote.gr/portal/image/journal/article?img_id=56014308&amp;t=1544180286744
+EnaChannel.gr,Ena Channel,,GR,,,c/GR,ell,,false,https://www.cosmote.gr/portal/image/journal/article?img_id=56014308&t=1544180286744
 EncadenaTV.mx,Encadena TV,,MX,,,c/MX,spa,,false,https://www.lyngsat.com/logo/tv/ee/encadena-tv-mx.png
 Encuentro.ar,Encuentro,,AR,,,c/AR,spa,general,false,https://cdn.mitvstatic.com/channels/ar_encuentro_m.png
 EncuentroInternacional.ar,Encuentro Internacional,,AR,,,c/AR,spa,,false,https://www.lyngsat.com/logo/tv/ee/encuentro-ar.png
@@ -4423,9 +4423,9 @@ Erotic7.rs,Erotic 7,,RS,,,c/RS,srp,,false,https://mtel.ba/oec/images/tv_channels
 Erotic8.rs,Erotic 8,,RS,,,c/RS,srp,,false,https://mtel.ba/oec/images/tv_channels/9d2481390875aaa39eaf6a9058b253c6.png
 EroxHD.us,Erox HD,,US,,,c/US,eng,,false,https://tv2go.t-2.net/static/media/img/channels/dark/ios/small/retina/147608.png
 EroxxxHD.us,Eroxxx HD,,US,,,c/US,eng,,false,https://mtel.ba/oec/images/tv_channels/cf3a5224b6bc75e4cf19b950a399968c.png
-ERT1.gr,ERT 1,,GR,,,c/GR,ell,,false,https://www.cosmote.gr/portal/image/journal/article?img_id=96176518&amp;t=1606877903341
-ERT2.gr,ERT 2,,GR,,,c/GR,ell,,false,https://www.cosmote.gr/portal/image/journal/article?img_id=96176530&amp;t=1606877905302
-ERT3.gr,ERT 3,,GR,,,c/GR,ell,,false,https://www.cosmote.gr/portal/image/journal/article?img_id=96176482&amp;t=1606877899957
+ERT1.gr,ERT 1,,GR,,,c/GR,ell,,false,https://www.cosmote.gr/portal/image/journal/article?img_id=96176518&t=1606877903341
+ERT2.gr,ERT 2,,GR,,,c/GR,ell,,false,https://www.cosmote.gr/portal/image/journal/article?img_id=96176530&t=1606877905302
+ERT3.gr,ERT 3,,GR,,,c/GR,ell,,false,https://www.cosmote.gr/portal/image/journal/article?img_id=96176482&t=1606877899957
 Ertis.kz,Ertis,,KZ,,,c/KZ,kaz,,false,https://www.lyngsat.com/logo/tv/ee/ertis-kz.png
 Ertsulovneba.ge,Ertsulovneba,,GE,,,c/GE,kat,,false,https://www.magticom.ge/images/channels/MjAxOS8wNy8wOC9hN2QxM2I0ZC0xNTczLTQxMmEtYjcwMC1lMjE4YmQ4ZTczODfhg5Thg6Dhg5fhg6Hhg6Phg5rhg53hg5Xhg5zhg5Thg5Hhg5AucG5n.jpg
 ERTU1.eg,ERTU 1,,EG,,,c/EG,ara,,false,https://www.lyngsat.com/logo/tv/ee/ertu-1-eg.png
@@ -4437,7 +4437,7 @@ ERTU6AlDelta.eg,ERTU 6 Al Delta,,EG,,,c/EG,ara,,false,https://www.lyngsat.com/lo
 ERTU7AlSaeed.eg,ERTU 7 Al Saeed,,EG,,,c/EG,ara,,false,https://www.lyngsat.com/logo/tv/ee/ertu-7-al-saeed-eg.png
 ERTU8Teba.eg,ERTU 8 Teba,,EG,,,c/EG,ara,,false,https://www.lyngsat.com/logo/tv/ee/ertu-8-teba-eg.png
 ERTV.tr,ERTV,,TR,,,c/TR,tur,,false,https://www.lyngsat.com/logo/tv/ee/ertv_tr.png
-ERTWorld.gr,ERT World,,GR,,,c/GR,ell,,false,https://www.cosmote.gr/portal/image/journal/article?img_id=102515281&amp;t=1612347000625
+ERTWorld.gr,ERT World,,GR,,,c/GR,ell,,false,https://www.cosmote.gr/portal/image/journal/article?img_id=102515281&t=1612347000625
 ERTWorldCanada.gr,ERT World Canada,,GR,,,c/GR,ell,,false,https://www.lyngsat.com/logo/tv/ee/ert-world-gr.png
 EryalTV.uk,Eryal TV,,UK,,,c/UK,eng,,false,
 ES1.fr,ES1,,FR,,,c/FR,fra,,false,https://services.sg101.prd.sctv.ch/content/images/tv/channel/1406_image_7_w116.webp
@@ -11447,7 +11447,7 @@ KYIN4.us,KYIN-DT4,PBS Create,US,US-IA,Mason City,s/US-IA,eng,,false,https://cdn.
 KyivLive.ua,Kyiv Live,,UA,,,c/UA,ukr,,false,
 KyivTV.ua,Kyïv TV,,UA,,,c/UA,ukr,,false,https://www.lyngsat.com/logo/tv/kk/kyiv-tv-ua.png
 KykNet.za,KykNet,,ZA,,,c/ZA,afr,,false,https://rndcdn.dstv.com/dstvcms/2017/03/30/DStv_channel_new4_3logo_kykNET_Light_and__Dark_002_xlrg.png
-KykNetKie.za,KykNet &amp; Kie,,ZA,,,c/ZA,afr,,false,https://rndcdn.dstv.com/dstvcms/2017/03/30/DStv_channel_new4_3logo_kyk_Kie_Light_and__Dark_001_xlrg.png
+KykNetKie.za,KykNet & Kie,,ZA,,,c/ZA,afr,,false,https://rndcdn.dstv.com/dstvcms/2017/03/30/DStv_channel_new4_3logo_kyk_Kie_Light_and__Dark_001_xlrg.png
 KykNetLekker.za,KykNet Lekker!,,ZA,,,c/ZA,afr,,false,https://www.lyngsat.com/logo/tv/kk/kyknet-lekker-za.png
 KykNetNou.za,KykNet Nou!,,ZA,,,c/ZA,afr,,false,https://rndcdn.dstv.com/dstvcms/2017/03/30/DStv_channel_new4_3logo_kykNOU_Light_xlrg.png
 KYLEDT2.us,KYLE-DT2,FOX,US,US-TX,Bryan,s/US-TX,eng,,false,https://cdn.tvpassport.com/image/station/100x100/foxcable.png
@@ -13063,7 +13063,7 @@ NDTVGoodTimes.in,NDTV Good Times,,IN,,,c/IN,hin,,false,https://cdn.tvpassport.co
 NDTVIndia.in,NDTV India,,IN,,,c/IN,hin,,false,http://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/tcLeUEuX.png
 NDTVPrime.in,NDTV Prime,,IN,,,c/IN,hin,,false,https://www.lyngsat.com/logo/tv/nn/ndtv_prime.png
 NDTVProfit.in,NDTV Profit,,IN,,,c/IN,eng,business,false,http://bsmedia.business-standard.com/_media/bs/img/article/2017-06/01/full/1496330873-5363.jpg
-NeaTV.gr,Nea TV,,GR,,,c/GR,ell,,false,https://www.cosmote.gr/portal/image/journal/article?img_id=56014344&amp;t=1544180306377
+NeaTV.gr,Nea TV,,GR,,,c/GR,ell,,false,https://www.cosmote.gr/portal/image/journal/article?img_id=56014344&t=1544180306377
 NeelainTV.sd,Neelain TV,,SD,,,c/SD,ara,,false,
 NeepawaAccessTV.ca,Neepawa Access TV,,CA,,,c/CA,eng,,false,https://www.lyngsat.com/logo/tv/nn/neepawa_access_tv_ca.png
 NegaahTV.af,Negaah TV,,AF,,,c/AF,pus,,false,
