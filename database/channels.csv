@@ -6836,11 +6836,11 @@ K28CWD2.us,K28CW-D2,Movies!,US,US-AZ,Flagstaff,s/US-AZ,eng,,false,https://cdn.tv
 K28CWD3.us,K28CW-D3,Buzzr TV,US,US-AZ,Flagsttaff,s/US-AZ,eng,,false,https://cdn.tvpassport.com/image/station/100x100/buzzrtv.png
 K28CWD4.us,K28CW-D4,FOX,US,US-AZ,Flagstaff,s/US-AZ,eng,,false,https://cdn.tvpassport.com/image/station/100x100/foxcable.png
 K28HAD.us,K28HA-D,PBS,US,US-CO,Grand Valley,s/US-CO,eng,,false,https://cdn.tvpassport.com/image/station/100x100/pbs.png
-KASYTV.us,KASY-TV,MyNetworkTV,US,US-NM,Alamogordo,s/US-NM,eng,,false,https://cdn.tvpassport.com/image/station/100x100/mnt.png
-KASYDT2.us,KASY-DT2,Court TV Mystery,US,US-NM,Alamogordo,s/US-NM,eng,,false,https://cdn.tvpassport.com/image/station/100x100/court-tv-mystery.png
-KASYDT3.us,KASY-DT3,GetTV,US,US-NM,Alamogordo,s/US-NM,eng,,false,https://cdn.tvpassport.com/image/station/100x100/gettv.png
-KASYDT4.us,KASY-DT4,Cozi TV,US,US-NM,Alamogordo,s/US-NM,eng,,false,https://cdn.tvpassport.com/image/station/100x100/cozitv.png
-KASYDT5.us,KASY-DT5,Antenna,US,US-NM,Alamogordo,s/US-NM,eng,,false,https://cdn.tvpassport.com/image/station/100x100/antenna-tv.png
+KASYTV.us,KASY-TV,MyNetworkTV,US,US-NM,Albuquerque,s/US-NM,eng,,false,https://cdn.tvpassport.com/image/station/100x100/mnt.png
+KASYDT2.us,KASY-DT2,Court TV Mystery,US,US-NM,Albuqerque,s/US-NM,eng,,false,https://cdn.tvpassport.com/image/station/100x100/court-tv-mystery.png
+KASYDT3.us,KASY-DT3,GetTV,US,US-NM,Albuqerque,s/US-NM,eng,,false,https://cdn.tvpassport.com/image/station/100x100/gettv.png
+KASYDT4.us,KASY-DT4,Cozi TV,US,US-NM,Albuqerque,s/US-NM,eng,,false,https://cdn.tvpassport.com/image/station/100x100/cozitv.png
+KASYDT5.us,KASY-DT5,Antenna,US,US-NM,Albuquerque,s/US-NM,eng,,false,https://cdn.tvpassport.com/image/station/100x100/antenna-tv.png
 K28IFD.us,K28IF-D,TBN,US,US-MN,Willmar,s/US-MN,eng,,false,https://cdn.tvpassport.com/image/station/100x100/tbn.png
 K28IFD2.us,K28IF-D2,Hillsong,US,US-MN,Willmar,s/US-MN,eng,,false,https://cdn.tvpassport.com/image/station/100x100/hillsong.png
 K28IFD3.us,K28IF-D3,PosiTiV,US,US-MN,Willmar,s/US-MN,eng,,false,https://cdn.tvpassport.com/image/station/100x100/positiv.png
@@ -7358,11 +7358,6 @@ KASWTV.us,KASW-TV,CW,US,US-AZ,Phoenix,s/US-AZ,eng,,false,https://cdn.tvpassport.
 KASW2.us,KASW2,HSN,US,US-AZ,Phoenix,s/US-AZ,eng,,false,https://cdn.tvpassport.com/image/station/100x100/homeshop.png
 KASW5.us,KASW5,Grit TV,US,US-AZ,Phoenix,s/US-AZ,eng,,false,https://cdn.tvpassport.com/image/station/100x100/grittv.png
 KASW6.us,KASW6,Court TV Mystery,US,US-AZ,Phoenix,s/US-AZ,eng,,false,https://cdn.tvpassport.com/image/station/100x100/court-tv-mystery.png
-KASYDT2.us,KASY-DT2,Court TV Mystery,US,US-NM,Albuqerque,s/US-NM,eng,,false,https://cdn.tvpassport.com/image/station/100x100/court-tv-mystery.png
-KASYDT3.us,KASY-DT3,GetTV,US,US-NM,Albuqerque,s/US-NM,eng,,false,https://cdn.tvpassport.com/image/station/100x100/gettv.png
-KASYDT4.us,KASY-DT4,Cozi TV,US,US-NM,Albuqerque,s/US-NM,eng,,false,https://cdn.tvpassport.com/image/station/100x100/cozitv.png
-KASYDT5.us,KASY-DT5,Antenna,US,US-NM,Albuquerque,s/US-NM,eng,,false,https://cdn.tvpassport.com/image/station/100x100/antenna-tv.png
-KASYTV.us,KASY-TV,MyNetworkTV,US,US-NM,Albuquerque,s/US-NM,eng,,false,https://cdn.tvpassport.com/image/station/100x100/mnt.png
 KATACD.us,KATA-CD,SSTN,US,US-TX,Dallas,s/US-TX,eng,,false,https://cdn.tvpassport.com/image/station/100x100/sstn.png
 KATACD3.us,KATA-CD3,Peace TV,US,US-TX,Mesquite,s/US-TX,eng,,false,https://cdn.tvpassport.com/image/station/100x100/peacetv.png
 KATACD4.us,KATA-CD4,Mainstreet TV,US,US-TX,Dallas,s/US-TX,eng,,false,https://cdn.tvpassport.com/image/station/100x100/mainstreet-tv.png
