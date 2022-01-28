@@ -2586,7 +2586,6 @@ CFHDDT.ca,CFHD-DT,ICI,CA,CA-QC,Montréal,s/CA-QC,eng,,false,https://cdn.tvpasspo
 CFHOTV.ca,CFHO-TV,Global BC,CA,CA-BC,Houston,s/CA-BC,eng,,false,https://cdn.tvpassport.com/image/station/100x100/global.png
 CFHOTV1.ca,CFHO-TV-1,Global BC,CA,CA-BC,Smithers,s/CA-BC,eng,,false,https://cdn.tvpassport.com/image/station/100x100/global.png
 CFHOTV2.ca,CFHO-TV-2,Global BC,CA,CA-BC,Telkwa,s/CA-BC,eng,,false,https://cdn.tvpassport.com/image/station/100x100/global.png
-CFJCTV.ca,CFJC-TV,,CA,CA-BC,Kamloops,s/CA-BC,eng,,false,https://cdn.tvpassport.com/image/station/100x100/cfjc.png
 CFJCTV.ca,CFJC-TV,,CA,CA-BC,Kamloops,c/CA,eng,,false,https://www.lyngsat.com/logo/tv/cc/cfjc_tv7_kamloops.png
 CFJCTV3.ca,"CFJC-TV-3 Merritt, BC",,CA,CA-BC,,s/CA-BC,eng,,false,https://cdn.tvpassport.com/image/station/100x100/cfjc.png
 CFJCTV4.ca,"CFJC-TV-4 Clinton, BC",,CA,CA-BC,,s/CA-BC,eng,,false,https://cdn.tvpassport.com/image/station/100x100/cfjc.png
@@ -2789,7 +2788,7 @@ ChernomorskayaTV.ua,Chernomorskaya TV,,UA,,,c/UA,ukr,,false,https://www.lyngsat.
 CherryBombHD.jp,Cherry Bomb HD,,JP,,,c/JP,jpn,,false,https://www.lyngsat.com/logo/tv/cc/cherry_bomb_jp.png
 CHETTV.ca,CHET TV,,CA,,,c/CA,eng,,false,https://www.lyngsat.com/logo/tv/cc/chet_tv_ca.png
 CHEX.ca,CHEX,Global,CA,CA-ON,Peterborough,s/CA-ON,eng,,false,https://cdn.tvpassport.com/image/station/100x100/global.png
-CHEX2.ca,CHEX-TV-2,Global,CA,CA-ON,Durham,s/CA-ON,eng,,false,https://cdn.tvpassport.com/image/station/100x100/global.png
+CHEXTV2.ca,CHEX-TV-2,Global,CA,CA-ON,Durham,s/CA-ON,eng,,false,https://cdn.tvpassport.com/image/station/100x100/global.png
 CHFD.ca,CHFD,Global Thunder Bay,CA,CA-ON,Thunder Bay,s/CA-ON,eng,,false,https://cdn.tvpassport.com/image/station/100x100/global.png
 ChicStation.th,Chic Station,,TH,,,c/TH,tha,,false,https://www.lyngsat.com/logo/tv/cc/chic_station_th.png
 ChileVision.cl,ChileVisión,,CL,,,c/CL,spa,general,false,https://i.imgur.com/GAsSUqn.png
@@ -2853,14 +2852,13 @@ CICT.ca,CICT,Global,CA,CA-AB,Calgary,s/CA-AB,eng,,false,https://cdn.tvpassport.c
 Cielo.it,Cielo,,IT,,,c/IT,ita,,false,https://services.sg101.prd.sctv.ch/content/images/tv/channel/96_image_7_w116.webp
 CieloTV.do,Cielo TV,,DO,,,c/DO,spa,,false,https://www.lyngsat.com/logo/tv/cc/cielo-tv-do.png
 CielTV.ci,Ciel TV,,CI,,,c/CI,fra,,false,https://www.lyngsat.com/logo/tv/cc/ciel-tv-ci.png
-CIFGTV.ca,CIFG-TV,Global,CA,CA-BC,Prince George,s/CA-BC,eng,,false,https://cdn.tvpassport.com/image/station/100x100/global.png
 CIFGTV.ca,CIFG-TV,Global BC,CA,CA-BC,Prince George,s/CA-BC,eng,,false,https://cdn.tvpassport.com/image/station/100x100/global.png
 CiftciTV.tr,Çiftçi TV,,TR,,,c/TR,tur,,false,https://izmottvsc23.tvplus.com.tr:33207/CPS/images/universal/film/logo/202003/20200302/20200302114910325fpj_op.png
 Cignal247PinoyPPV.ph,Cignal 24/7 Pinoy PPV,,PH,,,c/PH,eng,,false,https://www.lyngsat.com/logo/tv/cc/cignal-247-pinoy-ppv-ph.png
 CignalPPVHD.ph,Cignal PPV HD,,PH,,,c/PH,eng,,false,https://www.lyngsat.com/logo/tv/cc/cignal-ppv-ph.png
 CignalPPVSD.ph,Cignal PPV SD,,PH,,,c/PH,eng,,false,
 CIHF.ca,CIHF,Global,CA,CA-NS,Dartmouth,s/CA-NS,eng,,false,https://cdn.tvpassport.com/image/station/100x100/globalmaritimes.png
-CIHFDT1.ca,CHNB-DT-1,Global,CA,CA-NB,Fredericton,s/CA-NB,eng,,false,https://cdn.tvpassport.com/image/station/100x100/globalmaritimes.png
+CHNBDT1.ca,CHNB-DT-1,Global,CA,CA-NB,Fredericton,s/CA-NB,eng,,false,https://cdn.tvpassport.com/image/station/100x100/globalmaritimes.png
 CIHFDT11.ca,CIHF-DT-11,Global,CA,CA-NB,Woodstock,s/CA-NB,eng,,false,https://cdn.tvpassport.com/image/station/100x100/globalmaritimes.png
 CIHFDT14.ca,CIHF-DT-14,Global,CA,CA-PE,Charlottetown,s/CA-PE,eng,,false,https://cdn.tvpassport.com/image/station/100x100/globalmaritimes.png
 CIHFDT3.ca,CIHF-DT-3,Global,CA,CA-NB,Moncton,s/CA-NB,eng,,false,https://cdn.tvpassport.com/image/station/100x100/globalmaritimes.png
@@ -3068,7 +3066,6 @@ CKND.ca,CKND,Global,CA,CA-MB,Winnipeg,s/CA-MB,eng,,false,https://cdn.tvpassport.
 CKNDDT2.ca,CKND-DT-2,Global,CA,CA-MB,Minnedosa,s/CA-MB,eng,,false,https://cdn.tvpassport.com/image/station/100x100/global.png
 CKNY.ca,CKNY,CTV,CA,CA-ON,North Bay,s/CA-ON,eng,,false,https://cdn.tvpassport.com/image/station/100x100/ctv-2018.png
 CKNYTV11.ca,CKNY-TV-11,CTV,CA,CA-ON,Huntsville,s/CA-ON,eng,,false,https://cdn.tvpassport.com/image/station/100x100/ctv-2018.png
-CKPGTV.ca,CKPG-TV,,CA,CA-BC,Prince George,s/CA-BC,eng,,false,https://cdn.tvpassport.com/image/station/100x100/ckpg.png
 CKPGTV.ca,CKPG-TV,,CA,CA-BC,Prince George,c/CA,eng,,false,https://www.lyngsat.com/logo/tv/cc/ckpg_prince_george.png
 CKPRTV.ca,CKPR-TV,CTV,CA,CA-ON,Thunder Bay,s/CA-ON,eng,,false,https://cdn.tvpassport.com/image/station/100x100/ctv-2018.png
 CKRN.ca,CKRN,ICI,CA,CA-QC,Rouyn,s/CA-QC,eng,,false,https://cdn.tvpassport.com/image/station/100x100/src.png
@@ -4134,7 +4131,7 @@ DY365.in,DY 365,,IN,,,c/IN,hin,,false,https://www.lyngsat.com/logo/tv/dd/dy_365_
 DynamiteTV.jp,Dynamite TV,,JP,,,c/JP,jpn,,false,https://www.lyngsat.com/logo/tv/dd/dynamite_tv_jp.png
 Dzair3.dz,Dzair 3,,DZ,,,c/DZ,ara,,false,
 DZRHNewsTV.ph,DZRH News TV,,PH,,,c/PH,eng,news,false,https://i.imgur.com/qr0w2eZ.jpg
-ETV.ru,E-TV,,RU,,,c/RU,rus,,false,https://www.lyngsat.com/logo/tv/ee/e-ru.png
+ETV.ru,E-TV,,RU,,,c/RU,rus,,false,https://avatars.mds.yandex.net/get-tv-channel-logos/70787/2a0000016285ab7c11ff5323925f29c4872e/184x140
 E1TV.pk,E1 TV,,PK,,,c/PK,eng,,false,https://www.lyngsat.com/logo/tv/ee/e1-tv-pk.png
 E24.in,E 24,,IN,,,c/IN,hin,entertainment,false,https://i.imgur.com/VBu7r0A.png
 E4Ireland.uk,E4 Ireland,,UK,,,c/UK,eng,,false,https://www.lyngsat.com/logo/tv/ee/e4-uk-uk.png
@@ -4533,7 +4530,7 @@ EswatiniTV.sz,Eswatini TV,,SZ,,,c/SZ,eng,,false,https://www.lyngsat.com/logo/tv/
 ETB1.es,ETB 1,,ES,,,c/ES,spa,,false,https://i.imgur.com/KeBXBJE.png
 ETB2.es,ETB 2,,ES,,,c/ES,spa,,false,https://imagenes.gatotv.com/logos/canales/oscuros/etb_2-mediano.png
 ETB3.es,ETB 3,,ES,,,c/ES,spa,,false,https://programacion-tv.elpais.com/imagenes/canales/795.jpg
-ETCph,ETC,,PH,,,c/PH,eng,,false,https://www.lyngsat.com/logo/tv/ee/etc-ph.png
+ETC.ph,ETC,,PH,,,c/PH,eng,,false,https://www.lyngsat.com/logo/tv/ee/etc-ph.png
 ETCTV.cl,ETC TV,,CL,,,c/CL,spa,,false,https://cdn.mitvstatic.com/channels/cl_etc-tv_m.png
 Etele.bj,E-télé,,BJ,,,c/BJ,fra,,false,
 ETeleBenin.bj,E-Télé Benin,,BJ,,,c/BJ,fra,,false,https://service.canal-overseas.com/image-api/v1/image/a75b0278174f184226cc7f912d42bdef
@@ -4559,7 +4556,6 @@ ETV.ee,ETV,,EE,,,c/EE,est,,false,https://static.iptv-epg.com/ee/ETV.ee.png
 ETV.et,ETV,,ET,,,c/ET,amh,,false,https://www.lyngsat.com/logo/tv/ee/etv-et.png
 ETV.gp,ETV,,GP,,,c/GP,fra,,false,https://service.canal-overseas.com/image-api/v1/image/5dcc43c9b6b5dd27a2b11b79f6117ccd
 ETV.kh,ETV,,KH,,,c/KH,khm,,false,https://www.lyngsat.com/logo/tv/ee/etv-kh.png
-ETV.ru,E-TV,,RU,,,c/RU,rus,,false,https://avatars.mds.yandex.net/get-tv-channel-logos/70787/2a0000016285ab7c11ff5323925f29c4872e/184x140
 ETV.si,ETV,,SI,,,c/SI,slv,,false,https://tv2go.t-2.net/static/media/img/channels/dark/ios/small/retina/1903628.png
 ETV.th,ETV,,TH,,,c/TH,tha,,false,https://www.lyngsat.com/logo/tv/ee/etv_th.png
 ETV.za,E TV,,ZA,,,c/ZA,afr,,false,https://rndcdn.dstv.com/dstvcms/2017/07/12/DStv_etv_Logo_4-3_001_xlrg.png
@@ -8136,7 +8132,7 @@ KETC2.us,KETC-DT2,PBS Kids,US,US-MO,St Louis,s/US-MO,eng,,false,https://cdn.tvpa
 KETC3.us,KETC-DT3,PBS World,US,US-MO,St Louis,s/US-MO,eng,,false,https://cdn.tvpassport.com/image/station/100x100/pbsworldchannel.png
 KETC4.us,KETC4,Create,US,US-MO,St Louis,s/US-MO,eng,,false,https://cdn.tvpassport.com/image/station/100x100/createtv.png
 KETCTV.us,KETC-TV,,US,,,c/US,eng,,false,https://www.lyngsat.com/logo/tv/kk/ketc-tv-us-mo.png
-KETCus,KETC,PBS,US,US-MO,St Louis,s/US-MO,eng,,false,
+KETC.us,KETC,PBS,US,US-MO,St Louis,s/US-MO,eng,,false,
 KETD.us,KETD,Estrella,US,US-CO,Centennial,s/US-CO,eng,,false,https://cdn.tvpassport.com/image/station/100x100/estrella.png
 KETD4.us,KETD4,HSN 2,US,US-CO,Centennial,s/US-CO,eng,,false,https://cdn.tvpassport.com/image/station/100x100/hsn2.png
 KETFCD.us,KETF,UniMás,US,US-TX,Laredo,s/US-TX,eng,,false,https://cdn.tvpassport.com/image/station/100x100/unimas.png
@@ -9914,7 +9910,7 @@ KPXRDT2.us,KPXR-DT2,Grit TV,US,US-IA,Cedar Rapids,s/US-IA,eng,,false,https://cdn
 KPXRDT3.us,KPXR-DT3,Bounce,US,US-IA,Cedar Rapids,s/US-IA,eng,,false,https://cdn.tvpassport.com/image/station/100x100/bounce.png
 KPXRDT4.us,KPXR-DT4,Laff,US,US-IA,Cedar Rapids,s/US-IA,eng,,false,https://cdn.tvpassport.com/image/station/100x100/laff.png
 KPXRDT6.us,KPXR-DT6,HSN,US,US-IA,Cedar Rapids,s/US-IA,eng,,false,https://cdn.tvpassport.com/image/station/100x100/homeshop.png
-KPXRTV.us,KPXR-DT,ION,US,US-IA,Cedar Rapids,s/US-IA,eng,,false,https://cdn.tvpassport.com/image/station/100x100/ion_2016.png
+KPXRDT.us,KPXR-DT,ION,US,US-IA,Cedar Rapids,s/US-IA,eng,,false,https://cdn.tvpassport.com/image/station/100x100/ion_2016.png
 KPXRTV5.us,KPXR-DT5,QVC,US,US-IA,Cedar Rapids,s/US-IA,eng,,false,https://cdn.tvpassport.com/image/station/100x100/qvc.png
 KQCATV.us,KQCA-TV,MyNetworkTV,US,US-CA,Sacramento,s/US-CA,eng,,false,https://cdn.tvpassport.com/image/station/100x100/mykqca.png
 KQCA2.us,KQCA2,H&I,US,US-CA,Sacramento,s/US-CA,eng,,false,https://cdn.tvpassport.com/image/station/100x100/heroesicons.png
@@ -10009,7 +10005,7 @@ KRCWLP.us,KRCW-LP,CW,US,US-OR,Portland,s/US-OR,eng,,false,https://cdn.tvpassport
 KRCWLP3.us,KRCW-LP3,THIS,US,US-OR,Portland,s/US-OR,eng,,false,https://cdn.tvpassport.com/image/station/100x100/this_tv.png
 KRCWTV.us,KRCW-TV,CW,US,US-OR,Portland,s/US-OR,eng,,false,https://cdn.tvpassport.com/image/station/100x100/cw.png
 KRCWTV4.us,KRCW-DT4,TBD TV,US,US-OR,Portland,s/US-OR,eng,,false,https://cdn.tvpassport.com/image/station/100x100/tbdtv.png
-KRDH.us,KRDH-DT1,SonLife Network,US,US-CO,Denver,s/US-CO,eng,,false,https://cdn.tvpassport.com/image/station/100x100/sbn.png
+KRDHDT1.us,KRDH-DT1,SonLife Network,US,US-CO,Denver,s/US-CO,eng,,false,https://cdn.tvpassport.com/image/station/100x100/sbn.png
 KRDH2.us,KRDH2,Azteca,US,US-CO,Denver,s/US-CO,eng,,false,https://cdn.tvpassport.com/image/station/100x100/aztecaamerica.png
 KRDH3.us,KRDH3,Cheddar,US,US-CO,Denver,s/US-CO,eng,,false,https://cdn.tvpassport.com/image/station/100x100/cheddar-news.png
 KRDKDT2.us,KRDK-DT2,BEK Sports,US,US-ND,Fargo,s/US-ND,eng,,false,https://cdn.tvpassport.com/image/station/100x100/beksports.png
@@ -11194,7 +11190,7 @@ KWBELD.us,KWBE-LD,News Channel Nebraska,US,US-NE,Beatrice,s/US-NE,eng,,false,htt
 KWBELD2.us,KWBE-LD2,WeatherNation,US,US-NE,Beatrice,s/US-NE,eng,,false,https://cdn.tvpassport.com/image/station/100x100/weathernation.png
 KWBHLP.us,KWBH-LP,MyNetworkTV,US,US-SD,Rapid City,s/US-SD,eng,,false,https://cdn.tvpassport.com/image/station/100x100/mnt.png
 KWBJCD.us,KWBJ-CD,Youtoo America,US,US-LA,Morgan City,s/US-LA,eng,,false,https://cdn.tvpassport.com/image/station/100x100/youtoo.png
-KWBM.us,KWBM-DT2,FOX,US,US-MO,Springfield,s/US-MO,eng,,false,https://cdn.tvpassport.com/image/station/100x100/foxcable.png
+KWBMDT2.us,KWBM-DT2,FOX,US,US-MO,Springfield,s/US-MO,eng,,false,https://cdn.tvpassport.com/image/station/100x100/foxcable.png
 KWBN.us,KWBN,Daystar,US,US-HI,Honolulu,s/US-HI,eng,,false,https://cdn.tvpassport.com/image/station/100x100/daystar_tv.png
 KWBQTV.us,KWBQ-TV,CW,US,US-NM,Albuquerque,s/US-NM,eng,,false,https://cdn.tvpassport.com/image/station/100x100/cw.png
 KWBQ2.us,KWBQ2,Grit TV,US,US-NM,Santa Fe,s/US-NM,eng,,false,https://cdn.tvpassport.com/image/station/100x100/grittv.png
@@ -12837,13 +12833,12 @@ NASATVUHD.us,NASA TV UHD,,US,,,c/US,eng,,false,https://www.lyngsat.com/logo/tv/n
 Nash.ua,Nash,,UA,,,c/UA,ukr,,false,https://www.lyngsat.com/logo/tv/nn/nash-ua.png
 NashaTema.ru,Nasha Tema,,RU,,,c/RU,rus,,false,https://www.lyngsat.com/logo/tv/nn/nasha-tema-ru.png
 NashDom.ru,Nash Dom,,RU,,,c/RU,rus,,false,https://www.lyngsat.com/logo/tv/nn/nash_dom_ru.png
-NasheTV.ru,Nashe-TV,,RU,,,c/RU,rus,,false,https://www.lyngsat.com/logo/tv/nn/nashe-ru.png
+NasheTV.ru,Nashe-TV,,RU,,,c/RU,rus,,false,https://www.lyngsat.com/logo/tv/nn/nashe-tv-ru.png
 NasheLubimoeKino.ru,Nashe Lubimoe Kino,,RU,,,c/RU,rus,,false,https://www.lyngsat.com/logo/tv/nn/nashe_lubimoe_kino.png
 NasheMuzhskoe.ru,Nashe Muzhskoe,,RU,,,c/RU,rus,,false,https://www.lyngsat.com/logo/tv/nn/nashe-muzhskoe-ru.png
 NasheNovoeKino.ru,Nashe Novoe Kino,,RU,,,c/RU,rus,,false,https://avatars.mds.yandex.net/get-tv-channel-logos/30303/2a0000015bb47bf0be402e2ca5127a767647/z
 NashePlus3.ru,Nashe +3,,RU,,,c/RU,rus,,false,https://www.lyngsat.com/logo/tv/nn/nashe-ru.png
 NasheTV.by,Nashe TV,,BY,,,c/BY,rus,,false,https://i.imgur.com/FnoSJdh.png
-NasheTV.ru,Nashe-TV,,RU,,,c/RU,rus,,false,https://www.lyngsat.com/logo/tv/nn/nashe-tv-ru.png
 NashKinomir.de,Nash Kinomir,,DE,,,c/DE,deu,,false,https://services.sg101.prd.sctv.ch/content/images/tv/channel/229_image_7_w116.webp
 NashKinopokaz.ru,Nash Kinopokaz,,RU,,,c/RU,rus,,false,https://www.lyngsat.com/logo/tv/nn/nash-kinopokaz-ru.png
 NashKinoroman.ru,Nash Kinoroman,,RU,,,c/RU,rus,,false,https://avatars.mds.yandex.net/get-tv-channel-logos/70263/2a00000176606dac32dfcd28284c19ba33ed/428x280
@@ -13494,7 +13489,7 @@ NovoeRadio.ru,Novoe Radio,,RU,,,c/RU,rus,,false,https://avatars.mds.yandex.net/g
 NovosadskaTV.rs,Novosadska TV,,RS,,,c/RS,srp,,false,https://mts.rs/oec/images/tv_channels/49244e5a9b673e9cc2db5591d5637786.png
 NovyKanal.ua,Novy Kanal,,UA,,,c/UA,ukr,,false,https://www.lyngsat.com/logo/tv/nn/novy-kanal-ua.png
 NovyyKhristianskiy.ua,Novyy Khristianskiy,,UA,,,c/UA,ukr,,false,https://www.lyngsat.com/logo/tv/nn/novyy_kristianskiy_ua.png
-NowTV.bw,Now-TV,,BW,,,c/BW,eng,,false,https://www.lyngsat.com/logo/tv/nn/now-bw.png
+NowTV.bw,Now-TV,,BW,,,c/BW,eng,,false,https://rndcdn.dstv.com/dstvcms/2019/06/03/NowTV_Logo_4-3_xlrg.png
 Now668.hk,Now 668,,HK,,,c/HK,zho,,false,https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch668_160_115
 Now70s.uk,Now 70's,,UK,,,c/UK,eng,,false,https://services.sg101.prd.sctv.ch/content/images/tv/channel/1716_image_7_w116.webp
 Now80s.uk,Now 80's,,UK,,,c/UK,eng,,false,https://services.sg101.prd.sctv.ch/content/images/tv/channel/1715_image_7_w116.webp
@@ -13529,7 +13524,6 @@ NowSportsPremierLeague5.hk,Now Sports Premier League 5,,HK,,,c/HK,zho,,false,htt
 NowSportsPremierLeague6.hk,Now Sports Premier League 6,,HK,,,c/HK,zho,,false,https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch626_160_115
 NowSportsPremierLeagueTV.hk,Now Sports Premier League TV,,HK,,,c/HK,zho,,false,https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch620_160_115
 NowSportsPrime.hk,Now Sports Prime,,HK,,,c/HK,zho,,false,https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch630_160_115
-NowTV.bw,Now-TV,,BW,,,c/BW,eng,,false,https://rndcdn.dstv.com/dstvcms/2019/06/03/NowTV_Logo_4-3_xlrg.png
 NowTV.hk,Now TV,,HK,,,c/HK,zho,,false,
 NowVideoExpress.hk,Now Video Express,,HK,,,c/HK,zho,,false,https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch106_160_115
 NPO1.nl,NPO 1,,NL,,,c/NL,nld,,false,https://over.npo.nl/images/zenders/npo-1.png
@@ -13587,7 +13581,6 @@ NTANews24.ng,NTA News 24,,NG,,,c/NG,eng,,false,https://rndcdn.dstv.com/dstvcms/2
 NTAParliament.ng,NTA Parliament,,NG,,,c/NG,eng,,false,https://rndcdn.dstv.com/dstvcms/2019/01/31/NTA_Parliament_Logo_4-3_001_xlrg.png
 NTASports24.ng,NTA Sports 24,,NG,,,c/NG,eng,,false,https://www.lyngsat.com/logo/tv/nn/nta_ng_sports_24.png
 NTAYoruba.ng,NTA Yoruba,,NG,,,c/NG,eng,,false,https://www.lyngsat.com/logo/tv/nn/nta_ng_yoruba.png
-NTDTV.us,NTD-TV,,US,,,c/US,eng,,false,https://www.lyngsat.com/logo/tv/nn/ntd-us.png
 NTDTV.us,NTD-TV,,US,,,c/US,eng,,false,https://cdn.tvpassport.com/image/station/100x100/ntd_television_logo.png
 NTDTVAsiaPacific.us,NTD TV Asia-Pacific,,US,,,c/US,eng,,false,https://www.lyngsat.com/logo/tv/nn/ntd-tv-us.png
 NTDTVChina.us,NTD TV China,,US,,,c/US,eng,,false,https://www.lyngsat.com/logo/tv/nn/ntd-tv-us.png
@@ -13646,7 +13639,6 @@ NumberOneTV.za,Number One TV,,ZA,,,c/ZA,afr,,false,
 NumidiaTV.dz,Numidia TV,,DZ,,,c/DZ,ara,,false,
 NuMusic.mx,Nu Music,,MX,,,c/MX,spa,,false,https://cdn.mitvstatic.com/channels/mx_canal-nu_m.png
 NupeTVAfrica.ng,Nupe TV Africa,,NG,,,c/NG,eng,,false,https://www.lyngsat.com/logo/tv/nn/nupe-tv-africa-ng.png
-NusantaraTV.id,Nusantara-TV,,ID,,,c/ID,ind,,false,https://www.lyngsat.com/logo/tv/nn/nusantara-id.png
 NusantaraTV.id,Nusantara-TV,,ID,,,c/ID,ind,,false,https://www.lyngsat.com/logo/tv/nn/nusantara_tv_id.png
 NutaTV.pl,Nuta TV,,PL,,,c/PL,pol,,false,https://ocdn.eu/ptv2-images-transforms/1/Uihkrhsb2dvLW1pZ3JhdGVkL251dGF0di5wbmeSlQJkAMLDlQIAKMLD
 NuuralhudaaTV.us,Nuuralhudaa TV,,US,,,c/US,eng,,false,
@@ -14255,7 +14247,7 @@ PlaymenTV.ca,Playmen TV,,CA,,,c/CA,eng,,false,https://cdn.tvpassport.com/image/s
 PloenTV.th,Ploen TV,,TH,,,c/TH,tha,,false,https://www.lyngsat.com/logo/tv/pp/ploen_tv_th.png
 PlovdivskaPravoslavnaTV.bg,Plovdivska Pravoslavna TV,,BG,,,c/BG,bul,,false,https://www.lyngsat.com/logo/tv/pp/plovdivska_pravoslavna_tv.png
 PlugRTL.be,Plug RTL,,BE,,,c/BE,nld,,false,https://www.programme-tv.net/imgre/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2Fff2553642cabf448.2Epng/80x80/quality/80/plug-rtl.png
-Plus23.pa,23,,PA,,,c/PA,spa,,false,
+Plus23.pa,"+23",,PA,,,c/PA,spa,,false,
 PlusHitsAfrica.ao,+Hits Africa,,AO,,,c/AO,por,,false,https://www.lyngsat.com/logo/tv/pp/plus-hits-africa-ao.png
 PlusMovie.np,Plus Movie,,NP,,,c/NP,nep,,false,https://www.lyngsat.com/logo/tv/pp/plus-movie-np.png
 PlusPlus.ua,Plus Plus,,UA,,,c/UA,ukr,,false,https://www.lyngsat.com/logo/tv/pp/plus_plus_tv_ua.png
@@ -14863,7 +14855,6 @@ RevelationTV.uk,Revelation TV,,UK,,,c/UK,eng,,false,https://www.lyngsat.com/logo
 RevelationTV.zm,Revelation TV,,ZM,,,c/ZM,eng,,false,
 RevenueFrontier.us,Revenue Frontier,,US,,,c/US,eng,,false,https://www.lyngsat.com/logo/tv/rr/revenue-frontier-us.png
 RevivalChannel.cm,Revival Channel,,CM,,,c/CM,eng,,false,https://www.lyngsat.com/logo/tv/rr/revival-channel-cm.png
-RevnTV.us,Revn-TV,,US,,,c/US,eng,,false,https://od.lk/s/MF8yMzI1NDE5MjRf/Revn_375x375.png
 RevnTV.us,Revn-TV,,US,,,c/US,eng,,false,https://www.lyngsat.com/logo/tv/rr/rev_n_us.png
 Revolt.us,Revolt,,US,,,c/US,eng,,false,https://www.directv.com/images/logos/channels/dark/large/044.png
 RevTVCanada.ca,Rev TV Canada,,CA,,,c/CA,eng,,false,https://cdn.tvpassport.com/image/station/100x100/revtvcanada.png
@@ -16970,7 +16961,6 @@ Tamazight.ma,Tamazight,,MA,,,c/MA,ara,general,false,https://i.imgur.com/uC6IF9P.
 TambaraTV.ne,Tambara TV,,NE,,,c/NE,fra,,false,https://www.lyngsat.com/logo/tv/tt/tambara-tv-ne.png
 TamilanTV.in,Tamilan TV,,IN,,,c/IN,hin,,false,https://www.lyngsat.com/logo/tv/tt/tamilan_tv.png
 TamilCinemaClub.in,Tamil Cinema Club,,IN,,,c/IN,hin,,false,https://www.lyngsat.com/logo/tv/tt/tamil_cinema_club_in.png
-TamilVisionTV.ca,TamilVision-TV,,CA,,,c/CA,eng,,false,https://www.lyngsat.com/logo/tv/tt/tamil-vision-ca.png
 TamilVisionTV.ca,TamilVision-TV,,CA,,,c/CA;c/IN,tam,,false,https://i.imgur.com/jSWRXdg.png
 TanasuhTV.ly,Tanasuh TV,,LY,,,c/LY,ara,,false,https://www.lyngsat.com/logo/tv/aa/al_tanasuh_ly.png
 TanjugTV.rs,Tanjug TV,,RS,,,c/RS,srp,,false,https://mts.rs/oec/images/tv_channels/478e45abb693bb231e77051986cce6ec.jpg
@@ -20345,7 +20335,7 @@ WEDHTV.us,WEDH-TV,,US,,,c/US,eng,,false,https://www.lyngsat.com/logo/tv/ww/wedh-
 WEDN3.us,WEDN-DT3,CPTV Spirit,US,US-CT,Norwich,s/US-CT,eng,,false,https://cdn.tvpassport.com/image/station/100x100/pbs.png
 WEDNTV.us,WEDN-TV,,US,,,c/US,eng,,false,https://www.lyngsat.com/logo/tv/ww/wedh-tv-us-ct.png
 WEDQ5.us,WEDQ-DT5,PBS Kids 24/7,US,US-FL,Tampa,s/US-FL,eng,,false,https://cdn.tvpassport.com/image/station/100x100/pbskids.png
-WEDQPlus.us,WEDQ-DT4,PBS Plus,US,US-FL,Tampa,s/US-FL,eng,,false,https://cdn.tvpassport.com/image/station/100x100/wedq-plus.png
+WEDQDT4.us,WEDQ-DT4,PBS Plus,US,US-FL,Tampa,s/US-FL,eng,,false,https://cdn.tvpassport.com/image/station/100x100/wedq-plus.png
 WEDQTV.us,WEDQ-TV,,US,,,c/US,eng,,false,https://www.lyngsat.com/logo/tv/ww/wedq-tv-us-fl.png
 WEDUTV.us,WEDU-TV,PBS,US,US-FL,Tampa,s/US-FL,eng,,false,https://cdn.tvpassport.com/image/station/100x100/pbs-wedu.png
 WEDU2.us,WEDU-DT2,PBS World,US,US-FL,Tampa,s/US-FL,eng,,false,https://cdn.tvpassport.com/image/station/100x100/pbsworldchannel.png
@@ -20504,7 +20494,7 @@ WFFFTV.us,WFFF-TV,FOX,US,US-VT,Burlington,s/US-VT,eng,,false,https://cdn.tvpassp
 WFFTDT2.us,WFFT-DT2,Bounce,US,US-IN,Fort Wayne,s/US-IN,eng,,false,https://cdn.tvpassport.com/image/station/100x100/bounce.png
 WFFTDT3.us,WFFT-DT3,Antenna,US,US-IN,Fort Wayne,s/US-IN,eng,,false,https://cdn.tvpassport.com/image/station/100x100/antenna-tv.png
 WFFTTV.us,WFFT-TV,FOX,US,US-IN,Fort Wayne,s/US-IN,eng,,false,https://cdn.tvpassport.com/image/station/100x100/foxcable.png
-WFGC.us,WFGC-DT1,CTN,US,US-FL,Palm Beach,s/US-FL,eng,,false,https://cdn.tvpassport.com/image/station/100x100/ctn.png
+WFGCDT1.us,WFGC-DT1,CTN,US,US-FL,Palm Beach,s/US-FL,eng,,false,https://cdn.tvpassport.com/image/station/100x100/ctn.png
 WFGC2.us,WFGC2,CTNi,US,US-FL,Palm Beach,s/US-FL,eng,,false,https://cdn.tvpassport.com/image/station/100x100/ctn.png
 WFGC3.us,WFGC-DT3,CTN,US,US-FL,Palm Beach,s/US-FL,eng,,false,https://cdn.tvpassport.com/image/station/100x100/ctn.png
 WFGC4.us,WFGC4,CTN LifeStyle,US,US-FL,West Palm Beach,s/US-FL,eng,,false,https://cdn.tvpassport.com/image/station/100x100/ctnlifestyle.png
@@ -21295,7 +21285,7 @@ WJETDT2.us,WJET-DT2,Laff,US,US-PA,Erie,s/US-PA,eng,,false,https://cdn.tvpassport
 WJETDT3.us,WJET-DT3,Court TV Mystery,US,US-PA,Erie,s/US-PA,eng,,false,https://cdn.tvpassport.com/image/station/100x100/court-tv-mystery.png
 WJETDT4.us,WJET-DT4,Cozi TV,US,US-PA,Erie,s/US-PA,eng,,false,https://cdn.tvpassport.com/image/station/100x100/cozitv.png
 WJETTV.us,WJET-TV,ABC,US,US-PA,Erie,s/US-PA,eng,,false,https://cdn.tvpassport.com/image/station/100x100/abc.png
-WJFB.us,WJFB-TV,MeTV,US,US-TN,Lebanon,s/US-TN,eng,,false,https://cdn.tvpassport.com/image/station/100x100/metv.png
+WJFBTV.us,WJFB-TV,MeTV,US,US-TN,Lebanon,s/US-TN,eng,,false,https://cdn.tvpassport.com/image/station/100x100/metv.png
 WJFB2.us,WJFB2,H&I,US,US-TN,Nashville,s/US-TN,eng,,false,https://cdn.tvpassport.com/image/station/100x100/heroesicons.png
 WJFB3.us,WJFB3,Start TV,US,US-TN,Lebanon,s/US-TN,eng,,false,https://cdn.tvpassport.com/image/station/100x100/start-tv.png
 WJFB4.us,WJFB4,Decades,US,US-TN,Lebanon,s/US-TN,eng,,false,https://cdn.tvpassport.com/image/station/100x100/decades.png
@@ -22152,7 +22142,7 @@ WNYA4.us,WNYA4,H&I,US,US-NY,Albany,s/US-NY,eng,,false,https://cdn.tvpassport.com
 WNYBTV.us,WNYB-TV,TCT,US,US-NY,Jamestown,s/US-NY,eng,,false,https://cdn.tvpassport.com/image/station/100x100/tct_tv.png
 WNYB2.us,WNYB-DT2,SonLife Network,US,US-NY,Jamestown,s/US-NY,eng,,false,https://cdn.tvpassport.com/image/station/100x100/sbn.png
 WNYB3.us,WNYB-DT3,The Grio,US,US-NY,Jamestown,s/US-NY,eng,,false,https://cdn.tvpassport.com/image/station/100x100/thegriotv.png
-WNYETV.us,WNYE-DT1,NYC Life,US,US-NY,New York,s/US-NY,eng,,false,https://cdn.tvpassport.com/image/station/100x100/nyc-life.png
+WNYEDT1.us,WNYE-DT1,NYC Life,US,US-NY,New York,s/US-NY,eng,,false,https://cdn.tvpassport.com/image/station/100x100/nyc-life.png
 WNYETV2.us,WNYE-DT2,NYC Gov,US,US-NY,New York,s/US-NY,eng,,false,
 WNYETV3.us,WNYE-DT3,CUNY,US,US-NY,New York,s/US-NY,eng,,false,https://cdn.tvpassport.com/image/station/100x100/cuny_tv_2018.png
 WNYFCD.us,WNYF,FOX,US,US-NY,Massena,s/US-NY,eng,,false,https://cdn.tvpassport.com/image/station/100x100/foxcable.png
@@ -24139,7 +24129,7 @@ YesNetwork.us,Yes Network,,US,,,c/US,eng,,false,https://www.directv.com/images/l
 YesNews.il,Yes News,,IL,,,c/IL,heb,,false,https://www.lyngsat.com/logo/tv/yy/yes-news-il.png
 Yesterday.uk,Yesterday,,UK,,,c/UK,eng,,false,https://otv-us-web.s3-us-west-2.amazonaws.com/logos/guide/2/Open/92x36_352/Source/31177/yesterdaytv_colordark.png
 YesterdayPlus1.uk,Yesterday +1,,UK,,,c/UK,eng,,false,https://otv-us-web.s3-us-west-2.amazonaws.com/logos/guide/2/Open/92x36_352/Source/31177/yesterdayplus1tv.png
-YesTV.ca,CKES,Yes TV,CA,CA-AB,Edmonton,c/CA,eng,,false,https://myhealthhub.frontline.ca/myhealthhubtv/channellogos/yestv.png
+CKES.ca,CKES,Yes TV,CA,CA-AB,Edmonton,c/CA,eng,,false,https://myhealthhub.frontline.ca/myhealthhubtv/channellogos/yestv.png
 YesTVAction.il,Yes TV Action,,IL,,,c/IL,heb,,false,https://www.lyngsat.com/logo/tv/yy/yes-tv-action-il.png
 YesTVCalgary.ca,Yes TV Calgary,,CA,,,c/CA,eng,,false,https://www.lyngsat.com/logo/tv/yy/yes_tv_calgary.png
 YesTVComedy.il,Yes TV Comedy,,IL,,,c/IL,heb,,false,https://www.lyngsat.com/logo/tv/yy/yes-tv-comedy-il.png
