@@ -7215,7 +7215,7 @@ KAKM3.us,KAKM3,KTOO 360TV,US,US-AK,Anchorage,s/US-AK,eng,,false,
 KAKMDT2.us,KAKM-DT2,,US,,,c/US,eng,,false,https://www.lyngsat.com/logo/tv/kk/kakm_dt2_anchorage.png
 KAKMDT3.us,KAKM-DT3,,US,,,c/US,eng,,false,https://www.lyngsat.com/logo/tv/kk/kakm_dt3_anchorage.png
 KAKMDT4.us,KAKM-DT4,,US,,,c/US,eng,,false,
-KAKWDT.us,KAKW,Univision,US,US-TX,Austin,s/US-TX,eng,,false,https://cdn.tvpassport.com/image/station/100x100/univision.png
+KAKWDT.us,KAKW-DT,Univision,US,US-TX,Austin,s/US-TX,eng,,false,https://cdn.tvpassport.com/image/station/100x100/univision.png
 KAKWDT2.us,KAKW-DT2,UniMás,US,US-TX,Austin,s/US-TX,eng,,false,https://cdn.tvpassport.com/image/station/100x100/unimas.png
 KAKWDT3.us,KAKW-DT3,GetTV,US,US-TX,Austin,s/US-TX,eng,,false,https://cdn.tvpassport.com/image/station/100x100/gettv.png
 KAKWDT4.us,KAKW-DT4,Court TV Mystery,US,US-TX,Austin,s/US-TX,eng,,false,https://cdn.tvpassport.com/image/station/100x100/court-tv-mystery.png
@@ -7569,10 +7569,10 @@ KBRR2.us,KBRR2,Antenna,US,US-ND,Thief River Falls,s/US-ND,eng,,false,https://cdn
 KBS1TV.kr,KBS 1 TV,,KR,,,c/KR,kor,,false,https://www.lyngsat.com/logo/tv/kk/kbs-1-tv-kr.png
 KBS1TVGangneung.kr,KBS 1 TV Gangneung,,KR,,,c/KR,kor,,false,https://www.lyngsat.com/logo/tv/kk/kbs-1-tv-kr.png
 KBS2TV.kr,KBS 2 TV,,KR,,,c/KR,kor,,false,https://www.lyngsat.com/logo/tv/kk/kbs-2-tv-kr.png
-KBSDDT.us,KBSD,CBS,US,US-KS,Dodge City,s/US-KS,eng,,false,https://cdn.tvpassport.com/image/station/100x100/cbs.png
+KBSDDT.us,KBSD-DT,CBS,US,US-KS,Dodge City,s/US-KS,eng,,false,https://cdn.tvpassport.com/image/station/100x100/cbs.png
 KBSDrama.kr,KBS Drama,,KR,,,c/KR,kor,,false,https://www.lyngsat.com/logo/tv/kk/kbs_drama.png
 KBSELP.us,KBSE-LP,HSN,US,US-ID,Boise,s/US-ID,eng,,false,https://cdn.tvpassport.com/image/station/100x100/homeshop.png
-KBSHDT.us,KBSH,CBS,US,US-KS,Hays,s/US-KS,eng,,false,https://cdn.tvpassport.com/image/station/100x100/cbs.png
+KBSHDT.us,KBSH-DT,CBS,US,US-KS,Hays,s/US-KS,eng,,false,https://cdn.tvpassport.com/image/station/100x100/cbs.png
 KBSITV.us,KBSI-TV,FOX,US,US-MO,Cape Girardeau,s/US-MO,eng,,false,https://cdn.tvpassport.com/image/station/100x100/foxcable.png
 KBSI2.us,KBSI2,MyNetworkTV,US,US-MO,Cape Girardeau,s/US-MO,eng,,false,https://cdn.tvpassport.com/image/station/100x100/mnt.png
 KBSI3.us,KBSI3,Comet TV,US,US-MO,Cape Girardeau,s/US-MO,eng,,false,https://cdn.tvpassport.com/image/station/100x100/comet.png
@@ -7582,7 +7582,7 @@ KBSI6.us,KBSI6,Newsy,US,US-MO,Cape Girardeau,s/US-MO,eng,,false,https://cdn.tvpa
 KBSJoy.kr,KBS Joy,,KR,,,c/KR,kor,,false,https://www.lyngsat.com/logo/tv/kk/kbs_joy.png
 KBSKids.kr,KBS Kids,,KR,,,c/KR,kor,,false,https://www.lyngsat.com/logo/tv/kk/kbs_kids.png
 KBSKorea.kr,KBS Korea,,KR,,,c/KR,kor,,false,https://www.directv.com/images/logos/channels/dark/large/232.png
-KBSLDT.us,KBSL,CBS,US,US-KS,Goodland,s/US-KS,eng,,false,https://cdn.tvpassport.com/image/station/100x100/cbs.png
+KBSLDT.us,KBSL-DT,CBS,US,US-KS,Goodland,s/US-KS,eng,,false,https://cdn.tvpassport.com/image/station/100x100/cbs.png
 KBSNLife.kr,KBS N Life,,KR,,,c/KR,kor,,false,https://www.lyngsat.com/logo/tv/kk/kbs_n_life_kr.png
 KBSNSports.kr,KBS N Sports,,KR,,,c/KR,kor,,false,https://www.lyngsat.com/logo/tv/kk/kbs_n_sports.png
 KBSW.kr,KBS W,,KR,,,c/KR,kor,,false,https://www.lyngsat.com/logo/tv/kk/kbs_w_kr.png
@@ -7831,7 +7831,7 @@ KCVU2.us,KCVU2,Comet TV,US,US-CA,Chico,s/US-CA,eng,,false,https://cdn.tvpassport
 KCVU3.us,KCVU3,CHARGE!,US,US-CA,Chico,s/US-CA,eng,,false,https://cdn.tvpassport.com/image/station/100x100/chargenetwork.png
 KCVUDT4.us,KCVU-DT4,Stadium,US,US-CA,Chico,s/US-CA,eng,,false,https://cdn.tvpassport.com/image/station/100x100/stadium.png
 KCVU5.us,KCVU5,DABL,US,US-CA,Chico,s/US-CA,eng,,false,https://cdn.tvpassport.com/image/station/100x100/dabl.png
-KCWCDT.us,KCWC,PBS,US,US-WY,Lander,s/US-WY,eng,,false,https://cdn.tvpassport.com/image/station/100x100/pbs.png
+KCWCDT.us,KCWC-DT,PBS,US,US-WY,Lander,s/US-WY,eng,,false,https://cdn.tvpassport.com/image/station/100x100/pbs.png
 KCWCDT3.us,KCWC-DT3,PBS Kids,US,US-WY,Lander,s/US-WY,eng,,false,https://cdn.tvpassport.com/image/station/100x100/pbskids.png
 KCWCTV.us,KCWC-TV,,US,,,c/US,eng,,false,https://www.lyngsat.com/logo/tv/kk/kcwc-tv-us-wy.png
 KCWE.us,KCWE,CW,US,US-MO,Kansas City,s/US-MO,eng,,false,https://cdn.tvpassport.com/image/station/100x100/cw.png
@@ -7856,7 +7856,7 @@ KCWXTV.us,KCWX-TV,MyNetworkTV,US,US-TX,Austin,s/US-TX,eng,,false,https://cdn.tvp
 KCWXDT2.us,KCWX-DT2,THIS,US,US-TX,Austin,s/US-TX,eng,,false,https://cdn.tvpassport.com/image/station/100x100/this_tv.png
 KCWX3.us,KCWX3,Bounce,US,US-TX,Austin,s/US-TX,eng,,false,https://cdn.tvpassport.com/image/station/100x100/bounce.png
 KCWX4.us,KCWX4,Decades,US,US-TX,Austin,s/US-TX,eng,,false,https://cdn.tvpassport.com/image/station/100x100/decades.png
-KCWYDT.us,KCWY,NBC,US,US-WY,Casper,s/US-WY,eng,,false,https://cdn.tvpassport.com/image/station/100x100/nbc.png
+KCWYDT.us,KCWY-DT,NBC,US,US-WY,Casper,s/US-WY,eng,,false,https://cdn.tvpassport.com/image/station/100x100/nbc.png
 KCWYDT2.us,KCWY-DT2,CW+,US,US-WY,Casper,s/US-WY,eng,,false,https://cdn.tvpassport.com/image/station/100x100/cw.png
 KCWYDT3.us,KCWY-DT3,Start TV,US,US-WY,Casper,s/US-WY,eng,,false,https://cdn.tvpassport.com/image/station/100x100/start-tv.png
 KCWYDT4.us,KCWY-DT4,H&I,US,US-WY,Casper,s/US-WY,eng,,false,https://cdn.tvpassport.com/image/station/100x100/heroesicons.png
@@ -8015,7 +8015,7 @@ KDTVCD2.us,KDTV-CD2,UniMás,US,US-CA,San Francisco,s/US-CA,eng,,false,https://cd
 KDTVCD3.us,KDTV-CD3,GetTV,US,US-CA,San Francisco,s/US-CA,eng,,false,https://cdn.tvpassport.com/image/station/100x100/gettv.png
 KDTVCD4.us,KDTV-CD4,Court TV Mystery,US,US-CA,San Francisco,s/US-CA,eng,,false,https://cdn.tvpassport.com/image/station/100x100/court-tv-mystery.png
 KDTVCD5.us,KDTV-CD5,True Crime Network,US,US-CA,San Francisco,s/US-CA,eng,,false,https://cdn.tvpassport.com/image/station/100x100/true-crime.png
-KDTVDT.us,KDTV,Univision,US,US-CA,San Francisco,s/US-CA,eng,,false,https://cdn.tvpassport.com/image/station/100x100/univision.png
+KDTVDT.us,KDTV-DT,Univision,US,US-CA,San Francisco,s/US-CA,eng,,false,https://cdn.tvpassport.com/image/station/100x100/univision.png
 KDTVDT3.us,KDTV-DT3,GetTV,US,US-CA,San Francisco,s/US-CA,eng,,false,https://cdn.tvpassport.com/image/station/100x100/gettv.png
 KDTVDT4.us,KDTV-DT4,Court TV Mystery,US,US-CA,San Francisco,s/US-CA,eng,,false,https://cdn.tvpassport.com/image/station/100x100/court-tv-mystery.png
 KDTVTV.us,KDTV-TV,,US,,,c/US,eng,,false,https://www.lyngsat.com/logo/tv/kk/kdtv_san_francisco.png
@@ -8086,7 +8086,7 @@ KENS5.us,KENS5,Circle,US,US-TX,San Antonio,s/US-TX,eng,,false,https://cdn.tvpass
 KentronTV.am,Kentron TV,,AM,,,c/AM,hye,,false,https://resizer.mail.ru/p/645ad158-1264-50c4-8068-0973b7edb8c8/AAACad43YXkFQSxM9radSHUPsU5nC35FoYuIV3DGoM85tTHOCei6OT4rrAnJUekHV8_nLcv2KMMtt74qXTnLnGpiMn8.png
 KentronTVInternational.am,Kentron TV International,,AM,,,c/AM,hye,,false,https://www.lyngsat.com/logo/tv/kk/kentron_tv_am_international.png
 KentTurk.tr,Kent Türk,,TR,,,c/TR,tur,,false,https://yerelmedya.tv/logosTV/38kenttv.png
-KENVDT.us,KENV,NBC,US,US-NV,Elko,c/US,eng,,false,https://cdn.tvpassport.com/image/station/100x100/nbc.png
+KENVDT.us,KENV-DT,NBC,US,US-NV,Elko,c/US,eng,,false,https://cdn.tvpassport.com/image/station/100x100/nbc.png
 KENVDT2.us,KENV-DT2,NBC,US,US-NV,Elko,s/US-NV,eng,,false,https://cdn.tvpassport.com/image/station/100x100/nbc.png
 KENWTV.us,KENW-TV,PBS,US,US-NM,Portales,s/US-NM,eng,,false,https://cdn.tvpassport.com/image/station/100x100/pbs.png
 KENWDT2.us,KENW-DT2,PBS,US,US-NM,Portales,s/US-NM,eng,,false,https://cdn.tvpassport.com/image/station/100x100/pbs.png
@@ -8289,7 +8289,7 @@ KFREDT2.us,KFRE-DT2,CHARGE!,US,US-CA,Fresno,s/US-CA,eng,,false,https://cdn.tvpas
 KFREDT3.us,KFRE-DT3,TBD TV,US,US-CA,Fresno,s/US-CA,eng,,false,https://cdn.tvpassport.com/image/station/100x100/tbdtv.png
 KFRETV.us,KFRE-TV,CW,US,US-CA,Fresno,s/US-CA,eng,,false,https://cdn.tvpassport.com/image/station/100x100/cw.png
 KFSFDT6.us,KFSF-DT6,Twist,US,US-CA,San Francisco,s/US-CA,eng,,false,https://cdn.tvpassport.com/image/station/100x100/twist_logo.png
-KFSFDT.us,KFSF,UniMás,US,US-CA,San Francisco,s/US-CA,eng,,false,https://cdn.tvpassport.com/image/station/100x100/unimas.png
+KFSFDT.us,KFSF-DT,UniMás,US,US-CA,San Francisco,s/US-CA,eng,,false,https://cdn.tvpassport.com/image/station/100x100/unimas.png
 KFSFDT2.us,KFSF-DT2,Univision,US,US-CA,San Francisco,s/US-CA,eng,,false,https://cdn.tvpassport.com/image/station/100x100/univision.png
 KFSFDT3.us,KFSF-DT3,Bounce,US,US-CA,Vallejo,s/US-CA,eng,,false,https://cdn.tvpassport.com/image/station/100x100/bounce.png
 KFSFDT4.us,KFSF-DT4,Grit TV,US,US-CA,San Francisco,s/US-CA,eng,,false,https://cdn.tvpassport.com/image/station/100x100/grittv.png
@@ -8302,7 +8302,7 @@ KFSNDT3.us,KFSN-DT3,THIS,US,US-CA,Fresno,s/US-CA,eng,,false,https://cdn.tvpasspo
 KFSNTV.us,KFSN-TV,ABC,US,US-CA,Fresno,s/US-CA,eng,,false,https://cdn.tvpassport.com/image/station/100x100/abc.png
 KFTATV.us,KFTA-TV,FOX,US,US-AR,Fayetteville,s/US-AR,eng,,false,https://cdn.tvpassport.com/image/station/100x100/foxcable.png
 KFTADT2.us,KFTA-DT2,NBC,US,US-AR,Ft Smith,s/US-AR,eng,,false,https://cdn.tvpassport.com/image/station/100x100/nbc.png
-KFTHDT.us,KFTH,UniMas,US,US-TX,Houston,s/US-TX,eng,,false,https://cdn.tvpassport.com/image/station/100x100/unimas.png
+KFTHDT.us,KFTH-DT,UniMas,US,US-TX,Houston,s/US-TX,eng,,false,https://cdn.tvpassport.com/image/station/100x100/unimas.png
 KFTHDT2.us,KFTH-DT2,GetTV,US,US-TX,Houston,s/US-TX,eng,,false,https://cdn.tvpassport.com/image/station/100x100/gettv.png
 KFTHDT3.us,KFTH-DT3,Grit TV,US,US-TX,Houston,s/US-TX,eng,,false,https://cdn.tvpassport.com/image/station/100x100/grittv.png
 KFTHDT4.us,KFTH-DT4,HSN,US,US-TX,Houston,s/US-TX,eng,,false,https://cdn.tvpassport.com/image/station/100x100/homeshop.png
@@ -8313,7 +8313,7 @@ KFTLCD15.us,KFTL-DT15,The Country Network,US,US-CA,San Francisco,s/US-CA,eng,,fa
 KFTLCD2.us,KFTL-CD2,HSN,US,US-CA,San Francisco,s/US-CA,eng,,false,https://cdn.tvpassport.com/image/station/100x100/homeshop.png
 KFTLCD3.us,KFTL-CD3,CMC-TV,US,US-CA,San Francisco,s/US-CA,eng,,false,https://cdn.tvpassport.com/image/station/100x100/cmc-cali-tv.png
 KFTLCD5.us,KFTL-CD5,REV'N,US,US-CA,San Francisco,s/US-CA,eng,,false,https://cdn.tvpassport.com/image/station/100x100/revn.png
-KFTRDT.us,KFTR,UniMás,US,US-CA,Ontario,s/US-CA,eng,,false,https://cdn.tvpassport.com/image/station/100x100/unimas.png
+KFTRDT.us,KFTR-DT,UniMás,US,US-CA,Ontario,s/US-CA,eng,,false,https://cdn.tvpassport.com/image/station/100x100/unimas.png
 KFTRDT2.us,KFTR-DT2,GetTV,US,US-CA,Ontario,s/US-CA,eng,,false,https://cdn.tvpassport.com/image/station/100x100/gettv.png
 KFTRDT3.us,KFTR-DT3,Court TV Mystery,US,US-CA,Ontario,s/US-CA,eng,,false,https://cdn.tvpassport.com/image/station/100x100/court-tv-mystery.png
 KFTRDT4.us,KFTR-DT4,Grit TV,US,US-CA,Ontario,s/US-CA,eng,,false,https://cdn.tvpassport.com/image/station/100x100/grittv.png
@@ -8325,7 +8325,7 @@ KFTS3.us,KFTS3,Create,US,US-OR,Klamath Falls,s/US-OR,eng,,false,https://cdn.tvpa
 KFTUDT.us,KFTU-DT,UniMás,US,US-AZ,Douglas,s/US-AZ,eng,,false,https://cdn.tvpassport.com/image/station/100x100/unimas.png
 KFTUDT2.us,KFTU-DT2,Univision,US,US-AZ,Douglas,s/US-AZ,eng,,false,https://cdn.tvpassport.com/image/station/100x100/univision.png
 KFTUTV.us,KFTU-TV,,US,,,c/US,eng,,false,https://www.lyngsat.com/logo/tv/kk/kftu_douglas.png
-KFTVDT.us,KFTV,Univision,US,US-CA,Fresno,s/US-CA,eng,,false,https://cdn.tvpassport.com/image/station/100x100/univision.png
+KFTVDT.us,KFTV-DT,Univision,US,US-CA,Fresno,s/US-CA,eng,,false,https://cdn.tvpassport.com/image/station/100x100/univision.png
 KFTVDT2.us,KFTV-DT2,GetTV,US,US-CA,Hanford,s/US-CA,eng,,false,https://cdn.tvpassport.com/image/station/100x100/gettv.png
 KFTVDT3.us,KFTV-DT3,Court TV Mystery,US,US-CA,Hanford,s/US-CA,eng,,false,https://cdn.tvpassport.com/image/station/100x100/court-tv-mystery.png
 KFTVDT4.us,KFTV-DT4,Grit TV,US,US-CA,Hanford,s/US-CA,eng,,false,https://cdn.tvpassport.com/image/station/100x100/grittv.png
@@ -8428,7 +8428,7 @@ KGJTCD.us,KGJT-CD,MyNetworkTV,US,US-CO,Grand Junction,s/US-CO,eng,,false,https:/
 KGJTCD2.us,KGJT-CD2,CBS,US,US-CO,Grand Junction,s/US-CO,eng,,false,https://cdn.tvpassport.com/image/station/100x100/cbs.png
 KGKCLD.us,KGKC-LD,Telemundo,US,US-KS,Lawrence,s/US-KS,eng,,false,https://cdn.tvpassport.com/image/station/100x100/telemundo.png
 KGKCLD2.us,KGKC-LD2,HSN,US,US-KS,Lawrence,s/US-KS,eng,,false,https://cdn.tvpassport.com/image/station/100x100/homeshop.png
-KGLADT.us,KGLA,Telemundo,US,US-LA,New Orleans,s/US-LA,eng,,false,https://cdn.tvpassport.com/image/station/100x100/telemundo.png
+KGLADT.us,KGLA-DT,Telemundo,US,US-LA,New Orleans,s/US-LA,eng,,false,https://cdn.tvpassport.com/image/station/100x100/telemundo.png
 KGLADT2.us,KGLA-DT2,Laff,US,US-LA,Hammond,s/US-LA,eng,,false,https://cdn.tvpassport.com/image/station/100x100/laff.png
 KGMBTV.us,KGMB-TV,CBS,US,US-HI,Honolulu,s/US-HI,eng,,false,https://cdn.tvpassport.com/image/station/100x100/cbs.png
 KGMB2.us,KGMB2,Circle,US,US-HI,Honolulu,s/US-HI,eng,,false,https://cdn.tvpassport.com/image/station/100x100/circle.png
@@ -9160,7 +9160,7 @@ KMEGTV.us,KMEG-TV,DABL,US,US-IA,Sioux City,s/US-IA,eng,,false,https://cdn.tvpass
 KMEG2.us,KMEG2,CHARGE!,US,US-IA,Sioux City,s/US-IA,eng,,false,https://cdn.tvpassport.com/image/station/100x100/chargenetwork.png
 KMEG3.us,KMEG3,Comet TV,US,US-IA,Sioux City,s/US-IA,eng,,false,https://cdn.tvpassport.com/image/station/100x100/comet.png
 KMEGDT4.us,KMEG-DT4,Stadium,US,US-IA,Sioux City,s/US-IA,eng,,false,https://cdn.tvpassport.com/image/station/100x100/stadium.png
-KMEXDT.us,KMEX,Univision,US,US-CA,Los Angeles,s/US-CA,eng,,false,https://cdn.tvpassport.com/image/station/100x100/univision.png
+KMEXDT.us,KMEX-DT,Univision,US,US-CA,Los Angeles,s/US-CA,eng,,false,https://cdn.tvpassport.com/image/station/100x100/univision.png
 KMEXDT2.us,KMEX-DT2,UniMás,US,US-CA,Los Angeles,s/US-CA,eng,,false,https://cdn.tvpassport.com/image/station/100x100/unimas.png
 KMEXDT3.us,KMEX-DT3,Bounce,US,US-CA,Los Angeles,s/US-CA,eng,,false,https://cdn.tvpassport.com/image/station/100x100/bounce.png
 KMEXDT4.us,KMEX-DT4,True Crime Network,US,US-CA,Los Angeles,s/US-CA,eng,,false,https://cdn.tvpassport.com/image/station/100x100/true-crime.png
@@ -9286,7 +9286,7 @@ KMVT2.us,KMVT2,CW,US,US-ID,Twin Falls,s/US-ID,eng,,false,https://cdn.tvpassport.
 KMVTDT3.us,KMVT-DT3,FOX,US,US-ID,Twin Falls,s/US-ID,eng,,false,https://cdn.tvpassport.com/image/station/100x100/foxcable.png
 KMVTDT.us,KMVT-DT,,US,,,c/US,eng,,false,https://www.lyngsat.com/logo/tv/kk/kmvt-dt-us-id.png
 KMVUDT3.us,KMVU-DT3,ION,US,US-OR,Medford,s/US-OR,eng,,false,https://cdn.tvpassport.com/image/station/100x100/ion_2016.png
-KMVUDT.us,KMVU,FOX,US,US-OR,Medford,s/US-OR,eng,,false,https://cdn.tvpassport.com/image/station/100x100/foxcable.png
+KMVUDT.us,KMVU-DT,FOX,US,US-OR,Medford,s/US-OR,eng,,false,https://cdn.tvpassport.com/image/station/100x100/foxcable.png
 KMVUDT2.us,KMVU-DT2,MeTV,US,US-OR,Medford/Klamath Falls,s/US-OR,eng,,false,https://cdn.tvpassport.com/image/station/100x100/metv.png
 KMVUTV.us,KMVU-TV,,US,,,c/US,eng,,false,https://www.lyngsat.com/logo/tv/kk/kmvu-tv-us-or.png
 KMXTLP.us,KMXT-LP,PBS,US,US-AK,Kodiak,s/US-AK,eng,,false,https://cdn.tvpassport.com/image/station/100x100/pbs.png
@@ -9821,7 +9821,7 @@ KPTVTV.us,KPTV-TV,,US,,,c/US,eng,,false,https://www.lyngsat.com/logo/tv/kk/kptv_
 KPTW.us,KPTW,PBS,US,US-WY,Casper,s/US-WY,eng,,false,https://cdn.tvpassport.com/image/station/100x100/pbs.png
 KPTW2.us,KPTW2,Create,US,US-WY,Casper,s/US-WY,eng,,false,https://cdn.tvpassport.com/image/station/100x100/createtv.png
 KPTW3.us,KPTW3,PBS Kids 24/7,US,US-WY,Casper,s/US-WY,eng,,false,https://cdn.tvpassport.com/image/station/100x100/pbskids.png
-KPVIDT.us,KPVI,NBC,US,US-ID,Pocatello,s/US-ID,eng,,false,https://cdn.tvpassport.com/image/station/100x100/nbc.png
+KPVIDT.us,KPVI-DT,NBC,US,US-ID,Pocatello,s/US-ID,eng,,false,https://cdn.tvpassport.com/image/station/100x100/nbc.png
 KPVIDT2.us,KPVI-DT2,Decades,US,US-ID,Pocatello,s/US-ID,eng,,false,https://cdn.tvpassport.com/image/station/100x100/decades.png
 KPVIDT3.us,KPVI-DT3,Movies!,US,US-ID,Pocatello,s/US-ID,eng,,false,https://cdn.tvpassport.com/image/station/100x100/movies.png
 KPVMLD.us,"KPVM Pahrump, NV",,US,US-NV,,s/US-NV,eng,,false,
@@ -9912,7 +9912,7 @@ KQCDTV.us,KQCD-TV,NBC,US,US-ND,Dickinson,s/US-ND,eng,,false,https://cdn.tvpasspo
 KQCKTV.us,KQCK-TV,CTN,US,US-CO,Denver,s/US-CO,eng,,false,https://cdn.tvpassport.com/image/station/100x100/ctn.png
 KQCK2.us,KQCK2,CTN LifeStyle,US,US-WY,Cheyenne,s/US-WY,eng,,false,https://cdn.tvpassport.com/image/station/100x100/ctnlifestyle.png
 KQCK3.us,KQCK3,CTNi,US,US-WY,Cheyenne,s/US-WY,eng,,false,https://cdn.tvpassport.com/image/station/100x100/ctn.png
-KQCWDT.us,KQCW,CW,US,US-OK,Tulsa,s/US-OK,eng,,false,https://cdn.tvpassport.com/image/station/100x100/cw.png
+KQCWDT.us,KQCW-DT,CW,US,US-OK,Tulsa,s/US-OK,eng,,false,https://cdn.tvpassport.com/image/station/100x100/cw.png
 KQCWTV.us,KQCW-TV,,US,,,c/US,eng,,false,https://www.lyngsat.com/logo/tv/kk/kqcw_tulsa.png
 KQDFLP.us,KQDF-LP,Azteca,US,US-NM,Albuquerque,s/US-NM,eng,,false,https://cdn.tvpassport.com/image/station/100x100/aztecaamerica.png
 KQDFLP2.us,KQDF-LD2,SHOPHQ,US,US-NM,Albuquerque,s/US-NM,eng,,false,https://cdn.tvpassport.com/image/station/100x100/shophq.png
@@ -10101,7 +10101,7 @@ KRNSCD.us,KRNS-CD,UniMás,US,US-NV,Reno,s/US-NV,eng,,false,https://cdn.tvpasspor
 KRNSCD2.us,KRNS-CD2,LATV,US,US-NV,Reno,s/US-NV,eng,,false,https://cdn.tvpassport.com/image/station/100x100/latv.png
 KRNSCD3.us,KRNS-CD3,Court TV Mystery,US,US-NV,Reno,s/US-NV,eng,,false,https://cdn.tvpassport.com/image/station/100x100/court-tv-mystery.png
 KRNSCD4.us,KRNS-CD4,Bounce,US,US-NV,Reno,s/US-NV,eng,,false,https://cdn.tvpassport.com/image/station/100x100/bounce.png
-KRNVDT.us,KRNV,NBC,US,US-NV,Reno,s/US-NV,eng,,false,https://cdn.tvpassport.com/image/station/100x100/nbc.png
+KRNVDT.us,KRNV-DT,NBC,US,US-NV,Reno,s/US-NV,eng,,false,https://cdn.tvpassport.com/image/station/100x100/nbc.png
 KRNVDT2.us,KRNV-DT2,DABL,US,US-NV,Reno,s/US-NV,eng,,false,https://cdn.tvpassport.com/image/station/100x100/dabl.png
 KRNVDT3.us,KRNV-DT3,Stadium,US,US-NV,Reno,s/US-NV,eng,,false,https://cdn.tvpassport.com/image/station/100x100/stadium.png
 KRNVTV.us,KRNV-TV,,US,,,c/US,eng,,false,https://www.lyngsat.com/logo/tv/kk/krnv-tv-us-nv.png
@@ -10204,7 +10204,7 @@ KSCETV.us,KSCE-TV,,US,US-TX,,s/US-TX,eng,,false,
 KSCITV.us,KSCI-TV,,US,US-CA,,s/US-CA,eng,,false,https://cdn.tvpassport.com/image/station/100x100/shophq.png
 KSCIDT2.us,KSCI-DT2,SBS,US,US-CA,Long Beach,s/US-CA,eng,,false,
 KSCTLP.us,KSCT-LP,NBC,US,US-AK,Sitka,s/US-AK,eng,,false,https://cdn.tvpassport.com/image/station/100x100/nbc.png
-KSCWDT.us,KSCW,CW,US,US-KS,Wichita,s/US-KS,eng,,false,https://cdn.tvpassport.com/image/station/100x100/cw.png
+KSCWDT.us,KSCW-DT,CW,US,US-KS,Wichita,s/US-KS,eng,,false,https://cdn.tvpassport.com/image/station/100x100/cw.png
 KSCWDT2.us,KSCW-DT2,Decades,US,US-KS,Dodge City,s/US-KS,eng,,false,https://cdn.tvpassport.com/image/station/100x100/decades.png
 KSDILD.us,KSDI-LD,Telemax,US,US-CA,Fresno,s/US-CA,eng,,false,
 KSDILD2.us,KSDI-LD2,Family Channel USA,US,US-CA,Fresno,s/US-CA,eng,,false,https://cdn.tvpassport.com/image/station/100x100/familychannelusa.png
@@ -10347,7 +10347,7 @@ KSTFDT3.us,KSTF-DT3,CBS,US,US-NE,Scottsbluff,s/US-NE,eng,,false,https://cdn.tvpa
 KSTPDT5.us,KSTP-DT5,TrueReal,US,US-MN,St Paul,s/US-MN,eng,,false,https://cdn.tvpassport.com/image/station/100x100/truereal.png
 KSTPDT7.us,KSTP-DT7,H&I,US,US-MN,St Paul,s/US-MN,eng,,false,https://cdn.tvpassport.com/image/station/100x100/heroesicons.png
 KSTPTV.us,KSTP-TV,ABC,US,US-MN,St Paul,s/US-MN,eng,,false,https://cdn.tvpassport.com/image/station/100x100/abc-kstp.png
-KSTRDT.us,KSTR,UniMás,US,US-TX,Dallas,s/US-TX,eng,,false,https://cdn.tvpassport.com/image/station/100x100/unimas.png
+KSTRDT.us,KSTR-DT,UniMás,US,US-TX,Dallas,s/US-TX,eng,,false,https://cdn.tvpassport.com/image/station/100x100/unimas.png
 KSTRTV.us,KSTR-TV,,US,,,c/US,eng,,false,https://www.lyngsat.com/logo/tv/kk/kstr_dallas.png
 KSTSTV.us,KSTS-TV,Telemundo,US,US-CA,San Jose,s/US-CA,eng,,false,https://cdn.tvpassport.com/image/station/100x100/telemundo.png
 KSTSDT2.us,KSTS-DT2,TeleXitos,US,US-CA,San Jose,s/US-CA,eng,,false,https://cdn.tvpassport.com/image/station/100x100/telexitos.png
@@ -10458,15 +10458,15 @@ KTENTV.us,KTEN-TV,,US,,,c/US,eng,,false,https://www.lyngsat.com/logo/tv/kk/kten-
 KTESLD.us,KTES-LD,Telemundo,US,US-TX,Abilene,s/US-TX,eng,,false,https://cdn.tvpassport.com/image/station/100x100/telemundo.png
 KTEVLP.us,"KTEV-LP Texarkana, TX",,US,US-TX,,s/US-TX,eng,,false,
 KTFALP.us,KTFA-LP,HSN,US,US-NM,Albuquerque,s/US-NM,eng,,false,https://cdn.tvpassport.com/image/station/100x100/homeshop.png
-KTFDDT.us,KTFD,UniMás,US,US-CO,Denver,s/US-CO,eng,,false,https://cdn.tvpassport.com/image/station/100x100/unimas.png
+KTFDDT.us,KTFD-DT,UniMás,US,US-CO,Denver,s/US-CO,eng,,false,https://cdn.tvpassport.com/image/station/100x100/unimas.png
 KTFDDT2.us,KTFD-DT2,LATV,US,US-CO,Denver,s/US-CO,eng,,false,https://cdn.tvpassport.com/image/station/100x100/latv.png
 KTFDTV.us,KTFD-TV,,US,,,c/US,eng,,false,https://www.lyngsat.com/logo/tv/kk/ktfd_boulder.png
 KTFDDT3.us,KTFD-DT3,Stadium,US,US-CO,Denver,s/US-CO,eng,,false,https://cdn.tvpassport.com/image/station/100x100/stadium.png
-KTFFDT.us,KTFF,UniMás,US,US-CA,Porterville,s/US-CA,eng,,false,https://cdn.tvpassport.com/image/station/100x100/unimas.png
+KTFFDT.us,KTFF-DT,UniMás,US,US-CA,Porterville,s/US-CA,eng,,false,https://cdn.tvpassport.com/image/station/100x100/unimas.png
 KTFFDT2.us,KTFF-DT2,Univision,US,US-CA,Porterville,s/US-CA,eng,,false,https://cdn.tvpassport.com/image/station/100x100/univision.png
 KTFFDT3.us,KTFF-DT3,Quest,US,US-CA,Porterville,s/US-CA,eng,,false,https://cdn.tvpassport.com/image/station/100x100/quest_us.png
 KTFFLD.us,KTFF-LD,UniMas,US,US-CA,Fresno,s/US-CA,eng,,false,https://cdn.tvpassport.com/image/station/100x100/unimas.png
-KTFKDT.us,KTFK,UniMás,US,US-CA,Sacramento,s/US-CA,eng,,false,https://cdn.tvpassport.com/image/station/100x100/unimas.png
+KTFKDT.us,KTFK-DT,UniMás,US,US-CA,Sacramento,s/US-CA,eng,,false,https://cdn.tvpassport.com/image/station/100x100/unimas.png
 KTFKDT13.us,KTFK-DT13,Univision,US,US-CA,Sacramento,s/US-CA,eng,,false,https://cdn.tvpassport.com/image/station/100x100/univision.png
 KTFKDT3.us,KTFK-DT3,GetTV,US,US-CA,Sacramento,s/US-CA,eng,,false,https://cdn.tvpassport.com/image/station/100x100/gettv.png
 KTFKDT4.us,KTFK-DT4,Grit TV,US,US-CA,Stockton,s/US-CA,eng,,false,https://cdn.tvpassport.com/image/station/100x100/grittv.png
@@ -10658,7 +10658,7 @@ KTVE4.us,KTVE4,Court TV Mystery,US,US-AR,El Dorado,s/US-AR,eng,,false,https://cd
 KTVEthraa.kw,KTV Ethraa,,KW,,,c/KW,ara,,false,http://i5.satexpat.com/cha/kw/ktv_ethra_95x94.gif
 KTVFTV.us,KTVF-TV,NBC,US,US-AK,Fairbanks,s/US-AK,eng,,false,https://cdn.tvpassport.com/image/station/100x100/nbc.png
 KTVGuyane.gf,KTV Guyane,,GF,,,c/GF,fra,,false,https://service.canal-overseas.com/image-api/v1/image/17dbcf236fdc04fb9f33c60f775e1cda
-KTVHDT.us,KTVH,NBC,US,US-MT,Helena,s/US-MT,eng,,false,https://cdn.tvpassport.com/image/station/100x100/nbc.png
+KTVHDT.us,KTVH-DT,NBC,US,US-MT,Helena,s/US-MT,eng,,false,https://cdn.tvpassport.com/image/station/100x100/nbc.png
 KTVHDT2.us,KTVH-DT2,CW,US,US-MT,+ Helena,s/US-MT,eng,,false,https://cdn.tvpassport.com/image/station/100x100/cw.png
 KTVITV.us,KTVI-TV,FOX,US,US-MO,St Louis,c/US,eng,,false,https://i.imgur.com/Hednfc9.png
 KTVIDT2.us,KTVI-DT2,Antenna,US,US-MO,St Louis,s/US-MO,eng,,false,https://cdn.tvpassport.com/image/station/100x100/antenna-tv.png
@@ -10718,7 +10718,7 @@ KTVUTV.us,KTVU-TV,FOX,US,US-CA,San Francisco,s/US-CA,eng,,false,https://cdn.tvpa
 KTVUDT2.us,KTVU-DT2,LATV,US,US-CA,San Francisco,s/US-CA,eng,,false,https://cdn.tvpassport.com/image/station/100x100/latv.png
 KTVUDT3.us,KTVU-DT3,Movies!,US,US-CA,San Francisco,s/US-CA,eng,,false,https://cdn.tvpassport.com/image/station/100x100/movies.png
 KTVU4.us,KTVU4,Buzzr TV,US,US-CA,Oakland,s/US-CA,eng,,false,https://cdn.tvpassport.com/image/station/100x100/buzzrtv.png
-KTVWDT.us,KTVW,Univision,US,US-AZ,Phoenix,s/US-AZ,eng,,false,https://cdn.tvpassport.com/image/station/100x100/univision.png
+KTVWDT.us,KTVW-DT,Univision,US,US-AZ,Phoenix,s/US-AZ,eng,,false,https://cdn.tvpassport.com/image/station/100x100/univision.png
 KTVWDT2.us,KTVW-DT2,UniMás,US,US-AZ,Flagstaff,s/US-AZ,eng,,false,https://cdn.tvpassport.com/image/station/100x100/unimas.png
 KTVWDT3.us,KTVW-DT3,Grit TV,US,US-AZ,Phoenix,s/US-AZ,eng,,false,https://cdn.tvpassport.com/image/station/100x100/grittv.png
 KTVWDT4.us,KTVW-DT4,Bounce,US,US-AZ,Phoenix,s/US-AZ,eng,,false,https://cdn.tvpassport.com/image/station/100x100/bounce.png
@@ -10951,7 +10951,7 @@ KUTALD3.us,KUTA-LD3,Infomercials,US,US-UT,Salt Lake City,s/US-UT,eng,,false,
 KUTBLD2.us,KUTB-LD2,The Family Channel,US,US-UT,Salt Lake City,s/US-UT,eng,,false,https://cdn.tvpassport.com/image/station/100x100/familychannelusa.png
 KUTBLD3.us,KUTB-LD3,Three Angels,US,US-UT,Salt Lake City,s/US-UT,eng,,false,https://cdn.tvpassport.com/image/station/100x100/3abn.png
 KUTFTV.us,KUTF-TV,UniMás,US,US-UT,Salt Lake City,s/US-UT,eng,,false,https://cdn.tvpassport.com/image/station/100x100/unimas.png
-KUTHDT.us,KUTH,Univision,US,US-UT,Salt Lake City,s/US-UT,eng,,false,https://cdn.tvpassport.com/image/station/100x100/univision.png
+KUTHDT.us,KUTH-DT,Univision,US,US-UT,Salt Lake City,s/US-UT,eng,,false,https://cdn.tvpassport.com/image/station/100x100/univision.png
 KUTHDT2.us,KUTH-DT2,UniMás,US,US-UT,Salt Lake City,s/US-UT,eng,,false,https://cdn.tvpassport.com/image/station/100x100/unimas.png
 KUTHDT3.us,KUTH-DT3,GetTV,US,US-UT,Salt Lake City,s/US-UT,eng,,false,https://cdn.tvpassport.com/image/station/100x100/gettv.png
 KUTHDT4.us,KUTH-DT4,Court TV Mystery,US,US-UT,Salt Lake City,s/US-UT,eng,,false,https://cdn.tvpassport.com/image/station/100x100/court-tv-mystery.png
@@ -10970,12 +10970,12 @@ KUTVTV.us,KUTV-TV,,US,,,c/US,eng,,false,https://www.lyngsat.com/logo/tv/kk/kutv_
 KUVECD.us,KUVE-CD,Univision,US,US-AZ,Tucson,s/US-AZ,eng,,false,https://cdn.tvpassport.com/image/station/100x100/univision.png
 KUVECD3.us,KUVE-CD3,GetTV,US,US-AZ,Tucson,s/US-AZ,eng,,false,https://cdn.tvpassport.com/image/station/100x100/gettv.png
 KUVECD4.us,KUVE-CD4,Court TV Mystery,US,US-AZ,Tucson,s/US-AZ,eng,,false,https://cdn.tvpassport.com/image/station/100x100/court-tv-mystery.png
-KUVEDT.us,KUVE,Univision,US,US-AZ,Tucson,s/US-AZ,eng,,false,https://cdn.tvpassport.com/image/station/100x100/univision.png
+KUVEDT.us,KUVE-DT,Univision,US,US-AZ,Tucson,s/US-AZ,eng,,false,https://cdn.tvpassport.com/image/station/100x100/univision.png
 KUVEDT2.us,KUVE-DT2,UniMás,US,US-AZ,Tucson,s/US-AZ,eng,,false,https://cdn.tvpassport.com/image/station/100x100/unimas.png
 KUVEDT3.us,KUVE-DT3,GetTV,US,US-AZ,Tucson,s/US-AZ,eng,,false,https://cdn.tvpassport.com/image/station/100x100/gettv.png
 KUVEDT4.us,KUVE-DT4,Court TV Mystery,US,US-AZ,Tucson,s/US-AZ,eng,,false,https://cdn.tvpassport.com/image/station/100x100/court-tv-mystery.png
 KUVETV.us,KUVE-TV,,US,,,c/US,eng,,false,https://www.lyngsat.com/logo/tv/kk/kuve_tv_green_valley.png
-KUVIDT.us,KUVI,MyNetworkTV,US,US-CA,Bakersfield,s/US-CA,eng,,false,https://cdn.tvpassport.com/image/station/100x100/mnt.png
+KUVIDT.us,KUVI-DT,MyNetworkTV,US,US-CA,Bakersfield,s/US-CA,eng,,false,https://cdn.tvpassport.com/image/station/100x100/mnt.png
 KUVIDT2.us,KUVI-DT2,Univision,US,US-CA,Bakersfield,s/US-CA,eng,,false,https://cdn.tvpassport.com/image/station/100x100/univision.png
 KUVIDT3.us,KUVI-DT3,UniMás,US,US-CA,Bakersfield,s/US-CA,eng,,false,https://cdn.tvpassport.com/image/station/100x100/unimas.png
 KUVIDT5.us,KUVI-DT5,Court TV,US,US-CA,Bakersfield,s/US-CA,eng,,false,https://cdn.tvpassport.com/image/station/100x100/court-tv-2019.png
@@ -10988,13 +10988,13 @@ KUVMLD.us,KUVM-LD1,SSTN,US,US-TX,Missouri City,s/US-TX,eng,,false,https://cdn.tv
 KUVMLD2.us,KUVM-LD2,SonLife Network,US,US-TX,Missouri City,s/US-TX,eng,,false,https://cdn.tvpassport.com/image/station/100x100/sbn.png
 KUVMLD3.us,KUVM-LD3,Almavision,US,US-TX,Missouri City,s/US-TX,eng,,false,https://cdn.tvpassport.com/image/station/100x100/almavision.png
 KUVMLD6.us,KUVM-LD6,Peace TV,US,US-TX,Missouri City,s/US-TX,eng,,false,https://cdn.tvpassport.com/image/station/100x100/peacetv.png
-KUVNDT.us,KUVN,Univision,US,US-TX,Dallas,s/US-TX,eng,,false,https://cdn.tvpassport.com/image/station/100x100/univision.png
+KUVNDT.us,KUVN-DT,Univision,US,US-TX,Dallas,s/US-TX,eng,,false,https://cdn.tvpassport.com/image/station/100x100/univision.png
 KUVNDT2.us,KUVN-DT2,Bounce,US,US-TX,Garland,s/US-TX,eng,,false,https://cdn.tvpassport.com/image/station/100x100/bounce.png
 KUVNDT3.us,KUVN-DT3,Court TV Mystery,US,US-TX,Dallas,s/US-TX,eng,,false,https://cdn.tvpassport.com/image/station/100x100/court-tv-mystery.png
 KUVNDT4.us,KUVN-DT4,Laff,US,US-TX,Dallas,s/US-TX,eng,,false,https://cdn.tvpassport.com/image/station/100x100/laff.png
 KUVNTV.us,KUVN-TV,,US,,,c/US,eng,,false,https://www.lyngsat.com/logo/tv/kk/kuvn_dallas_fort_worth.png
 KuvoTV.ba,Kuvo TV,,BA,,,c/BA,bos,,false,https://mts.rs/oec/images/tv_channels/f38f1443315e374baf531b3e694c023f.jpg
-KUVSDT.us,KUVS,Univision,US,US-CA,Modesto,s/US-CA,eng,,false,https://cdn.tvpassport.com/image/station/100x100/univision.png
+KUVSDT.us,KUVS-DT,Univision,US,US-CA,Modesto,s/US-CA,eng,,false,https://cdn.tvpassport.com/image/station/100x100/univision.png
 KUVSDT2.us,KUVS-DT2,UniMás,US,US-CA,Sacramento,s/US-CA,eng,,false,https://cdn.tvpassport.com/image/station/100x100/unimas.png
 KUVSDT3.us,KUVS-DT3,Bounce,US,US-CA,Sacramento,s/US-CA,eng,,false,https://cdn.tvpassport.com/image/station/100x100/bounce.png
 KUVSDT4.us,KUVS-DT4,Court TV Mystery,US,US-CA,Modesto,s/US-CA,eng,,false,https://cdn.tvpassport.com/image/station/100x100/court-tv-mystery.png
@@ -11024,7 +11024,7 @@ KVBCLP6.us,KVBC-LP6,Heartland,US,US-CA,Reedley,s/US-CA,eng,,false,https://cdn.tv
 KVBCLP7.us,KVBC-LP7,Buzzr TV,US,US-CA,Fresno,s/US-CA,eng,,false,https://cdn.tvpassport.com/image/station/100x100/buzzrtv.png
 KVBCLP8.us,KVBC-LD8,Ventura Channel,US,US-CA,Fresno,s/US-CA,eng,,false,
 KVBCLP9.us,KVBC-LD9,NewsNet,US,US-CA,Fresno,s/US-CA,eng,,false,https://cdn.tvpassport.com/image/station/100x100/newsnet.png
-KVCRDT.us,KVCR,PBS,US,US-CA,San Bernardino,s/US-CA,eng,,false,https://cdn.tvpassport.com/image/station/100x100/pbs.png
+KVCRDT.us,KVCR-DT,PBS,US,US-CA,San Bernardino,s/US-CA,eng,,false,https://cdn.tvpassport.com/image/station/100x100/pbs.png
 KVCRDT2.us,KVCR-DT2,FNX,US,US-CA,San Bernardino,s/US-CA,eng,,false,https://cdn.tvpassport.com/image/station/100x100/fnx_logo.png
 KVCRDT3.us,KVCR-DT3,Empire PBS,US,US-CA,San Bernardino,s/US-CA,eng,,false,https://cdn.tvpassport.com/image/station/100x100/pbs.png
 KVCRDT4.us,KVCR-DT4,Create,US,US-CA,San Bernardino,s/US-CA,eng,,false,https://cdn.tvpassport.com/image/station/100x100/createtv.png
@@ -11129,14 +11129,14 @@ KVQTLD5.us,KVQT-LD5,URBT,US,US-TX,Houston,s/US-TX,eng,,false,https://cdn.tvpassp
 KVRRTV.us,KVRR-TV,FOX,US,US-ND,Fargo,s/US-ND,eng,,false,https://cdn.tvpassport.com/image/station/100x100/foxcable.png
 KVRR2.us,KVRR2,Antenna,US,US-ND,Fargo,s/US-ND,eng,,false,https://cdn.tvpassport.com/image/station/100x100/antenna-tv.png
 KVSNDT5.us,KVSN-DT5,True Crime Network,US,US-CO,Colorado Springs,s/US-CO,eng,,false,https://cdn.tvpassport.com/image/station/100x100/true-crime.png
-KVSNDT.us,KVSN,Univision,US,US-CO,Colorado Springs,s/US-CO,eng,,false,https://cdn.tvpassport.com/image/station/100x100/univision.png
+KVSNDT.us,KVSN-DT,Univision,US,US-CO,Colorado Springs,s/US-CO,eng,,false,https://cdn.tvpassport.com/image/station/100x100/univision.png
 KVSNDT2.us,KVSN-DT2,UniMás,US,US-CO,Colorado Springs,s/US-CO,eng,,false,https://cdn.tvpassport.com/image/station/100x100/unimas.png
 KVSNDT3.us,KVSN-DT3,LATV,US,US-CO,Colorado Springs,s/US-CO,eng,,false,https://cdn.tvpassport.com/image/station/100x100/latv.png
 KVSNDT4.us,KVSN-DT4,TBD TV,US,US-CO,Colorado Springs,s/US-CO,eng,,false,https://cdn.tvpassport.com/image/station/100x100/tbdtv.png
 KVTELP.us,KVTE-LP,GetTV,US,US-NV,Las Vegas,s/US-NV,eng,,false,https://cdn.tvpassport.com/image/station/100x100/gettv.png
-KVTHDT.us,KVTH,VTN,US,US-AR,Hot Springs,s/US-AR,eng,,false,
-KVTJDT.us,KVTJ,VTN,US,US-AR,Jonesboro,s/US-AR,eng,,false,
-KVTNDT.us,KVTN,VTN,US,US-AR,Little Rock,s/US-AR,eng,,false,
+KVTHDT.us,KVTH-DT,VTN,US,US-AR,Hot Springs,s/US-AR,eng,,false,
+KVTJDT.us,KVTJ-DT,VTN,US,US-AR,Jonesboro,s/US-AR,eng,,false,
+KVTNDT.us,KVTN-DT,VTN,US,US-AR,Little Rock,s/US-AR,eng,,false,
 KVTNTV.us,KVTN-TV,,US,,,c/US,eng,,false,https://www.lyngsat.com/logo/tv/kk/kvtj_jonesboro.png
 KVUETV.us,KVUE-TV,ABC,US,US-TX,Austin,s/US-TX,eng,,false,https://cdn.tvpassport.com/image/station/100x100/abc.png
 KVUEDT2.us,KVUE-DT2,Estrella,US,US-TX,Austin,s/US-TX,eng,,false,https://cdn.tvpassport.com/image/station/100x100/estrella.png
@@ -11189,7 +11189,7 @@ KWBQ4.us,KWBQ4,ION,US,US-NM,Santa Fe,s/US-NM,eng,,false,https://cdn.tvpassport.c
 KWBQ5.us,KWBQ5,Rewind TV US,US,US-NM,Santa Fe,s/US-NM,eng,,false,https://cdn.tvpassport.com/image/station/100x100/rewind-us.png
 KWCCLD.us,KWCC-LD,NCW Life,US,US-WA,Wenatchee,s/US-WA,eng,,false,
 KWCELP.us,KWCE-LP,MeTV,US,US-LA,Alexandria,s/US-LA,eng,,false,https://cdn.tvpassport.com/image/station/100x100/metv.png
-KWCHDT.us,KWCH,CBS,US,US-KS,Wichita,s/US-KS,eng,,false,https://cdn.tvpassport.com/image/station/100x100/cbs.png
+KWCHDT.us,KWCH-DT,CBS,US,US-KS,Wichita,s/US-KS,eng,,false,https://cdn.tvpassport.com/image/station/100x100/cbs.png
 KWCHDT4.us,KWCH-DT4,Circle,US,US-KS,Hutchinsonm,s/US-KS,eng,,false,https://cdn.tvpassport.com/image/station/100x100/circle.png
 KWCLDT3.us,KWCL-DT3,CW,US,US-LA,Monroe,s/US-LA,eng,,false,https://cdn.tvpassport.com/image/station/100x100/cw.png
 KWCMDT2.us,KWCM-DT2,Create,US,US-MN,Appleton,s/US-MN,eng,,false,https://cdn.tvpassport.com/image/station/100x100/createtv.png
@@ -11208,7 +11208,7 @@ KWESDT3.us,KWES-DT3,True Crime Network,US,US-TX,Midland,s/US-TX,eng,,false,https
 KWESDT5.us,KWES-DT5,Twist,US,US-TX,Midland,s/US-TX,eng,,false,https://cdn.tvpassport.com/image/station/100x100/twist_logo.png
 KWET.us,KWET,PBS,US,US-OK,Cheyenne,s/US-OK,eng,,false,https://cdn.tvpassport.com/image/station/100x100/pbs.png
 KWETDT2.us,KWET-DT2,PBS World,US,US-OK,OKLA Cheyenne,s/US-OK,eng,,false,https://cdn.tvpassport.com/image/station/100x100/pbs.png
-KWEXDT.us,KWEX,Univision,US,US-TX,San Antonio,s/US-TX,eng,,false,https://cdn.tvpassport.com/image/station/100x100/univision.png
+KWEXDT.us,KWEX-DT,Univision,US,US-TX,San Antonio,s/US-TX,eng,,false,https://cdn.tvpassport.com/image/station/100x100/univision.png
 KWEXDT2.us,KWEX-DT2,GetTV,US,US-TX,San Antonio,s/US-TX,eng,,false,https://cdn.tvpassport.com/image/station/100x100/gettv.png
 KWEXDT3.us,KWEX-DT3,Grit TV,US,US-TX,San Antonio,s/US-TX,eng,,false,https://cdn.tvpassport.com/image/station/100x100/grittv.png
 KWEXDT4.us,KWEX-DT4,Court TV,US,US-TX,San Antonio,s/US-TX,eng,,false,https://cdn.tvpassport.com/image/station/100x100/homeshop.png
@@ -11275,7 +11275,7 @@ KWSE.us,KWSE,PBS,US,US-ND,Williston,s/US-ND,eng,,false,https://cdn.tvpassport.co
 KWSE3.us,KWSE3,MN Channel,US,US-ND,Williston,s/US-ND,eng,,false,
 KWSUDT2.us,KWSU-DT2,Create,US,US-WA,Pullman,s/US-WA,eng,,false,https://cdn.tvpassport.com/image/station/100x100/createtv.png
 KWSUTV.us,KWSU-TV,,US,,,c/US,eng,,false,https://www.lyngsat.com/logo/tv/kk/ktnw-tv-us-wa.png
-KWTVDT.us,KWTV,CBS,US,US-OK,Oklahoma City,s/US-OK,eng,,false,https://cdn.tvpassport.com/image/station/100x100/cbs.png
+KWTVDT.us,KWTV-DT,CBS,US,US-OK,Oklahoma City,s/US-OK,eng,,false,https://cdn.tvpassport.com/image/station/100x100/cbs.png
 KWTVDT2.us,KWTV-DT2,News 9 Now,US,US-OK,Oklahoma City,s/US-OK,eng,,false,
 KWTXDT3.us,KWTX-DT3,MeTV,US,US-TX,Waco,s/US-TX,eng,,false,https://cdn.tvpassport.com/image/station/100x100/metv.png
 KWTXTV.us,KWTX-TV,CBS,US,US-TX,Waco,s/US-TX,eng,,false,https://cdn.tvpassport.com/image/station/100x100/cbs.png
@@ -11302,7 +11302,7 @@ KWYFLD.us,KWYF-LD,FOX,US,US-WY,Cheyenne,s/US-WY,eng,,false,https://cdn.tvpasspor
 KWYFLD2.us,KWYF-LD2,MeTV,US,US-WY,Casper,s/US-WY,eng,,false,https://cdn.tvpassport.com/image/station/100x100/metv.png
 KWYMLP.us,KWYM-LP,NBC,US,US-WY,Laramie,s/US-WY,eng,,false,https://cdn.tvpassport.com/image/station/100x100/nbc.png
 KWYMLP2.us,KWYM-LP2,CW Plus,US,US-WY,Laramie,s/US-WY,eng,,false,https://cdn.tvpassport.com/image/station/100x100/cw.png
-KWYPDT.us,KWYP,PBS,US,US-WY,Laramie,s/US-WY,eng,,false,https://cdn.tvpassport.com/image/station/100x100/pbs.png
+KWYPDT.us,KWYP-DT,PBS,US,US-WY,Laramie,s/US-WY,eng,,false,https://cdn.tvpassport.com/image/station/100x100/pbs.png
 KWYTLP.us,KWYT- 36.1,Estrella,US,US-WA,Yakima,s/US-WA,eng,,false,https://cdn.tvpassport.com/image/station/100x100/estrella.png
 KWYTLP4.us,KWYT-LP4,Almavision,US,US-WA,Yakima,s/US-WA,eng,,false,https://cdn.tvpassport.com/image/station/100x100/almavision.png
 KWYTLP5.us,KWYT-LP5,ESNE,US,US-WA,Yakima,s/US-WA,eng,,false,
@@ -11335,7 +11335,7 @@ KXLFDT2.us,KXLF-DT2,CW,US,US-MT,Butte,s/US-MT,eng,,false,https://cdn.tvpassport.
 KXLFTV.us,KXLF-TV,CBS,US,US-MT,Butte,s/US-MT,eng,,false,https://cdn.tvpassport.com/image/station/100x100/cbs.png
 KXLHLD.us,KXLH-LD,CBS,US,US-MT,Helena,s/US-MT,eng,,false,https://cdn.tvpassport.com/image/station/100x100/cbs.png
 KXLJLD.us,KXLJ-LD,CBS,US,US-AK,Juneau,s/US-AK,eng,,false,https://cdn.tvpassport.com/image/station/100x100/cbs.png
-KXLNDT.us,KXLN,Univision,US,US-TX,Houston,s/US-TX,eng,,false,https://cdn.tvpassport.com/image/station/100x100/univision.png
+KXLNDT.us,KXLN-DT,Univision,US,US-TX,Houston,s/US-TX,eng,,false,https://cdn.tvpassport.com/image/station/100x100/univision.png
 KXLNDT2.us,KXLN-DT2,UniMás,US,US-TX,Houston,s/US-TX,eng,,false,https://cdn.tvpassport.com/image/station/100x100/unimas.png
 KXLNDT3.us,KXLN-DT3,Court TV Mystery,US,US-TX,Houston,s/US-TX,eng,,false,https://cdn.tvpassport.com/image/station/100x100/court-tv-mystery.png
 KXLNTV.us,KXLN-TV,,US,,,c/US,eng,,false,https://www.lyngsat.com/logo/tv/kk/kxln_houston.png
@@ -19496,7 +19496,7 @@ WalfTV.sn,Walf TV,,SN,,,c/SN,fra,,false,https://service.canal-overseas.com/image
 WallisFutuna1ere.fr,Wallis & Futuna 1ère,,FR,,,c/FR,fra,,false,https://www.lyngsat.com/logo/tv/ww/wallis-et-futuna-1ere-fr-wf.png
 WaltaTV.et,Walta TV,,ET,,,c/ET,amh,,false,https://rndcdn.dstv.com/dstvcms/2020/03/10/WaltaTV_Logo_4-3_xlrg.png
 WALVCD.us,WALV-CD,MeTV,US,US-IN,Indianaplolis,s/US-IN,eng,,false,https://cdn.tvpassport.com/image/station/100x100/metv.png
-WAMIDT.us,WAMI,UniMás,US,US-FL,Miami,s/US-FL,eng,,false,https://cdn.tvpassport.com/image/station/100x100/unimas.png
+WAMIDT.us,WAMI-DT,UniMás,US,US-FL,Miami,s/US-FL,eng,,false,https://cdn.tvpassport.com/image/station/100x100/unimas.png
 WAMIDT3.us,WAMI-DT3,GetTV,US,US-FL,Hollywood,s/US-FL,eng,,false,https://cdn.tvpassport.com/image/station/100x100/gettv.png
 WAMIDT4.us,WAMI-DT4,Grit TV,US,US-FL,Hollywood,s/US-FL,eng,,false,https://cdn.tvpassport.com/image/station/100x100/grittv.png
 WAMIDT5.us,WAMI-DT5,Quest,US,US-FL,Hollywood,s/US-FL,eng,,false,https://cdn.tvpassport.com/image/station/100x100/quest_us.png
@@ -20167,7 +20167,7 @@ WDHNTV.us,WDHN-TV,ABC,US,US-AL,Dothan,s/US-AL,eng,,false,https://cdn.tvpassport.
 WDHN2.us,WDHN2,Court TV Mystery,US,US-AL,Dothan,s/US-AL,eng,,false,https://cdn.tvpassport.com/image/station/100x100/court-tv-mystery.png
 WDHN3.us,WDHN3,Laff,US,US-AL,Dothan,s/US-AL,eng,,false,https://cdn.tvpassport.com/image/station/100x100/laff.png
 WDHN4.us,WDHN4,Cozi TV,US,US-AL,Dothan,s/US-AL,eng,,false,https://cdn.tvpassport.com/image/station/100x100/cozitv.png
-WDIODT.us,WDIO,ABC,US,US-MN,Duluth,s/US-MN,eng,,false,https://cdn.tvpassport.com/image/station/100x100/abc.png
+WDIODT.us,WDIO-DT,ABC,US,US-MN,Duluth,s/US-MN,eng,,false,https://cdn.tvpassport.com/image/station/100x100/abc.png
 WDIODT2.us,WDIO-DT2,MeTV,US,US-MN,Duluth,s/US-MN,eng,,false,https://cdn.tvpassport.com/image/station/100x100/metv.png
 WDIODT3.us,WDIO-DT3,ION,US,US-MN,Duluth,s/US-MN,eng,,false,https://cdn.tvpassport.com/image/station/100x100/ion_2016.png
 WDIODT4.us,WDIO-DT4,Defy,US,US-MN,Duluth,s/US-MN,eng,,false,https://cdn.tvpassport.com/image/station/100x100/defytv.png
@@ -20206,7 +20206,7 @@ WDNVLD3.us,WDNV-LD3,QVC,US,US-GA,Atlanta,s/US-GA,eng,,false,https://cdn.tvpasspo
 WDPB.us,WDPB,PBS,US,US-DE,Seaford,s/US-DE,eng,,false,https://cdn.tvpassport.com/image/station/100x100/pbs.png
 WDPBDT2.us,WDPB-DT2,Y2,US,US-DE,Deaford,s/US-DE,eng,,false,
 WDPBDT3.us,WDPB-DT3,PBS Kids,US,US-DE,Deaford,s/US-DE,eng,,false,https://cdn.tvpassport.com/image/station/100x100/pbskids.png
-WDPMDT.us,WDPM,Daystar,US,US-AL,Mobile,s/US-AL,eng,,false,https://cdn.tvpassport.com/image/station/100x100/daystar_tv.png
+WDPMDT.us,WDPM-DT,Daystar,US,US-AL,Mobile,s/US-AL,eng,,false,https://cdn.tvpassport.com/image/station/100x100/daystar_tv.png
 WDPN.us,WDPN,MeTV,US,US-PA,Philadelphia,s/US-PA,eng,,false,https://cdn.tvpassport.com/image/station/100x100/metv.png
 WDPNDT2.us,WDPN-DT2,Grit TV,US,US-DE,Wilmington,s/US-DE,eng,,false,https://cdn.tvpassport.com/image/station/100x100/grittv.png
 WDPNDT3.us,WDPN-DT3,Court TV Mystery,US,US-DE,Wilmington,s/US-DE,eng,,false,https://cdn.tvpassport.com/image/station/100x100/court-tv-mystery.png
@@ -20460,7 +20460,7 @@ WFBN.us,WFBN,H&I,US,US-IL,Rockford,s/US-IL,eng,,false,https://cdn.tvpassport.com
 WFBNLD2.us,WFBN-LD2,Telemundo,US,US-IL,Rockford,s/US-IL,eng,,false,https://cdn.tvpassport.com/image/station/100x100/telemundo.png
 WFBNLD3.us,WFBN-LD3,Start TV,US,US-IL,Rockford,s/US-IL,eng,,false,https://cdn.tvpassport.com/image/station/100x100/start-tv.png
 WFBNLD4.us,WFBN-LD4,Telemundo,US,US-IL,Rockford,s/US-IL,eng,,false,https://cdn.tvpassport.com/image/station/100x100/telemundo.png
-WFDCDT.us,WFDC,Univision,US,US-DC,Washington,s/US-DC,eng,,false,https://cdn.tvpassport.com/image/station/100x100/univision.png
+WFDCDT.us,WFDC-DT,Univision,US,US-DC,Washington,s/US-DC,eng,,false,https://cdn.tvpassport.com/image/station/100x100/univision.png
 WFDCDT2.us,WFDC-DT2,GetTV,US,US-DC,Washington,s/US-DC,eng,,false,https://cdn.tvpassport.com/image/station/100x100/gettv.png
 WFDCDT3.us,WFDC-DT3,Grit TV,US,US-DC,Washington,s/US-DC,eng,,false,https://cdn.tvpassport.com/image/station/100x100/grittv.png
 WFDCDT4.us,WFDC-DT4,Bounce,US,US-DC,Washington,s/US-DC,eng,,false,https://cdn.tvpassport.com/image/station/100x100/bounce.png
@@ -20583,7 +20583,7 @@ WFTSDT2.us,WFTS-DT2,Laff,US,US-FL,Tampa,s/US-FL,eng,,false,https://cdn.tvpasspor
 WFTSDT3.us,WFTS-DT3,Grit TV,US,US-FL,Tampa,s/US-FL,eng,,false,https://cdn.tvpassport.com/image/station/100x100/grittv.png
 WFTSDT4.us,WFTS-DT4,Court TV,US,US-FL,Tampa,s/US-FL,eng,,false,https://cdn.tvpassport.com/image/station/100x100/court-tv-2019.png
 WFTSTV.us,WFTS-TV,ABC,US,US-FL,Tampa Bay,s/US-FL,eng,,false,https://cdn.tvpassport.com/image/station/100x100/abc.png
-WFTTDT.us,WFTT,UniMás,US,US-FL,Tampa Bay,s/US-FL,eng,,false,https://cdn.tvpassport.com/image/station/100x100/unimas.png
+WFTTDT.us,WFTT-DT,UniMás,US,US-FL,Tampa Bay,s/US-FL,eng,,false,https://cdn.tvpassport.com/image/station/100x100/unimas.png
 WFTTDT2.us,WFTT-DT2,LATV,US,US-FL,Tampa,s/US-FL,eng,,false,https://cdn.tvpassport.com/image/station/100x100/latv.png
 WFTTDT3.us,WFTT-DT3,Comet TV,US,US-FL,Tampa,s/US-FL,eng,,false,https://cdn.tvpassport.com/image/station/100x100/comet.png
 WFTTDT4.us,WFTT-DT4,CHARGE!,US,US-FL,Tampa,s/US-FL,eng,,false,https://cdn.tvpassport.com/image/station/100x100/chargenetwork.png
@@ -20596,13 +20596,13 @@ WFTXDT2.us,WFTX-DT2,Bounce,US,US-FL,Cape Coral,s/US-FL,eng,,false,https://cdn.tv
 WFTXDT4.us,WFTX-DT4,Grit TV,US,US-FL,Fort Myers,s/US-FL,eng,,false,https://cdn.tvpassport.com/image/station/100x100/grittv.png
 WFTXDT5.us,WFTX-DT5,ION,US,US-FL,Cape Coral,s/US-FL,eng,,false,https://cdn.tvpassport.com/image/station/100x100/ion_2016.png
 WFTXTV.us,WFTX-TV,FOX,US,US-FL,Cape Coral,s/US-FL,eng,,false,https://cdn.tvpassport.com/image/station/100x100/foxcable.png
-WFTYDT.us,WFTY,UniMás,US,US-NY,Smithtown,s/US-NY,eng,,false,https://cdn.tvpassport.com/image/station/100x100/unimas.png
+WFTYDT.us,WFTY-DT,UniMás,US,US-NY,Smithtown,s/US-NY,eng,,false,https://cdn.tvpassport.com/image/station/100x100/unimas.png
 WFTYDT2.us,WFTY-DT2,Univision,US,US-NY,New York,s/US-NY,eng,,false,https://cdn.tvpassport.com/image/station/100x100/univision.png
 WFTYDT4.us,WFTY-DT4,Court TV Mystery,US,US-NY,Smithtown,s/US-NY,eng,,false,https://cdn.tvpassport.com/image/station/100x100/court-tv-mystery.png
 WFUNLD.us,WFUN-LD,WFUN-LD,US,US-FL,Miami,c/US,eng,,false,https://www.lyngsat.com/logo/tv/ww/wfun_miami.png
 WFUNLD2.us,WFUN-LD2,Teveo,US,US-FL,Miami,s/US-FL,eng,,false,
 WFUP.us,WFUP,FOX,US,US-MI,Vanderbilt/ Gaylord,s/US-MI,eng,,false,https://cdn.tvpassport.com/image/station/100x100/foxcable.png
-WFUTDT.us,WFUT,UniMás,US,US-NY,New York,s/US-NY,eng,,false,https://cdn.tvpassport.com/image/station/100x100/unimas.png
+WFUTDT.us,WFUT-DT,UniMás,US,US-NY,New York,s/US-NY,eng,,false,https://cdn.tvpassport.com/image/station/100x100/unimas.png
 WFUTDT2.us,WFUT-DT2,True Crime Network,US,US-NJ,Newark,s/US-NJ,eng,,false,https://cdn.tvpassport.com/image/station/100x100/true-crime.png
 WFUTDT3.us,WFUT-DT3,GetTV,US,US-NJ,Newark,s/US-NJ,eng,,false,https://cdn.tvpassport.com/image/station/100x100/gettv.png
 WFUTDT4.us,WFUT-DT4,Court TV Mystery,US,US-NJ,Newark,s/US-NJ,eng,,false,https://cdn.tvpassport.com/image/station/100x100/court-tv-mystery.png
@@ -20688,7 +20688,7 @@ WGBILP.us,WGBI-LP,Retro TV,US,US-ME,Portland,s/US-ME,eng,,false,https://cdn.tvpa
 WGBKeno.ng,WGB Keno,,NG,,,c/NG,eng,,false,https://www.lyngsat.com/logo/tv/ww/wgb_ng.png
 WGBLiveDogRace.ng,WGB Live Dog Race,,NG,,,c/NG,eng,,false,https://www.lyngsat.com/logo/tv/ww/wgb_ng.png
 WGBLuckyBalls.ng,WGB Lucky Balls,,NG,,,c/NG,eng,,false,https://www.lyngsat.com/logo/tv/ww/wgb_ng_lucky_balls.png
-WGBODT.us,WGBO,Univision,US,US-IL,Chicago,s/US-IL,eng,,false,https://cdn.tvpassport.com/image/station/100x100/univision.png
+WGBODT.us,WGBO-DT,Univision,US,US-IL,Chicago,s/US-IL,eng,,false,https://cdn.tvpassport.com/image/station/100x100/univision.png
 WGBODT2.us,WGBO-DT2,Laff,US,US-IL,Joliet,s/US-IL,eng,,false,https://cdn.tvpassport.com/image/station/100x100/laff.png
 WGBODT3.us,WGBO-DT3,GetTV,US,US-IL,Joliet,s/US-IL,eng,,false,https://cdn.tvpassport.com/image/station/100x100/gettv.png
 WGBODT4.us,WGBO-DT4,True Crime Network,US,US-IL,Joliet,s/US-IL,eng,,false,https://cdn.tvpassport.com/image/station/100x100/true-crime.png
@@ -20980,7 +20980,7 @@ WHNTDT2.us,WHNT-DT2,CW,US,US-AL,Huntsville,s/US-AL,eng,,false,https://cdn.tvpass
 WHNTDT3.us,WHNT-DT3,Antenna,US,US-AL,Huntsville,s/US-AL,eng,,false,https://cdn.tvpassport.com/image/station/100x100/antenna-tv.png
 WHNTTV.us,WHNT-TV,CBS,US,US-AL,Huntsville,s/US-AL,eng,,false,https://cdn.tvpassport.com/image/station/100x100/cbs.png
 WHNWLD.us,WHNW-LD,World Harvest,US,US-IN,Gary,s/US-IN,eng,,false,https://cdn.tvpassport.com/image/station/100x100/worldharvest.png
-WHODT.us,WHO,NBC,US,US-IA,Des Moines,s/US-IA,eng,,false,https://cdn.tvpassport.com/image/station/100x100/nbc.png
+WHODT.us,WHO-DT,NBC,US,US-IA,Des Moines,s/US-IA,eng,,false,https://cdn.tvpassport.com/image/station/100x100/nbc.png
 WHODT2.us,WHO-DT2,SportsGrid,US,US-IA,Des Moines,s/US-IA,eng,,false,https://cdn.tvpassport.com/image/station/100x100/sportsgrid.png
 WHODT3.us,WHO-DT3,Antenna,US,US-IA,Des Moines,s/US-IA,eng,,false,https://cdn.tvpassport.com/image/station/100x100/antenna-tv.png
 WHODT4.us,WHO-DT4,Court TV,US,US-IA,Des Moines,s/US-IA,eng,,false,https://cdn.tvpassport.com/image/station/100x100/court-tv-2019.png
@@ -21156,7 +21156,7 @@ WIRPLD5.us,WIRP-LD5,QVC,US,US-NC,Raleigh,s/US-NC,eng,,false,https://cdn.tvpasspo
 WIRPLD6.us,WIRP-LD6,SSTN,US,US-NC,Raleigh,s/US-NC,eng,,false,https://cdn.tvpassport.com/image/station/100x100/sstn.png
 WIRPLD7.us,WIRP-LD7,Movies!,US,US-NC,Raleigh,s/US-NC,eng,,false,https://cdn.tvpassport.com/image/station/100x100/movies.png
 WIRSDT2.us,WIRS-DT2,SonLife,US,US-PR,Ponce,s/US-PR,eng,,false,https://cdn.tvpassport.com/image/station/100x100/sbn.png
-WIRTDT.us,WIRT,ABC,US,US-MN,Hibbing,s/US-MN,eng,,false,https://cdn.tvpassport.com/image/station/100x100/abc.png
+WIRTDT.us,WIRT-DT,ABC,US,US-MN,Hibbing,s/US-MN,eng,,false,https://cdn.tvpassport.com/image/station/100x100/abc.png
 WISTV.us,WIS-TV,NBC,US,US-SC,Columbia,s/US-SC,eng,,false,https://cdn.tvpassport.com/image/station/100x100/nbc.png
 WISDT2.us,WIS-DT2,CW,US,US-SC,Columbia,s/US-SC,eng,,false,https://cdn.tvpassport.com/image/station/100x100/cw.png
 WIS3.us,WIS3,Bounce,US,US-SC,Columbia,s/US-SC,eng,,false,https://cdn.tvpassport.com/image/station/100x100/bounce.png
@@ -21410,7 +21410,7 @@ WKBSDT2.us,WKBS-DT2,Court TV,US,US-PA,Altoona,s/US-PA,eng,,false,https://cdn.tvp
 WKBSDT3.us,WKBS-DT3,Bounce,US,US-PA,Altoona,s/US-PA,eng,,false,https://cdn.tvpassport.com/image/station/100x100/bounce.png
 WKBSDT4.us,WKBS-DT4,ION,US,US-PA,Altoona,s/US-PA,eng,,false,https://cdn.tvpassport.com/image/station/100x100/cornerstone.png
 WKBSDT5.us,WKBS-DT5,DABL,US,US-PA,Altoona,s/US-PA,eng,,false,https://cdn.tvpassport.com/image/station/100x100/dabl.png
-WKBTDT.us,WKBT,CBS,US,US-WI,La Crosse,s/US-WI,eng,,false,https://cdn.tvpassport.com/image/station/100x100/cbs.png
+WKBTDT.us,WKBT-DT,CBS,US,US-WI,La Crosse,s/US-WI,eng,,false,https://cdn.tvpassport.com/image/station/100x100/cbs.png
 WKBTDT2.us,WKBT-DT2,MyNetworkTV,US,US-WI,La Crosse,s/US-WI,eng,,false,https://cdn.tvpassport.com/image/station/100x100/mnt.png
 WKBTDT3.us,WKBT-DT3,ION,US,US-WI,La Crosse,s/US-WI,eng,,false,https://cdn.tvpassport.com/image/station/100x100/ion_2016.png
 WKBWDT2.us,WKBW-DT2,Bounce,US,US-NY,Buffalo,s/US-NY,eng,,false,https://cdn.tvpassport.com/image/station/100x100/bounce.png
@@ -21641,7 +21641,7 @@ WLGA.us,WLGA,Cozi TV,US,US-AL,Opelika,s/US-AL,eng,,false,https://cdn.tvpassport.
 WLGA2.us,WLGA2,HSN,US,US-AL,Opelika,s/US-AL,eng,,false,https://cdn.tvpassport.com/image/station/100x100/twist_logo.png
 WLGADT3.us,WLGA-DT3,THIS,US,US-AL,Opelika,s/US-AL,eng,,false,https://cdn.tvpassport.com/image/station/100x100/quest_us.png
 WLGADT7.us,WLGA-DT7,True Crime Network,US,US-AL,Opelika,s/US-AL,eng,,false,https://cdn.tvpassport.com/image/station/100x100/true-crime.png
-WLIIDT.us,WLII,Univision,US,US-PR,San Juan,s/US-PR,eng,,false,https://cdn.tvpassport.com/image/station/100x100/univision.png
+WLIIDT.us,WLII-DT,Univision,US,US-PR,San Juan,s/US-PR,eng,,false,https://cdn.tvpassport.com/image/station/100x100/univision.png
 WLIO.us,WLIO,NBC,US,US-OH,Lima,s/US-OH,eng,,false,https://cdn.tvpassport.com/image/station/100x100/nbc.png
 WLIO2.us,WLIO2,FOX,US,US-OH,Lima,s/US-OH,eng,,false,https://cdn.tvpassport.com/image/station/100x100/foxcable.png
 WLIODT2.us,WLIO-DT2,,US,,,c/US,eng,,false,https://www.lyngsat.com/logo/tv/ww/wlio-dt-2-us-oh.png
@@ -21656,7 +21656,7 @@ WLJCDT5.us,WLJC-DT5,THIS,US,US-KY,Beattyville,s/US-KY,eng,,false,https://cdn.tvp
 WLJCDT6.us,WLJC-DT6,Start TV,US,US-KY,Beattyville,s/US-KY,eng,,false,https://cdn.tvpassport.com/image/station/100x100/start-tv.png
 WLJCTV.us,WLJC-TV,Cozi,US,US-KY,Beattyville,s/US-KY,eng,,false,https://cdn.tvpassport.com/image/station/100x100/cozitv.png
 WLJTDT3.us,WLJT-DT3,Create,US,US-TN,Jackson,s/US-TN,eng,,false,https://cdn.tvpassport.com/image/station/100x100/createtv.png
-WLJTDT.us,WLJT,PBS,US,US-TN,Lexington,s/US-TN,eng,,false,https://cdn.tvpassport.com/image/station/100x100/pbs.png
+WLJTDT.us,WLJT-DT,PBS,US,US-TN,Lexington,s/US-TN,eng,,false,https://cdn.tvpassport.com/image/station/100x100/pbs.png
 WLJTDT2.us,WLJT-DT2,PBS Kids,US,US-TN,Jackson,s/US-TN,eng,,false,https://cdn.tvpassport.com/image/station/100x100/pbskids.png
 WLKYTV.us,WLKY-TV,CBS,US,US-KY,Louisville,c/US,eng,news,false,https://cdn.tvpassport.com/image/station/100x100/cbs.png
 WLKY2.us,WLKY2,MeTV,US,US-KY,Louisville,s/US-KY,eng,,false,https://cdn.tvpassport.com/image/station/100x100/metv.png
@@ -21731,7 +21731,7 @@ WLRNTV.us,WLRN-TV,PBS,US,US-FL,Miami,s/US-FL,eng,,false,https://cdn.tvpassport.c
 WLSDT2.us,WLS-DT2,Localish,US,US-IL,Chicago,s/US-IL,eng,,false,https://cdn.tvpassport.com/image/station/100x100/localish.png
 WLSDT3.us,WLS-DT3,THIS,US,US-IL,Chicago,s/US-IL,eng,,false,https://cdn.tvpassport.com/image/station/100x100/this_tv.png
 WLSTV.us,WLS-TV,ABC,US,US-IL,Chicago,s/US-IL,eng,,false,https://cdn.tvpassport.com/image/station/100x100/abc.png
-WLTVDT.us,WLTV,Univision,US,US-FL,Miami,s/US-FL,eng,,false,https://cdn.tvpassport.com/image/station/100x100/univision.png
+WLTVDT.us,WLTV-DT,Univision,US,US-FL,Miami,s/US-FL,eng,,false,https://cdn.tvpassport.com/image/station/100x100/univision.png
 WLTVDT2.us,WLTV-DT2,True Crime Network,US,US-FL,Miami,s/US-FL,eng,,false,https://cdn.tvpassport.com/image/station/100x100/true-crime.png
 WLTVDT3.us,WLTV-DT3,Court TV Mystery,US,US-FL,Miami,s/US-FL,eng,,false,https://cdn.tvpassport.com/image/station/100x100/court-tv-mystery.png
 WLTVDT4.us,WLTV-DT4,Laff,US,US-FL,Miami,s/US-FL,eng,,false,https://cdn.tvpassport.com/image/station/100x100/laff.png
@@ -22088,7 +22088,7 @@ WNPBDT3.us,WNPB-DT3,PBS Kids,US,US-WV,Morgantown,s/US-WV,eng,,false,https://cdn.
 WNPBTV.us,WNPB-TV,PBS,US,US-WV,Morgantown,s/US-WV,eng,,false,https://cdn.tvpassport.com/image/station/100x100/pbs.png
 WNPBDT2.us,WNPB-DT2,PBS World,US,US-WV,Morgantown,s/US-WV,eng,,false,https://cdn.tvpassport.com/image/station/100x100/pbs.png
 WNPIDT4.us,WNPI-DT4,PBS Kids 24/7,US,US-NY,Watertown,s/US-NY,eng,,false,https://cdn.tvpassport.com/image/station/100x100/pbskids.png
-WNPIDT.us,WNPI,PBS,US,US-NY,Watertown,s/US-NY,eng,,false,https://cdn.tvpassport.com/image/station/100x100/pbs.png
+WNPIDT.us,WNPI-DT,PBS,US,US-NY,Watertown,s/US-NY,eng,,false,https://cdn.tvpassport.com/image/station/100x100/pbs.png
 WNPIDT2.us,WNPI-DT2,Create,US,US-NY,Watertown,s/US-NY,eng,,false,https://cdn.tvpassport.com/image/station/100x100/createtv.png
 WNPIDT3.us,WNPI-DT3,PBS World,US,US-NY,Watertown,s/US-NY,eng,,false,https://cdn.tvpassport.com/image/station/100x100/pbsworldchannel.png
 WNPTTV.us,WNPT-TV,PBS,US,US-TN,Nashville,s/US-TN,eng,,false,https://cdn.tvpassport.com/image/station/100x100/pbs.png
@@ -22212,7 +22212,7 @@ WOHLDT2.us,WOHL-DT2,,US,,,c/US,eng,,false,https://www.lyngsat.com/logo/tv/ww/woh
 WOHOCD.us,WOHO-CD,My Network TV,US,US-MI,Holland,s/US-MI,eng,,false,https://cdn.tvpassport.com/image/station/100x100/mnt.png
 WOHOCD2.us,WOHO-CD2,Cozi TV,US,US-MI,Holland,s/US-MI,eng,,false,https://cdn.tvpassport.com/image/station/100x100/cozitv.png
 WOHOCD3.us,WOHO-CD3,Court TV Mystery,US,US-MI,Holland,s/US-MI,eng,,false,https://cdn.tvpassport.com/image/station/100x100/court-tv-mystery.png
-WOIDT.us,WOI,ABC,US,US-IA,Des Moines,s/US-IA,eng,,false,https://cdn.tvpassport.com/image/station/100x100/abc.png
+WOIDT.us,WOI-DT,ABC,US,US-IA,Des Moines,s/US-IA,eng,,false,https://cdn.tvpassport.com/image/station/100x100/abc.png
 WOIDT2.us,WOI-DT2,True Crime Network,US,US-IA,Boise,s/US-IA,eng,,false,https://cdn.tvpassport.com/image/station/100x100/true-crime.png
 WOIDT3.us,WOI-DT3,Grit TV,US,US-IA,Boise,s/US-IA,eng,,false,https://cdn.tvpassport.com/image/station/100x100/grittv.png
 WOIDT4.us,WOI-DT4,Cozi TV,US,US-IA,Ames,s/US-IA,eng,,false,https://cdn.tvpassport.com/image/station/100x100/cozitv.png
@@ -22291,7 +22291,7 @@ WOSC5.us,WOSC5,Court TV Mystery,US,US-PA,Pittsburgh,s/US-PA,eng,,false,https://c
 WOSCCD.us,WOSC-CD,HSN,US,US-PA,Pittsburgh,s/US-PA,eng,,false,https://cdn.tvpassport.com/image/station/100x100/homeshop.png
 WOSUDT4.us,WOSU-DT4,PBS Kids,US,US-OH,Columbus,s/US-OH,eng,,false,https://cdn.tvpassport.com/image/station/100x100/pbskids.png
 WOSUTV.us,WOSU-TV,,US,,,c/US,eng,,false,https://www.lyngsat.com/logo/tv/ww/wosu-tv-us-oh.png
-WOTFDT.us,WOTF,UniMás,US,US-FL,Orlando,s/US-FL,eng,,false,https://cdn.tvpassport.com/image/station/100x100/unimas.png
+WOTFDT.us,WOTF-DT,UniMás,US,US-FL,Orlando,s/US-FL,eng,,false,https://cdn.tvpassport.com/image/station/100x100/unimas.png
 WOTFDT2.us,WOTF-DT2,LATV,US,US-FL,Orlando,s/US-FL,eng,,false,https://cdn.tvpassport.com/image/station/100x100/latv.png
 WOTFDT3.us,WOTF-DT3,Comet TV,US,US-FL,Orlando,s/US-FL,eng,,false,https://cdn.tvpassport.com/image/station/100x100/comet.png
 WOTFDT4.us,WOTF-DT4,CHARGE!,US,US-FL,Orlando,s/US-FL,eng,,false,https://cdn.tvpassport.com/image/station/100x100/chargenetwork.png
@@ -22351,7 +22351,7 @@ WPBNTV.us,WPBN-TV,NBC,US,US-MI,Traverse City,s/US-MI,eng,,false,https://cdn.tvpa
 WPBNDT2.us,WPBN-DT2,ABC,US,US-MI,Cadillac,s/US-MI,eng,,false,https://cdn.tvpassport.com/image/station/100x100/abc.png
 WPBO.us,WPBO,PBS,US,US-OH,Portsmouth,s/US-OH,eng,,false,https://cdn.tvpassport.com/image/station/100x100/pbs.png
 WPBODT2.us,WPBO-DT2,Ohio Channel,US,US-OH,Portsmouth,s/US-OH,eng,,false,https://cdn.tvpassport.com/image/station/100x100/ohiochannel.png
-WPBSDT.us,WPBS,PBS,US,US-NY,Watertown,s/US-NY,eng,,false,https://cdn.tvpassport.com/image/station/100x100/pbs.png
+WPBSDT.us,WPBS-DT,PBS,US,US-NY,Watertown,s/US-NY,eng,,false,https://cdn.tvpassport.com/image/station/100x100/pbs.png
 WPBSDT2.us,WPBS-DT2,Create,US,US-NY,Watertown,s/US-NY,eng,,false,https://cdn.tvpassport.com/image/station/100x100/createtv.png
 WPBSDT3.us,WPBS-DT3,PBS World,US,US-NY,Watertown,s/US-NY,eng,,false,https://cdn.tvpassport.com/image/station/100x100/pbsworldchannel.png
 WPBSDT4.us,WPBS-DT4,PBS Kids,US,US-NY,Watertown,s/US-NY,eng,,false,https://cdn.tvpassport.com/image/station/100x100/pbskids.png
@@ -22638,7 +22638,7 @@ WQEKLD4.us,WQEK-LD4,Stadium,US,US-MS,Clarksdale,s/US-MS,eng,,false,https://cdn.t
 WQEKLD5.us,WQEK-LD5,True Crime Network,US,US-MS,Clarksdale,s/US-MS,eng,,false,https://cdn.tvpassport.com/image/station/100x100/true-crime.png
 WQEKLD7.us,WQEK-LD7,Shop LC,US,US-MS,Clarksdale,s/US-MS,eng,,false,https://cdn.tvpassport.com/image/station/100x100/shop-lc.png
 WQEKLD8.us,WQEK-LD8,QVC2,US,US-MS,Clarksdale,s/US-MS,eng,,false,https://cdn.tvpassport.com/image/station/100x100/qvc.png
-WQHSDT.us,WQHS,Univision,US,US-OH,Cleveland,s/US-OH,eng,,false,https://cdn.tvpassport.com/image/station/100x100/univision.png
+WQHSDT.us,WQHS-DT,Univision,US,US-OH,Cleveland,s/US-OH,eng,,false,https://cdn.tvpassport.com/image/station/100x100/univision.png
 WQHSDT2.us,WQHS-DT2,UniMás,US,US-OH,Cleveland,s/US-OH,eng,,false,https://cdn.tvpassport.com/image/station/100x100/unimas.png
 WQHSDT3.us,WQHS-DT3,GetTV,US,US-OH,Cleveland,s/US-OH,eng,,false,https://cdn.tvpassport.com/image/station/100x100/gettv.png
 WQHSDT5.us,WQHS-DT5,DABL,US,US-OH,Cleveland,s/US-OH,eng,,false,https://cdn.tvpassport.com/image/station/100x100/dabl.png
@@ -23007,7 +23007,7 @@ WSTRDT3.us,WSTR-DT3,Comet TV,US,US-OH,Cincinnati,s/US-OH,eng,,false,https://cdn.
 WSTRDT5.us,WSTR-DT5,DABL,US,US-OH,Cincinnati,s/US-OH,eng,,false,https://cdn.tvpassport.com/image/station/100x100/dabl.png
 WSTRTV.us,WSTR-TV,MyNetworkTV,US,US-OH,Cincinnati,s/US-OH,eng,,false,https://cdn.tvpassport.com/image/station/100x100/mnt.png
 WSTRDT4.us,WSTR-DT4,TBD TV,US,US-OH,Cincinnati,s/US-OH,eng,,false,https://cdn.tvpassport.com/image/station/100x100/tbdtv.png
-WSURDT.us,WSUR,UniMás,US,US-PR,Ponce,s/US-PR,eng,,false,https://cdn.tvpassport.com/image/station/100x100/unimas.png
+WSURDT.us,WSUR-DT,UniMás,US,US-PR,Ponce,s/US-PR,eng,,false,https://cdn.tvpassport.com/image/station/100x100/unimas.png
 WSVFCD.us,WSVF-CD,FOX,US,US-VA,Harrisonburg,s/US-VA,eng,,false,https://cdn.tvpassport.com/image/station/100x100/foxcable.png
 WSVFCD2.us,WSVF-CD2,CBS,US,US-VA,Harrisonburg,s/US-VA,eng,,false,https://cdn.tvpassport.com/image/station/100x100/cbs.png
 WSVFLD.us,WSVF-LD,,US,,,c/US,eng,,false,https://www.lyngsat.com/logo/tv/ww/wsvf_harrisonburg.png
@@ -23300,7 +23300,7 @@ WTVPTV.us,WTVP-TV,PBS,US,US-IL,Central Illonois,s/US-IL,eng,,false,https://cdn.t
 WTVP2.us,WTVP2,PBS Kids 24/7,US,US-IL,Peoria,s/US-IL,eng,,false,https://cdn.tvpassport.com/image/station/100x100/pbskids.png
 WTVP3.us,WTVP3,PBS World,US,US-IL,Central Illinois,s/US-IL,eng,,false,https://cdn.tvpassport.com/image/station/100x100/pbsworldchannel.png
 WTVP4.us,WTVP4,Create,US,US-IL,Central Illonois,s/US-IL,eng,,false,https://cdn.tvpassport.com/image/station/100x100/createtv.png
-WTVQDT.us,WTVQ,ABC,US,US-KY,Lexington,s/US-KY,eng,,false,https://cdn.tvpassport.com/image/station/100x100/abc.png
+WTVQDT.us,WTVQ-DT,ABC,US,US-KY,Lexington,s/US-KY,eng,,false,https://cdn.tvpassport.com/image/station/100x100/abc.png
 WTVQDT2.us,WTVQ-DT2,MyKY,US,US-KY,Lexington,s/US-KY,eng,,false,https://cdn.tvpassport.com/image/station/100x100/mnt.png
 WTVQDT3.us,WTVQ-DT3,True Crime Network,US,US-KY,Lexington,s/US-KY,eng,,false,https://cdn.tvpassport.com/image/station/100x100/true-crime.png
 WTVQDT4.us,WTVQ-DT4,Laff,US,US-KY,Lexington,s/US-KY,eng,,false,https://cdn.tvpassport.com/image/station/100x100/laff.png
@@ -23489,7 +23489,7 @@ WUSIDT2.us,WUSI-DT2,PBS World,US,US-IL,Olney,s/US-IL,eng,,false,https://cdn.tvpa
 WUSVLD.us,WUSV-LD,Antenna,US,US-WV,Clarksburg,s/US-WV,eng,,false,https://cdn.tvpassport.com/image/station/100x100/antenna-tv.png
 WUTBTV.us,WUTB-TV,MyNetworkTV,US,US-MD,Baltimore,s/US-MD,eng,,false,https://cdn.tvpassport.com/image/station/100x100/mnt.png
 WUTB2.us,WUTB2,Grit TV,US,US-MD,Baltimore,s/US-MD,eng,,false,https://cdn.tvpassport.com/image/station/100x100/grittv.png
-WUTFDT.us,WUTF,UniMás,US,US-MA,Boston,s/US-MA,eng,,false,https://cdn.tvpassport.com/image/station/100x100/unimas.png
+WUTFDT.us,WUTF-DT,UniMás,US,US-MA,Boston,s/US-MA,eng,,false,https://cdn.tvpassport.com/image/station/100x100/unimas.png
 WUTFDT2.us,WUTF-DT2,LATV,US,US-MA,Boston,s/US-MA,eng,,false,https://cdn.tvpassport.com/image/station/100x100/latv.png
 WUTFDT3.us,WUTF-DT3,TBD TV,US,US-MA,Boston,s/US-MA,eng,,false,https://cdn.tvpassport.com/image/station/100x100/tbdtv.png
 WUTFDT4.us,WUTF-DT4,Stadium,US,US-MA,Boston,s/US-MA,eng,,false,https://cdn.tvpassport.com/image/station/100x100/stadium.png
@@ -23502,7 +23502,7 @@ WUTV.us,WUTV,FOX,US,US-NY,Buffalo,c/US,eng,,false,https://upload.wikimedia.org/w
 WUTVDT2.us,WUTV-DT2,TBD TV,US,US-NY,Buffalo,s/US-NY,eng,,false,https://cdn.tvpassport.com/image/station/100x100/tbdtv.png
 WUTV3.us,WUTV3,CHARGE!,US,US-NY,Buffalo,s/US-NY,eng,,false,https://cdn.tvpassport.com/image/station/100x100/chargenetwork.png
 WUTVTV.us,WUTV-TV,,US,,,c/US,eng,,false,https://www.lyngsat.com/logo/tv/ww/wutv-tv-us-ny.png
-WUVCDT.us,WUVC,Univision,US,US-NC,Fayetteville,s/US-NC,eng,,false,https://cdn.tvpassport.com/image/station/100x100/univision.png
+WUVCDT.us,WUVC-DT,Univision,US,US-NC,Fayetteville,s/US-NC,eng,,false,https://cdn.tvpassport.com/image/station/100x100/univision.png
 WUVCDT2.us,WUVC-DT2,UniMás,US,US-NC,Raleigh,s/US-NC,eng,,false,https://cdn.tvpassport.com/image/station/100x100/unimas.png
 WUVCDT3.us,WUVC-DT3,Bounce,US,US-NC,Raleigh,s/US-NC,eng,,false,https://cdn.tvpassport.com/image/station/100x100/bounce.png
 WUVCDT4.us,WUVC-DT4,GetTV,US,US-NC,Raleigh,s/US-NC,eng,,false,https://cdn.tvpassport.com/image/station/100x100/gettv.png
@@ -23511,7 +23511,7 @@ WUVCDT6.us,WUVC-DT6,Quest,US,US-NC,Raleigh,s/US-NC,eng,,false,https://cdn.tvpass
 WUVCTV.us,WUVC-TV,,US,,,c/US,eng,,false,https://www.lyngsat.com/logo/tv/ww/wuvc_40_fayetteville.png
 WUVFLD.us,WUVF-LD,Univision,US,US-FL,Fort Myers,s/US-FL,eng,,false,https://cdn.tvpassport.com/image/station/100x100/univision.png
 WUVFLD2.us,WUVF-LD2,UniMás,US,US-FL,Fort Myers,s/US-FL,eng,,false,https://cdn.tvpassport.com/image/station/100x100/unimas.png
-WUVGDT.us,WUVG,Univision,US,US-GA,Atlanta,s/US-GA,eng,,false,https://cdn.tvpassport.com/image/station/100x100/univision.png
+WUVGDT.us,WUVG-DT,Univision,US,US-GA,Atlanta,s/US-GA,eng,,false,https://cdn.tvpassport.com/image/station/100x100/univision.png
 WUVGDT2.us,WUVG-DT2,UniMás,US,US-GA,Atlanta,s/US-GA,eng,,false,https://cdn.tvpassport.com/image/station/100x100/unimas.png
 WUVGDT3.us,WUVG-DT3,GetTV,US,US-GA,Atlanta,s/US-GA,eng,,false,https://cdn.tvpassport.com/image/station/100x100/gettv.png
 WUVGDT4.us,WUVG-DT4,Court TV Mystery,US,US-GA,Atlanta,s/US-GA,eng,,false,https://cdn.tvpassport.com/image/station/100x100/court-tv-mystery.png
@@ -23521,7 +23521,7 @@ WUVNTV.us,WUVN-TV,Univision,US,US-CT,Hartford,s/US-CT,eng,,false,https://cdn.tvp
 WUVNDT2.us,WUVN-DT2,Univision,US,US-MA,Springfield,s/US-MA,eng,,false,https://cdn.tvpassport.com/image/station/100x100/univision.png
 WUVNDT3.us,WUVN-DT3,UniMás,US,US-CT,Hartford,s/US-CT,eng,,false,https://cdn.tvpassport.com/image/station/100x100/unimas.png
 WUVNDT4.us,WUVN-DT4,LATV,US,US-CT,Hartford,s/US-CT,eng,,false,https://cdn.tvpassport.com/image/station/100x100/latv.png
-WUVPDT.us,WUVP,Univision,US,US-PA,Philadelphia,s/US-PA,eng,,false,https://cdn.tvpassport.com/image/station/100x100/univision.png
+WUVPDT.us,WUVP-DT,Univision,US,US-PA,Philadelphia,s/US-PA,eng,,false,https://cdn.tvpassport.com/image/station/100x100/univision.png
 WUVPDT2.us,WUVP-DT2,Bounce,US,US-NJ,Vineland,s/US-NJ,eng,,false,https://cdn.tvpassport.com/image/station/100x100/bounce.png
 WUVPDT3.us,WUVP-DT3,True Crime Network,US,US-NJ,Vineland,c/US,eng,entertainment,false,https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/True_Crime_Network_logo.svg/1024px-True_Crime_Network_logo.svg.png
 WUVPDT4.us,WUVP-DT4,Bounce,US,US-NJ,Vineland,s/US-NJ,eng,,false,https://cdn.tvpassport.com/image/station/100x100/bounce.png
@@ -23642,7 +23642,7 @@ WVTXCD3.us,WVTX-CD3,Retro TV,US,US-OH,Bridgeport,s/US-OH,eng,,false,https://cdn.
 WVUACD.us,WVUA-CD,Cozi,US,US-AL,Tuscaloosa,s/US-AL,eng,,false,https://cdn.tvpassport.com/image/station/100x100/cozitv.png
 WVUACD2.us,WVUA-CD2,The Grio,US,US-AL,Tuscaloosa,s/US-AL,eng,,false,https://cdn.tvpassport.com/image/station/100x100/this_tv.png
 WVUACD3.us,WVUA-CD3,THIS,US,US-AL,Tuscaloosa,s/US-AL,eng,,false,https://cdn.tvpassport.com/image/station/100x100/localnow.png
-WVUEDT.us,WVUE,FOX,US,US-LA,New Orleans,s/US-LA,eng,,false,https://cdn.tvpassport.com/image/station/100x100/foxcable.png
+WVUEDT.us,WVUE-DT,FOX,US,US-LA,New Orleans,s/US-LA,eng,,false,https://cdn.tvpassport.com/image/station/100x100/foxcable.png
 WVUEDT2.us,WVUE-DT2,Bounce,US,US-LA,New Orleans,s/US-LA,eng,,false,https://cdn.tvpassport.com/image/station/100x100/bounce.png
 WVUEDT3.us,WVUE-DT3,Circle,US,US-LA,New Orleans,s/US-LA,eng,,false,https://cdn.tvpassport.com/image/station/100x100/circle.png
 WVUEDT4.us,WVUE-DT4,Court TV Mystery,US,US-LA,New Orleans,s/US-LA,eng,,false,https://cdn.tvpassport.com/image/station/100x100/court-tv-mystery.png
@@ -23787,7 +23787,7 @@ WXCWDT2.us,WXCW-DT2,Estrella,US,US-FL,Fort Myers,s/US-FL,eng,,false,https://cdn.
 WXELDT2.us,WXEL-DT2,Create,US,US-FL,West Palm Beach,s/US-FL,eng,,false,https://cdn.tvpassport.com/image/station/100x100/createtv.png
 WXELTV.us,WXEL-TV,PBS,US,US-FL,West Palm Beach,s/US-FL,eng,,false,https://cdn.tvpassport.com/image/station/100x100/pbs.png
 WXELDT3.us,WXEL-DT3,The Health Channel,US,US-FL,West Palm Beach,s/US-FL,eng,,false,
-WXFTDT.us,WXFT,UniMás,US,US-IL,Chicago,s/US-IL,eng,,false,https://cdn.tvpassport.com/image/station/100x100/unimas.png
+WXFTDT.us,WXFT-DT,UniMás,US,US-IL,Chicago,s/US-IL,eng,,false,https://cdn.tvpassport.com/image/station/100x100/unimas.png
 WXFTDT2.us,WXFT-DT2,Court TV Mystery,US,US-IL,Chicago,s/US-IL,eng,,false,https://cdn.tvpassport.com/image/station/100x100/court-tv-mystery.png
 WXFTDT3.us,WXFT-DT3,Quest,US,US-IL,Aurora,s/US-IL,eng,,false,https://cdn.tvpassport.com/image/station/100x100/quest_us.png
 WXFTTV.us,WXFT-TV,,US,,,c/US,eng,,false,https://www.lyngsat.com/logo/tv/ww/wxft_aurora.png
@@ -23843,7 +23843,7 @@ WXPXTV.us,WXPX-TV,ION,US,US-FL,Tampa,s/US-FL,eng,,false,https://cdn.tvpassport.c
 WXSPCD.us,WXSP-CD,MyNetworkTV,US,US-MI,Grand Rapids,s/US-MI,eng,,false,https://cdn.tvpassport.com/image/station/100x100/mnt.png
 WXSPCD2.us,WXSP-CD2,Cozi TV,US,US-MI,Grand Rapids,s/US-MI,eng,,false,https://cdn.tvpassport.com/image/station/100x100/cozitv.png
 WXSPCD3.us,WXSP-CD3,Comet TV,US,US-MI,Grand Rapids,s/US-MI,eng,,false,https://cdn.tvpassport.com/image/station/100x100/comet.png
-WXTVDT.us,WXTV,Univision,US,US-NJ,Teaneck,s/US-NJ,eng,,false,https://cdn.tvpassport.com/image/station/100x100/univision.png
+WXTVDT.us,WXTV-DT,Univision,US,US-NJ,Teaneck,s/US-NJ,eng,,false,https://cdn.tvpassport.com/image/station/100x100/univision.png
 WXTVDT2.us,WXTV-DT2,Bounce,US,US-NJ,Paterson,s/US-NJ,eng,,false,https://cdn.tvpassport.com/image/station/100x100/bounce.png
 WXTVDT3.us,WXTV-DT3,Twist,US,US-NJ,Paterson,s/US-NJ,eng,,false,https://cdn.tvpassport.com/image/station/100x100/twist_logo.png
 WXTVDT4.us,WXTV-DT4,Grit TV,US,US-NJ,Paterson,s/US-NJ,eng,,false,https://cdn.tvpassport.com/image/station/100x100/grittv.png
