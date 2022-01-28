@@ -9595,8 +9595,8 @@ KOOD4.us,KOOD-DT4,PBS World,US,US-KS,Bunker Hill,s/US-KS,eng,,false,https://cdn.
 KoogiTV.eg,Koogi TV,,EG,,,c/EG,ara,kids,false,https://i.imgur.com/I5A1mMZ.jpg
 KOPBDT4.us,KOPB-DT4,opbmusic,US,US-OR,Portland,s/US-OR,eng,,false,https://cdn.tvpassport.com/image/station/100x100/pbs.png
 KOPBTV.us,KOPB-TV,PBS,US,US-OR,Portland,s/US-OR,eng,,false,https://cdn.tvpassport.com/image/station/100x100/pbs.png
-KOPBTV2.us,KOPB-DT2,OPB Plus,US,US-OR,Portland,s/US-OR,eng,,false,https://cdn.tvpassport.com/image/station/100x100/pbs.png
-KOPBTV3.us,KOPB-TV,PBS Kids,US,US-OR,Portland,s/US-OR,eng,,false,https://cdn.tvpassport.com/image/station/100x100/pbskids.png
+KOPBDT2.us,KOPB-DT2,OPB Plus,US,US-OR,Portland,s/US-OR,eng,,false,https://cdn.tvpassport.com/image/station/100x100/pbs.png
+KOPBDT3.us,KOPB-DT3,PBS Kids,US,US-OR,Portland,s/US-OR,eng,,false,https://cdn.tvpassport.com/image/station/100x100/pbskids.png
 KOPXDT2.us,KOPX-DT2,Bounce,US,US-OK,Oklahoma City,s/US-OK,eng,,false,https://cdn.tvpassport.com/image/station/100x100/bounce.png
 KOPXDT3.us,KOPX-DT3,Court TV,US,US-OK,Oklahoma City,s/US-OK,eng,,false,https://cdn.tvpassport.com/image/station/100x100/court-tv-2019.png
 KOPXDT4.us,KOPX-DT4,Grit TV,US,US-OK,Oklahoma City,s/US-OK,eng,,false,https://cdn.tvpassport.com/image/station/100x100/grittv.png
@@ -14247,7 +14247,7 @@ PlaymenTV.ca,Playmen TV,,CA,,,c/CA,eng,,false,https://cdn.tvpassport.com/image/s
 PloenTV.th,Ploen TV,,TH,,,c/TH,tha,,false,https://www.lyngsat.com/logo/tv/pp/ploen_tv_th.png
 PlovdivskaPravoslavnaTV.bg,Plovdivska Pravoslavna TV,,BG,,,c/BG,bul,,false,https://www.lyngsat.com/logo/tv/pp/plovdivska_pravoslavna_tv.png
 PlugRTL.be,Plug RTL,,BE,,,c/BE,nld,,false,https://www.programme-tv.net/imgre/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2Fff2553642cabf448.2Epng/80x80/quality/80/plug-rtl.png
-Plus23.pa,"+23",,PA,,,c/PA,spa,,false,
+Plus23.pa,+23,,PA,,,c/PA,spa,,false,
 PlusHitsAfrica.ao,+Hits Africa,,AO,,,c/AO,por,,false,https://www.lyngsat.com/logo/tv/pp/plus-hits-africa-ao.png
 PlusMovie.np,Plus Movie,,NP,,,c/NP,nep,,false,https://www.lyngsat.com/logo/tv/pp/plus-movie-np.png
 PlusPlus.ua,Plus Plus,,UA,,,c/UA,ukr,,false,https://www.lyngsat.com/logo/tv/pp/plus_plus_tv_ua.png
@@ -23628,8 +23628,8 @@ WVPXDT2.us,WVPX-DT2,Grit TV,US,US-OH,Cleveland,s/US-OH,eng,,false,https://cdn.tv
 WVPXDT4.us,WVPX-DT4,Court TV Mystery,US,US-OH,Cleveland,s/US-OH,eng,,false,https://cdn.tvpassport.com/image/station/100x100/court-tv-mystery.png
 WVPXDT5.us,WVPX-DT5,Defy,US,US-OH,Cleveland,s/US-OH,eng,,false,https://cdn.tvpassport.com/image/station/100x100/defytv.png
 WVPXTV.us,WVPX-TV,ION,US,US-OH,Cleveland,s/US-OH,eng,,false,https://cdn.tvpassport.com/image/station/100x100/ion_2016.png
-WVPXTV3.us,"WVPX-TV3 Cleveland, OH",,US,US-OH,,s/US-OH,eng,,false,
-WVPXTV6.us,WVPX-TV,QVC,US,US-OH,Cleveland,s/US-OH,eng,,false,https://cdn.tvpassport.com/image/station/100x100/qvc.png
+WVPXDT3.us,"WVPX-DT3 Cleveland, OH",,US,US-OH,,s/US-OH,eng,,false,
+WVPXDT6.us,WVPX-DT6,QVC,US,US-OH,Cleveland,s/US-OH,eng,,false,https://cdn.tvpassport.com/image/station/100x100/qvc.png
 WVPYTV.us,WVPY-TV,,US,,,c/US,eng,,false,https://www.lyngsat.com/logo/tv/ww/whtj-tv-us-ny.png
 WVTA.us,WVTA,PBS,US,US-VT,Windsor,s/US-VT,eng,,false,https://cdn.tvpassport.com/image/station/100x100/pbs.png
 WVTA2.us,WVTA-DT2,PBS Plus,US,US-VT,Windsor,s/US-VT,eng,,false,https://cdn.tvpassport.com/image/station/100x100/pbs.png
