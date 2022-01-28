@@ -3086,8 +3086,8 @@ CKTNTV3.ca,CKTN-TV-3,Global BC,CA,CA-BC,Nelson,s/CA-BC,eng,,false,https://cdn.tv
 CKTV.ca,CKTV,ICI,CA,CA-QC,Saguenay,s/CA-QC,eng,,false,https://cdn.tvpassport.com/image/station/100x100/src.png
 CKVP.ca,CKVP,CTV 2,CA,CA-ON,Toronto,s/CA-ON,eng,,false,https://cdn.tvpassport.com/image/station/100x100/ctv2-2018.png
 CKVR.ca,CKVR,CTV 2,CA,CA-ON,Barrie,c/CA,eng,general,false,https://cdn.tvpassport.com/image/station/100x100/ctv2-2018.png
-CKVUDT2.ca,CKVU-DT-2,Citytv,CA,CA-BC,Victoria,s/CA-BC,eng,,false,https://cdn.tvpassport.com/image/station/100x100/citytv.png
 CKVUDT1.ca,CKVU-DT-1,Citytv,CA,CA-BC,Courtenay,s/CA-BC,eng,,false,https://cdn.tvpassport.com/image/station/100x100/citytv.png
+CKVUDT2.ca,CKVU-DT-2,Citytv,CA,CA-BC,Victoria,s/CA-BC,eng,,false,https://cdn.tvpassport.com/image/station/100x100/citytv.png
 CKWS.ca,CKWS,Global,CA,CA-ON,Kingston,s/CA-ON,eng,,false,https://cdn.tvpassport.com/image/station/100x100/global.png
 CKWSDT1.ca,CKWS-DT-1,Global,CA,CA-ON,Brighton,s/CA-ON,eng,,false,https://cdn.tvpassport.com/image/station/100x100/global.png
 CKWSDT2.ca,CKWS-DT-2,Global,CA,CA-ON,Prescott,s/CA-ON,eng,,false,https://cdn.tvpassport.com/image/station/100x100/global.png
@@ -3250,9 +3250,9 @@ ComedyCentralDeutschlandPlus1.us,Comedy Central Deutschland +1,,US,,,c/US,eng,,f
 ComedyCentralEast.us,Comedy Central East,,US,,,c/US,deu,comedy,false,https://upload.wikimedia.org/wikipedia/commons/6/60/Comedy_central.png
 ComedyCentralEspana.us,Comedy Central España,,US,,,c/US,eng,,false,https://imagenes.gatotv.com/logos/canales/oscuros/comedy_central_espana-mediano.png
 ComedyCentralExtraCentralEurope.us,Comedy Central Extra Central Europe,,US,,,c/US,eng,,false,
-ComedyCentralExtraUK.us,Comedy Central Extra UK,,US,,,c/US,eng,,false,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/400/160/skychb1813.png
 ComedyCentralExtraIreland.us,Comedy Central Extra Ireland,,US,,,c/US,eng,,false,https://www.lyngsat.com/logo/tv/cc/comedy-central-extra-uk-us-uk.png
 ComedyCentralExtraPolsat.us,Comedy Central Extra Polsat,,US,,,c/US,eng,,false,https://www.lyngsat.com/logo/tv/cc/comedy-central-extra-polsat-us-pl.png
+ComedyCentralExtraUK.us,Comedy Central Extra UK,,US,,,c/US,eng,,false,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/400/160/skychb1813.png
 ComedyCentralFamilyHungary.us,Comedy Central Family Hungary,,US,,,c/US,eng,,false,https://www.sms.cz/kategorie/televize/bmp/loga/velka/ccf_hu.png
 ComedyCentralFrance.us,Comedy Central France,,US,,,c/US,eng,,false,https://proxymedia.woopic.com/api/v1/images/553%2Flogos%2Fv2%2Flogos%2Flivetv_comedycentral%2F20181002_120516%2FwebTVLogo%2Flogo_180x96.png
 ComedyCentralHungary.us,Comedy Central Hungary,,US,,,c/US,eng,,false,https://www.sms.cz/kategorie/televize/bmp/loga/velka/cchu.png
@@ -23754,20 +23754,16 @@ WTVA.us,WTVA,NBC,US,US-MS,Tupelo,s/US-MS,eng,,false,https://cdn.tvpassport.com/i
 WTVA2.us,WTVA2,ABC,US,US-MS,Tupelo,s/US-MS,eng,,false,https://cdn.tvpassport.com/image/station/100x100/abc.png
 WTVADT2.us,WTVA-DT2,,US,,,c/US,eng,,false,https://www.lyngsat.com/logo/tv/ww/wtva_dt2_tupelo.png
 WTVATV.us,WTVA-TV,,US,,,c/US,eng,,false,https://www.lyngsat.com/logo/tv/ww/wtva-tv-us-ms.png
-WTVC.us,WTVC,ABC,US,US-TN,Chattanooga,s/US-TN,eng,,false,https://cdn.tvpassport.com/image/station/100x100/abc.png
-WTVC2.us,WTVC2,FOX,US,US-TN,Chattanooga,s/US-TN,eng,,false,https://cdn.tvpassport.com/image/station/100x100/foxcable.png
-WTVC3.us,WTVC-DT3,TBD TV,US,US-TN,Chattanooga,s/US-TN,eng,,false,https://cdn.tvpassport.com/image/station/100x100/tbdtv.png
-WTVC4.us,WTVC4,Grit TV,US,US-TN,Chattanooga,s/US-TN,eng,,false,https://cdn.tvpassport.com/image/station/100x100/grittv.png
-WTVCTV.us,WTVC-TV,,US,,,c/US,eng,,false,https://www.lyngsat.com/logo/tv/ww/wtvc-tv-us-tn.png
-WTVD.us,WTVD,ABC,US,US-NC,Raleigh,s/US-NC,eng,,false,https://cdn.tvpassport.com/image/station/100x100/abc.png
-WTVD2.us,WTVD-DT2,Localish,US,US-NC,Raleigh,s/US-NC,eng,,false,https://cdn.tvpassport.com/image/station/100x100/localish.png
-WTVD3.us,WTVD-DT3,THIS,US,US-NC,Raleigh,s/US-NC,eng,,false,https://cdn.tvpassport.com/image/station/100x100/this_tv.png
-WTVD4.us,WTVD4,HSN,US,US-NC,Raleigh,s/US-NC,eng,,false,https://cdn.tvpassport.com/image/station/100x100/homeshop.png
-WTVDTV.us,WTVD-TV,,US,,,c/US,eng,,false,https://www.lyngsat.com/logo/tv/ww/wtvd-tv-us-nc.png
-WTVE.us,"WTVE - Reading, PA",,US,US-PA,,s/US-PA,eng,,false,https://cdn.tvpassport.com/image/station/100x100/wtve.png
-WTVE2.us,WTVE2,Infomercials,US,US-PA,Reading,s/US-PA,eng,,false,
-WTVE3.us,"WTVE-DT3 Reading, PA",,US,US-PA,,s/US-PA,eng,,false,
-WTVETV.us,WTVE-TV,,US,,,c/US,eng,,false,https://www.lyngsat.com/logo/tv/ww/wtve_tv51_reading.png
+WTVCDT2.us,WTVC-DT2,FOX,US,US-TN,Chattanooga,s/US-TN,eng,,false,https://cdn.tvpassport.com/image/station/100x100/foxcable.png
+WTVCDT3.us,WTVC-DT3,TBD TV,US,US-TN,Chattanooga,s/US-TN,eng,,false,https://cdn.tvpassport.com/image/station/100x100/tbdtv.png
+WTVCDT4.us,WTVC-DT4,Grit TV,US,US-TN,Chattanooga,s/US-TN,eng,,false,https://cdn.tvpassport.com/image/station/100x100/grittv.png
+WTVCTV.us,WTVC-TV,ABC,US,US-TN,Chattanooga,s/US-TN,eng,,false,https://cdn.tvpassport.com/image/station/100x100/abc.png
+WTVDDT2.us,WTVD-DT2,Localish,US,US-NC,Raleigh,s/US-NC,eng,,false,https://cdn.tvpassport.com/image/station/100x100/localish.png
+WTVDDT3.us,WTVD-DT3,THIS,US,US-NC,Raleigh,s/US-NC,eng,,false,https://cdn.tvpassport.com/image/station/100x100/this_tv.png
+WTVDDT4.us,WTVD-DT4,HSN,US,US-NC,Raleigh,s/US-NC,eng,,false,https://cdn.tvpassport.com/image/station/100x100/homeshop.png
+WTVDTV.us,WTVD-TV,ABC,US,US-NC,Raleigh,s/US-NC,eng,,false,https://cdn.tvpassport.com/image/station/100x100/abc.png
+WTVEDT2.us,WTVE-DT2,Infomercials,US,US-PA,Reading,s/US-PA,eng,,false,
+WTVETV.us,WTVE-TV,Infomercials,US,US-PA,Reading,s/US-PA,eng,,false,https://cdn.tvpassport.com/image/station/100x100/wtve.png
 WTVF.us,WTVF,CBS,US,US-TN,Nashville,s/US-TN,eng,,false,https://cdn.tvpassport.com/image/station/100x100/cbs.png
 WTVF2.us,"WTVF-DT2 Nashville, TN",,US,US-TN,,s/US-TN,eng,,false,https://cdn.tvpassport.com/image/station/100x100/wtvf-news5.png
 WTVF3.us,WTVF3,Bounce,US,US-TN,Nashville,s/US-TN,eng,,false,https://cdn.tvpassport.com/image/station/100x100/bounce.png
