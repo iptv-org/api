@@ -7506,13 +7506,13 @@ KBHEDT2.us,KBHE-DT2,PBS World,US,US-SD,Rapid City,s/US-SD,eng,,false,https://cdn
 KBHEDT3.us,KBHE-DT3,Create,US,US-SD,Rapid City,s/US-SD,eng,,false,https://cdn.tvpassport.com/image/station/100x100/createtv.png
 KBHEDT4.us,KBHE-DT4,PBS Kids,US,US-SD,Rapid City,s/US-SD,eng,,false,https://cdn.tvpassport.com/image/station/100x100/pbskids.png
 KBHETV.us,KBHE-TV,PBS,US,US-SD,Rapid City,s/US-SD,eng,,false,https://cdn.tvpassport.com/image/station/100x100/pbs.png
-KBIDLP.us,KBID-LP,Al Jazeera,US,US-CA,Coalinga,s/US-CA,eng,,false,https://cdn.tvpassport.com/image/station/100x100/aljazeera.png
-KBIDLP2.us,KBID-LP2,DW English,US,US-CA,Fresno,s/US-CA,eng,,false,https://cdn.tvpassport.com/image/station/100x100/dw.png
+KBIDLP.us,KBID-LP,Al Jazeera English,US,US-CA,Coalinga,s/US-CA,eng,,false,https://cdn.tvpassport.com/image/station/100x100/aljazeera.png
+KBIDLP2.us,KBID-LP2,Deutsche Welle,US,US-CA,Fresno,s/US-CA,eng,,false,https://cdn.tvpassport.com/image/station/100x100/dw.png
 KBIDLP3.us,KBID-LP3,Al Mayadeen,US,US-CA,Fresno,s/US-CA,eng,,false,
-KBIDLP4.us,KBID-LP4,Jewelry Television,US,US-CA,Fresno,s/US-CA,eng,,false,https://cdn.tvpassport.com/image/station/100x100/jtv.png
-KBIDLP5.us,KBID-LP5,amga TV,US,US-CA,Fresno,s/US-CA,eng,,false,
+KBIDLP4.us,KBID-LP4,Jewelry TV,US,US-CA,Fresno,s/US-CA,eng,,false,https://cdn.tvpassport.com/image/station/100x100/jtv.png
+KBIDLP5.us,KBID-LP5,AMGA TV,US,US-CA,Fresno,s/US-CA,eng,,false,
 KBIDLP7.us,KBID-LP7,Noor TV,US,US-CA,Fresno,s/US-CA,eng,,false,https://cdn.tvpassport.com/image/station/100x100/noor-tv.png
-KBIDLP8.us,KBID-LP8,SAB TV,US,US-CA,Fresno,s/US-CA,eng,,false,
+KBIDLP8.us,KBID-LP8,Infomercials,US,US-CA,Fresno,s/US-CA,eng,,false,
 KBIMDT2.us,KBIM-DT2,FOX,US,US-NM,Albuquerque,s/US-NM,eng,,false,https://cdn.tvpassport.com/image/station/100x100/foxcable.png
 KBIMTV.us,KBIM-TV,CBS,US,US-NM,Roswell,s/US-NM,eng,,false,https://cdn.tvpassport.com/image/station/100x100/cbs.png
 KBINDT2.us,KBIN-DT2,PBS Kids,US,US-IA,Council Bluffs,s/US-IA,eng,,false,https://cdn.tvpassport.com/image/station/100x100/iowa-pbs-kids.png
