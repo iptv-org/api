@@ -11271,9 +11271,9 @@ KXLNDT3.us,KXLN-DT3,Court TV Mystery,US,US-TX,Houston,s/US-TX,eng,,false,https:/
 KXLTDT1.us,KXLT-DT1,FOX,US,US-MN,Rochester,s/US-MN,eng,,false,https://cdn.tvpassport.com/image/station/100x100/foxcable.png
 KXLTDT2.us,KXLT-DT2,MeTV,US,US-MN,Rochester,s/US-MN,eng,,false,https://cdn.tvpassport.com/image/station/100x100/metv.png
 KXLTDT3.us,KXLT-DT3,Laff,US,US-MN,Rochester,s/US-MN,eng,,false,https://cdn.tvpassport.com/image/station/100x100/laff.png
+KXLTDT4.us,KXLT-DT4,Court TV Mystery,US,US-MN,Rochester,s/US-MN,eng,,false,https://cdn.tvpassport.com/image/station/100x100/court-tv-mystery.png
 KXLTDT5.us,KXLT-DT5,Quest,US,US-MN,Rochester,s/US-MN,eng,,false,https://cdn.tvpassport.com/image/station/100x100/quest_us.png
 KXLTDT6.us,KXLT-DT6,Grit TV,US,US-MN,Rochester,s/US-MN,eng,,false,https://cdn.tvpassport.com/image/station/100x100/grittv.png
-KXLTDT4.us,KXLT-DT4,Court TV Mystery,US,US-MN,Rochester,s/US-MN,eng,,false,https://cdn.tvpassport.com/image/station/100x100/court-tv-mystery.png
 KXLYDT1.us,KXLY-DT1,ABC,US,US-WA,Spokane,s/US-WA,eng,,false,https://cdn.tvpassport.com/image/station/100x100/abc.png
 KXLYDT2.us,KXLY-DT2,MeTV,US,US-WA,Spokane,s/US-WA,eng,,false,https://cdn.tvpassport.com/image/station/100x100/metv.png
 KXLYDT3.us,KXLY-DT3,H&I,US,US-WA,Spokane,s/US-WA,eng,,false,https://cdn.tvpassport.com/image/station/100x100/heroesicons.png
@@ -19678,10 +19678,10 @@ WBPHDT1.us,WBPH-DT1,,US,US-PA,Philadelphia,s/US-PA,eng,,false,
 WBPHDT2.us,WBPH-DT2,,US,US-PA,Bethlehem,s/US-PA,eng,,false,
 WBPXDT1.us,WBPX-DT1,ION,US,US-MA,Boston,s/US-MA,eng,,false,https://cdn.tvpassport.com/image/station/100x100/ion_2016.png
 WBPXDT2.us,WBPX-DT2,Court TV Mystery,US,US-NH,Hudson,s/US-NH,eng,,false,function () { [native code] }
-WBPXDT4.us,WBPX-DT4,Bounce,US,US-MA,Boston,s/US-MA,eng,,false,https://cdn.tvpassport.com/image/station/100x100/bounce.png
-WBPXDT6.us,WBPX-DT6,HSN,US,US-MA,Boston,s/US-MA,eng,,false,https://cdn.tvpassport.com/image/station/100x100/homeshop.png
 WBPXDT3.us,WBPX-DT3,,US,US-NH,Hudson,s/US-NH,eng,,false,
+WBPXDT4.us,WBPX-DT4,Bounce,US,US-MA,Boston,s/US-MA,eng,,false,https://cdn.tvpassport.com/image/station/100x100/bounce.png
 WBPXDT5.us,WBPX-DT5,QVC,US,US-MA,Boston,s/US-MA,eng,,false,https://cdn.tvpassport.com/image/station/100x100/qvc.png
+WBPXDT6.us,WBPX-DT6,HSN,US,US-MA,Boston,s/US-MA,eng,,false,https://cdn.tvpassport.com/image/station/100x100/homeshop.png
 WBQCLD1.us,WBQC-LD1,Cozi TV,US,US-OH,Cincinnati,s/US-OH,eng,,false,https://cdn.tvpassport.com/image/station/100x100/cozitv.png
 WBQCLD10.us,WBQC-LD10,Movies!,US,US-OH,Cincinnati,s/US-OH,eng,,false,https://cdn.tvpassport.com/image/station/100x100/movies.png
 WBQCLD11.us,WBQC-LD11,Decades,US,US-OH,Cincinnati,s/US-OH,eng,,false,https://cdn.tvpassport.com/image/station/100x100/decades.png
