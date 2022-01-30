@@ -262,8 +262,8 @@ BG,Shumen,BG-27
 BG,Silistra,BG-19
 BG,Sliven,BG-20
 BG,Smolyan,BG-21
-BG,Sofia,BG-23
 BG,Sofia (stolitsa),BG-22
+BG,Sofia,BG-23
 BG,Stara Zagora,BG-24
 BG,Targovishte,BG-25
 BG,Varna,BG-03
@@ -321,17 +321,17 @@ BR,Distrito Federal,BR-DF
 BR,Espirito Santo,BR-ES
 BR,Goias,BR-GO
 BR,Maranhao,BR-MA
-BR,Mato Grosso,BR-MT
 BR,Mato Grosso do Sul,BR-MS
+BR,Mato Grosso,BR-MT
 BR,Minas Gerais,BR-MG
 BR,Para,BR-PA
 BR,Paraiba,BR-PB
 BR,Parana,BR-PR
 BR,Pernambuco,BR-PE
 BR,Piaui,BR-PI
+BR,Rio de Janeiro,BR-RJ
 BR,Rio Grande do Norte,BR-RN
 BR,Rio Grande do Sul,BR-RS
-BR,Rio de Janeiro,BR-RJ
 BR,Rondonia,BR-RO
 BR,Roraima,BR-RR
 BR,Santa Catarina,BR-SC
@@ -529,6 +529,7 @@ CN,Xinjiang Uygur,CN-XJ
 CN,Xizang,CN-XZ
 CN,Yunnan,CN-YN
 CN,Zhejiang,CN-ZJ
+CO,"San Andres, Providencia y Santa Catalina",CO-SAP
 CO,Amazonas,CO-AMA
 CO,Antioquia,CO-ANT
 CO,Arauca,CO-ARA
@@ -555,7 +556,6 @@ CO,Norte de Santander,CO-NSA
 CO,Putumayo,CO-PUT
 CO,Quindio,CO-QUI
 CO,Risaralda,CO-RIS
-CO,"San Andres, Providencia y Santa Catalina",CO-SAP
 CO,Santander,CO-SAN
 CO,Sucre,CO-SUC
 CO,Tolima,CO-TOL
@@ -593,14 +593,15 @@ CV,Sal,CV-SL
 CV,Santa Cruz,CV-CR
 CV,Sao Lourenco dos Orgaos,CV-SO
 CV,Sao Vicente,CV-SV
-CV,Tarrafal,CV-TA
 CV,Tarrafal de Sao Nicolau,CV-TS
+CV,Tarrafal,CV-TA
 CY,Ammochostos,CY-04
 CY,Keryneia,CY-06
 CY,Larnaka,CY-03
 CY,Lefkosia,CY-01
 CY,Lemesos,CY-02
 CY,Pafos,CY-05
+CZ,"Praha, Hlavni mesto",CZ-10
 CZ,Jihocesky kraj,CZ-31
 CZ,Jihomoravsky kraj,CZ-64
 CZ,Karlovarsky kraj,CZ-41
@@ -611,7 +612,6 @@ CZ,Moravskoslezsky kraj,CZ-80
 CZ,Olomoucky kraj,CZ-71
 CZ,Pardubicky kraj,CZ-53
 CZ,Plzensky kraj,CZ-32
-CZ,"Praha, Hlavni mesto",CZ-10
 CZ,Stredocesky kraj,CZ-20
 CZ,Ustecky kraj,CZ-42
 CZ,Zlinsky kraj,CZ-72
@@ -671,8 +671,8 @@ DO,San Jose de Ocoa,DO-31
 DO,San Juan,DO-22
 DO,San Pedro de Macoris,DO-23
 DO,Sanchez Ramirez,DO-24
-DO,Santiago,DO-25
 DO,Santiago Rodriguez,DO-26
+DO,Santiago,DO-25
 DO,Valverde,DO-27
 DZ,Adrar,DZ-01
 DZ,Ain Defla,DZ-44
@@ -790,9 +790,13 @@ EG,Shamal Sina',EG-SIN
 EG,Suhaj,EG-SHG
 ER,Al Awsat,ER-MA
 ER,Janubi al Bahri al Ahmar,ER-DK
+ES,"Asturias, Principado de",ES-AS
+ES,"Madrid, Comunidad de",ES-MD
+ES,"Murcia, Region de",ES-MC
+ES,"Navarra, Comunidad Foral de",ES-NC
+ES,"Valenciana, Comunidad",ES-VC
 ES,Andalucia,ES-AN
 ES,Aragon,ES-AR
-ES,"Asturias, Principado de",ES-AS
 ES,Canarias,ES-CN
 ES,Cantabria,ES-CB
 ES,Castilla y Leon,ES-CL
@@ -803,12 +807,8 @@ ES,Extremadura,ES-EX
 ES,Galicia,ES-GA
 ES,Illes Balears,ES-IB
 ES,La Rioja,ES-RI
-ES,"Madrid, Comunidad de",ES-MD
 ES,Melilla,ES-ML
-ES,"Murcia, Region de",ES-MC
-ES,"Navarra, Comunidad Foral de",ES-NC
 ES,Pais Vasco,ES-PV
-ES,"Valenciana, Comunidad",ES-VC
 ET,Adis Abeba,ET-AA
 ET,Afar,ET-AF
 ET,Amara,ET-AM
@@ -890,8 +890,8 @@ GE,Shida Kartli,GE-SK
 GE,Tbilisi,GE-TB
 GH,Ahafo,GH-AF
 GH,Ashanti,GH-AH
-GH,Bono,GH-BO
 GH,Bono East,GH-BE
+GH,Bono,GH-BO
 GH,Central,GH-CP
 GH,Eastern,GH-EP
 GH,Greater Accra,GH-AA
@@ -1058,12 +1058,12 @@ ID,Kalimantan Utara,ID-KU
 ID,Kepulauan Bangka Belitung,ID-BB
 ID,Kepulauan Riau,ID-KR
 ID,Lampung,ID-LA
-ID,Maluku,ID-ML
 ID,Maluku Utara,ID-MU
+ID,Maluku,ID-ML
 ID,Nusa Tenggara Barat,ID-NB
 ID,Nusa Tenggara Timur,ID-NT
-ID,Papua,ID-PP
 ID,Papua Barat,ID-PB
+ID,Papua,ID-PP
 ID,Riau,ID-RI
 ID,Sulawesi Barat,ID-SR
 ID,Sulawesi Selatan,ID-SN
@@ -1113,8 +1113,8 @@ IN,Assam,IN-AS
 IN,Bihar,IN-BR
 IN,Chandigarh,IN-CH
 IN,Chhattisgarh,IN-CT
-IN,Dadra and Nagar Haveli,IN-DN
 IN,Dadra and Nagar Haveli and Daman and Diu,IN-DH
+IN,Dadra and Nagar Haveli,IN-DN
 IN,Delhi,IN-DL
 IN,Goa,IN-GA
 IN,Gujarat,IN-GJ
@@ -1406,8 +1406,8 @@ KW,Al Farwaniyah,KW-FA
 KW,Al Jahra',KW-JA
 KW,Hawalli,KW-HA
 KW,Mubarak al Kabir,KW-MU
-KZ,Almaty,KZ-ALA
 KZ,Almaty oblysy,KZ-ALM
+KZ,Almaty,KZ-ALA
 KZ,Aqmola oblysy,KZ-AKM
 KZ,Aqtobe oblysy,KZ-AKT
 KZ,Atyrau oblysy,KZ-ATY
@@ -1583,6 +1583,8 @@ MC,La Condamine,MC-CO
 MC,Monaco-Ville,MC-MO
 MC,Monte-Carlo,MC-MC
 MC,Saint-Roman,MC-SR
+MD,"Gagauzia, Unitatea teritoriala autonoma",MD-GA
+MD,"Stinga Nistrului, unitatea teritoriala din",MD-SN
 MD,Anenii Noi,MD-AN
 MD,Balti,MD-BA
 MD,Basarabeasca,MD-BS
@@ -1601,7 +1603,6 @@ MD,Dubasari,MD-DU
 MD,Edinet,MD-ED
 MD,Falesti,MD-FA
 MD,Floresti,MD-FL
-MD,"Gagauzia, Unitatea teritoriala autonoma",MD-GA
 MD,Glodeni,MD-GL
 MD,Hincesti,MD-HI
 MD,Ialoveni,MD-IA
@@ -1615,7 +1616,6 @@ MD,Singerei,MD-SI
 MD,Soldanesti,MD-SD
 MD,Soroca,MD-SO
 MD,Stefan Voda,MD-SV
-MD,"Stinga Nistrului, unitatea teritoriala din",MD-SN
 MD,Straseni,MD-ST
 MD,Taraclia,MD-TA
 MD,Telenesti,MD-TE
@@ -1866,8 +1866,8 @@ MW,Salima,MW-SA
 MW,Thyolo,MW-TH
 MW,Zomba,MW-ZO
 MX,Aguascalientes,MX-AGU
-MX,Baja California,MX-BCN
 MX,Baja California Sur,MX-BCS
+MX,Baja California,MX-BCN
 MX,Campeche,MX-CAM
 MX,Chiapas,MX-CHP
 MX,Chihuahua,MX-CHH
@@ -2114,8 +2114,8 @@ PG,National Capital District (Port Moresby),PG-NCD
 PG,Southern Highlands,PG-SHM
 PG,West New Britain,PG-WBK
 PG,West Sepik,PG-SAN
-PG,Western,PG-WPD
 PG,Western Highlands,PG-WHM
+PG,Western,PG-WPD
 PH,Abra,PH-ABR
 PH,Agusan del Norte,PH-AGN
 PH,Agusan del Sur,PH-AGS
@@ -2142,10 +2142,10 @@ PH,Catanduanes,PH-CAT
 PH,Cavite,PH-CAV
 PH,Cebu,PH-CEB
 PH,Cotabato,PH-NCO
-PH,Davao Oriental,PH-DAO
 PH,Davao de Oro,PH-COM
 PH,Davao del Norte,PH-DAV
 PH,Davao del Sur,PH-DAS
+PH,Davao Oriental,PH-DAO
 PH,Dinagat Islands,PH-DIN
 PH,Eastern Samar,PH-EAS
 PH,Guimaras,PH-GUI
@@ -2194,9 +2194,9 @@ PH,Surigao del Sur,PH-SUR
 PH,Tarlac,PH-TAR
 PH,Tawi-Tawi,PH-TAW
 PH,Zambales,PH-ZMB
-PH,Zamboanga Sibugay,PH-ZSI
 PH,Zamboanga del Norte,PH-ZAN
 PH,Zamboanga del Sur,PH-ZAS
+PH,Zamboanga Sibugay,PH-ZSI
 PK,Azad Jammu and Kashmir,PK-JK
 PK,Balochistan,PK-BA
 PK,Gilgit-Baltistan,PK-GB
@@ -2357,35 +2357,41 @@ RS,Zapadnobacki okrug,RS-05
 RS,Zlatiborski okrug,RS-16
 RU,"Adygeya, Respublika",RU-AD
 RU,"Altay, Respublika",RU-AL
+RU,"Bashkortostan, Respublika",RU-BA
+RU,"Buryatiya, Respublika",RU-BU
+RU,"Dagestan, Respublika",RU-DA
+RU,"Ingushetiya, Respublika",RU-IN
+RU,"Kalmykiya, Respublika",RU-KL
+RU,"Kareliya, Respublika",RU-KR
+RU,"Khakasiya, Respublika",RU-KK
+RU,"Komi, Respublika",RU-KO
+RU,"Mariy El, Respublika",RU-ME
+RU,"Mordoviya, Respublika",RU-MO
+RU,"Saha, Respublika",RU-SA
+RU,"Severnaya Osetiya, Respublika",RU-SE
+RU,"Tatarstan, Respublika",RU-TA
+RU,"Tyva, Respublika",RU-TY
 RU,Altayskiy kray,RU-ALT
 RU,Amurskaya oblast',RU-AMU
 RU,Arkhangel'skaya oblast',RU-ARK
 RU,Astrakhanskaya oblast',RU-AST
-RU,"Bashkortostan, Respublika",RU-BA
 RU,Belgorodskaya oblast',RU-BEL
 RU,Bryanskaya oblast',RU-BRY
-RU,"Buryatiya, Respublika",RU-BU
 RU,Chechenskaya Respublika,RU-CE
 RU,Chelyabinskaya oblast',RU-CHE
 RU,Chukotskiy avtonomnyy okrug,RU-CHU
 RU,Chuvashskaya Respublika,RU-CU
-RU,"Dagestan, Respublika",RU-DA
-RU,"Ingushetiya, Respublika",RU-IN
 RU,Irkutskaya oblast',RU-IRK
 RU,Ivanovskaya oblast',RU-IVA
 RU,Kabardino-Balkarskaya Respublika,RU-KB
 RU,Kaliningradskaya oblast',RU-KGD
-RU,"Kalmykiya, Respublika",RU-KL
 RU,Kaluzhskaya oblast',RU-KLU
 RU,Kamchatskiy kray,RU-KAM
 RU,Karachayevo-Cherkesskaya Respublika,RU-KC
-RU,"Kareliya, Respublika",RU-KR
 RU,Kemerovskaya oblast',RU-KEM
 RU,Khabarovskiy kray,RU-KHA
-RU,"Khakasiya, Respublika",RU-KK
 RU,Khanty-Mansiyskiy avtonomnyy okrug,RU-KHM
 RU,Kirovskaya oblast',RU-KIR
-RU,"Komi, Respublika",RU-KO
 RU,Kostromskaya oblast',RU-KOS
 RU,Krasnodarskiy kray,RU-KDA
 RU,Krasnoyarskiy kray,RU-KYA
@@ -2394,8 +2400,6 @@ RU,Kurskaya oblast',RU-KRS
 RU,Leningradskaya oblast',RU-LEN
 RU,Lipetskaya oblast',RU-LIP
 RU,Magadanskaya oblast',RU-MAG
-RU,"Mariy El, Respublika",RU-ME
-RU,"Mordoviya, Respublika",RU-MO
 RU,Moskovskaya oblast',RU-MOS
 RU,Moskva,RU-MOW
 RU,Murmanskaya oblast',RU-MUR
@@ -2412,22 +2416,18 @@ RU,Primorskiy kray,RU-PRI
 RU,Pskovskaya oblast',RU-PSK
 RU,Rostovskaya oblast',RU-ROS
 RU,Ryazanskaya oblast',RU-RYA
-RU,"Saha, Respublika",RU-SA
 RU,Sakhalinskaya oblast',RU-SAK
 RU,Samarskaya oblast',RU-SAM
 RU,Sankt-Peterburg,RU-SPE
 RU,Saratovskaya oblast',RU-SAR
-RU,"Severnaya Osetiya, Respublika",RU-SE
 RU,Smolenskaya oblast',RU-SMO
 RU,Stavropol'skiy kray,RU-STA
 RU,Sverdlovskaya oblast',RU-SVE
 RU,Tambovskaya oblast',RU-TAM
-RU,"Tatarstan, Respublika",RU-TA
 RU,Tomskaya oblast',RU-TOM
 RU,Tul'skaya oblast',RU-TUL
 RU,Tverskaya oblast',RU-TVE
 RU,Tyumenskaya oblast',RU-TYU
-RU,"Tyva, Respublika",RU-TY
 RU,Udmurtskaya Respublika,RU-UD
 RU,Ul'yanovskaya oblast',RU-ULY
 RU,Vladimirskaya oblast',RU-VLA
@@ -2459,9 +2459,9 @@ SA,Tabuk,SA-07
 SB,Choiseul,SB-CH
 SB,Guadalcanal,SB-GU
 SB,Western,SB-WE
+SC,Anse aux Pins,SC-01
 SC,Anse Boileau,SC-02
 SC,Anse Royale,SC-05
-SC,Anse aux Pins,SC-01
 SC,Baie Lazare,SC-06
 SC,Baie Sainte Anne,SC-07
 SC,Beau Vallon,SC-08
@@ -2604,8 +2604,8 @@ SI,Metlika,SI-073
 SI,Mezica,SI-074
 SI,Miklavz na Dravskem polju,SI-169
 SI,Miren-Kostanjevica,SI-075
-SI,Mirna,SI-212
 SI,Mirna Pec,SI-170
+SI,Mirna,SI-212
 SI,Mislinja,SI-076
 SI,Mokronog-Trebelno,SI-199
 SI,Moravce,SI-077
@@ -3198,6 +3198,7 @@ UG,Zombo,UG-330
 UM,Palmyra Atoll,UM-95
 US,Alabama,US-AL
 US,Alaska,US-AK
+US,American Samoa,US-AS
 US,Arizona,US-AZ
 US,Arkansas,US-AR
 US,California,US-CA
@@ -3207,6 +3208,7 @@ US,Delaware,US-DE
 US,District of Columbia,US-DC
 US,Florida,US-FL
 US,Georgia,US-GA
+US,Guam,US-GU
 US,Hawaii,US-HI
 US,Idaho,US-ID
 US,Illinois,US-IL
@@ -3231,15 +3233,19 @@ US,New Mexico,US-NM
 US,New York,US-NY
 US,North Carolina,US-NC
 US,North Dakota,US-ND
+US,Northern Mariana Islands,US-MP
 US,Ohio,US-OH
 US,Oklahoma,US-OK
 US,Oregon,US-OR
 US,Pennsylvania,US-PA
+US,Puerto Rico,US-PR
 US,Rhode Island,US-RI
 US,South Carolina,US-SC
 US,South Dakota,US-SD
 US,Tennessee,US-TN
 US,Texas,US-TX
+US,U.S. Virgin Islands,US-VI
+US,United States Minor Outlying Islands,US-UM
 US,Utah,US-UT
 US,Vermont,US-VT
 US,Virginia,US-VA
