@@ -2524,7 +2524,7 @@ CCTV13.cn,CCTV 13,,CN,,,c/CN,zho;cmn,news,false,https://upload.wikimedia.org/wik
 CCTV14.cn,CCTV 14,,CN,,,c/CN,zho,,false,https://www.lyngsat.com/logo/tv/cc/cctv-14-cn.png
 CCTV15.cn,CCTV 15,,CN,,,c/CN,zho,music,false,https://www.lyngsat.com/logo/tv/cc/cctv-15-cn.png
 CCTV17.cn,CCTV 17,,CN,,,c/CN,zho,,false,https://www.lyngsat.com/logo/tv/cc/cctv-17-cn.png
-CCTV2.cn,CCTV 2,,CN,,,c/CN,zho;cmn,,false,https://upload.wikimedia.org/wikipedia/zh/thumb/3/34/CCTV-2_Logo.svg/800px-CCTV-2_Logo.svg.png
+CCTV2.cn,CCTV 2,,CN,,,c/CN,zho;cmn,,false,https://upload.wikimedia.org/wikipedia/zh/c/ce/CCTV-2_Logo.png
 CCTV3.cn,CCTV 3,,CN,,,c/CN,zho;cmn,entertainment,false,https://upload.wikimedia.org/wikipedia/zh/3/34/CCTV-3_Logo.png
 CCTV4America.cn,CCTV 4 America,,CN,,,c/CN,zho,,false,https://cdn.mitvstatic.com/channels/cl_cctv-4_m.png
 CCTV4Asia.cn,CCTV 4 Asia,,CN,,,c/CN,zho,,false,https://cms.dmpcdn.com/livetv/2018/12/17/d6f8a170-f4b8-4406-aecc-cc7ad86d9b9a.png
@@ -2540,16 +2540,20 @@ CCTVBilliards.cn,CCTV Billiards,,CN,,,c/CN,zho,,false,https://www.lyngsat.com/lo
 CCTVClassic.cn,CCTV Classic,,CN,,,c/CN,zho,,false,https://www.lyngsat.com/logo/tv/cc/cctv-classic-cn.png
 CCTVDaifu.cn,CCTV Daifu,,CN,,,c/CN,zho,,false,https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65534-227-400x400.png
 CCTVDrama.cn,CCTV Drama,,CN,,,c/CN,zho,,false,https://www.lyngsat.com/logo/tv/cc/cctv-drama-cn.png
-CCTVEntertainment.cn,CCTV Entertainment,,CN,,,c/CN,zho,,false,https://rndcdn.dstv.com/dstvcms/2018/03/07/cctv_logo_4-3-lightbackground_xlrg.png
+CCTVEntertainment.cn,CCTV Entertainment,,CN,,,c/CN,zho,,false,https://upload.wikimedia.org/wikipedia/zh/8/88/CCTV_Entertainment_Channel_Logo.png
 CCTVFashionableWoman.cn,CCTV Fashionable Woman,,CN,,,c/CN,zho,,false,https://www.lyngsat.com/logo/tv/cc/cctv-fashionable-woman-cn.png
 CCTVFashionMusic.cn,CCTV Fashion Music,,CN,,,c/CN,zho,,false,https://www.lyngsat.com/logo/tv/cc/cctv-fashion-music-cn.png
 CCTVGolfTennis.cn,CCTV Golf & Tennis,,CN,,,c/CN,zho,,false,https://www.lyngsat.com/logo/tv/cc/cctv-golf-and-tennis-cn.png
 CCTVHealth.cn,CCTV Health,,CN,,,c/CN,zho,,false,https://www.lyngsat.com/logo/tv/cc/cctv_health.png
-CCTVHomeShopping.cn,CCTV Home Shopping,,CN,,,c/CN,zho,,false,https://www.lyngsat.com/logo/tv/cc/cctv-home-shopping-cn.png
+CCTVHomeShopping.cn,CCTV Home Shopping,,CN,,,c/CN,zho,,false,https://upload.wikimedia.org/wikipedia/zh/d/d9/CCTV_Shopping_Channel.png
 CCTVNostalgiaTheater.cn,CCTV Nostalgia Theater,,CN,,,c/CN,zho,,false,https://www.lyngsat.com/logo/tv/cc/cctv_retro_theater.png
+CCTVOldStories.cn,CCTV Old Stories,,CN,,,c/CN,zho,,false,https://www.tvchinese.net/uploads/tv/cctvlgs.jpg
 CCTVOpera.cn,CCTV Opera,,CN,,,c/CN,zho,,false,https://www.lyngsat.com/logo/tv/cc/cctv_opera.png
+CCTVShincoAnimation.cn,CCTV Shinco Animation,,CN,,,c/CN,zho,,false,https://www.tvchinese.net/uploads/tv/cctvxkdm.jpg
 CCTVSoccer.cn,CCTV Soccer,,CN,,,c/CN,zho,,false,https://www.lyngsat.com/logo/tv/cc/cctv_football.png
+CCTVStormMusic.cn,CCTV Storm Music,,CN,,,c/CN,zho,,false,https://www.tvchinese.net/uploads/tv/fyyy.jpg
 CCTVTheater.cn,CCTV Theater,,CN,,,c/CN,zho,,false,https://www.lyngsat.com/logo/tv/cc/cctv_fengyun_theater.png
+CCTVTheFirstTheater.cn,CCTV The First Theater,,CN,,,c/CN,zho,,false,https://www.tvchinese.net/uploads/tv/cctvdyjc.jpg
 CCTVTVGuide.cn,CCTV TV Guide,,CN,,,c/CN,zho,,false,https://www.lyngsat.com/logo/tv/cc/cctv_tv_guide.png
 CCTVWeaponTechnologyChannel.cn,CCTV Weapon Technology Channel,,CN,,,c/CN,zho,,false,https://www.lyngsat.com/logo/tv/cc/cctv-weapon-technology-channel-cn.png
 CCTVWorldGeography.cn,CCTV World Geography,,CN,,,c/CN,zho,,false,https://www.lyngsat.com/logo/tv/cc/cctv_world_geography.png
@@ -2564,6 +2568,12 @@ CDOBasico.cl,CDO Básico,,CL,,,c/CL,spa,,false,https://cdn.mitvstatic.com/channe
 CDOHD.cl,CDO HD,,CL,,,c/CL,spa,,false,https://cdn.mitvstatic.com/channels/cl_cdo-hd_m.png
 CDOPremium.cl,CDO Premium,,CL,,,c/CL,spa,,false,https://cdn.mitvstatic.com/channels/cl_cdo-premium_m.png
 CDTV.cl,CDTV,,CL,,,c/CL,spa,,false,https://www.lyngsat.com/logo/tv/cc/cdtv-cl.png
+CDTV1.cn,CDTV 1,,CN,,,c/CN,zho,,false,
+CDTV2.cn,CDTV 2,,CN,,,c/CN,zho,,false,
+CDTV3.cn,CDTV 3,,CN,,,c/CN,zho,,false,
+CDTV4.cn,CDTV 4,,CN,,,c/CN,zho,,false,
+CDTV5.cn,CDTV 5,,CN,,,c/CN,zho,,false,
+CDTV6.cn,CDTV 6,,CN,,,c/CN,zho,,false,
 CebsTV.cd,Cebs TV,,CD,,,c/CD,fra,,false,
 CelebrationTV.za,Celebration TV,,ZA,,,c/ZA,afr,,false,https://www.lyngsat.com/logo/tv/cc/celebration_tv_za.png
 CelebrityShoppingTV.us,Celebrity Shopping TV,,US,,,c/US,eng,,false,https://www.directv.com/images/logos/channels/dark/large/000.png
