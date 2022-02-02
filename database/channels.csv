@@ -677,7 +677,7 @@ AlRayyanAlQadeem.qa,Al Rayyan Al Qadeem,,QA,,,c/QA,ara,classic,false,https://i.i
 AlResalah.sa,Al Resalah,,SA,,,c/SA,ara,religious,false,https://rotana.net/assets/themes/TriTheme-new/images/channels/resala.png
 AlresalahTV.sa,Alresalah TV,,SA,,,c/SA,ara,,false,https://www.lyngsat.com/logo/tv/aa/al_resalah.png
 AlSabahTV.kw,Al-Sabah TV,,KW,,,c/KW,ara,,false,https://www.lyngsat.com/logo/tv/aa/al_sabah_tv.png
-Alsace20,Alsace 20,,FR,,,c/CH;c/FR,fra,,false,https://services.SG101.prd.sctv.ch/content/images/tv/channel/1695_image_7_w116.webp
+Alsace20.fr,Alsace 20,,FR,,,c/CH;c/FR,fra,,false,https://services.SG101.prd.sctv.ch/content/images/tv/channel/1695_image_7_w116.webp
 AlSaeedah.eg,Al-Saeedah,,EG,,,c/EG,ara,,false,https://media.elcinema.com/tvguide/1339_1.png
 AlSafwa.ae,Al Safwa,,AE,,,c/AE,ara,,false,https://content.osn.com/logo/channel/cropped/SAF.png
 AlSahatTV.ye,Al-Sahat TV,,YE,,,c/YE,ara,,false,https://www.lyngsat.com/logo/tv/aa/al-sahat-tv-ye.png
@@ -1799,6 +1799,7 @@ Bibi.vn,Bibi,,VN,,,c/VN,vie,,false,https://www.lyngsat.com/logo/tv/bb/bibi-vn.pn
 BienvenidosaDirecTV.us,Bienvenidos a DirecTV,,US,,,c/US,eng,,false,
 BigBrotherBrasil.br,Big Brother Brasil,,BR,,,c/BR,por,,false,
 BigBrotherIsrael.il,Big Brother Israel,,IL,,,c/IL,heb,,false,https://www.lyngsat.com/logo/tv/bb/big_brother_il.png
+BigBrotherMzansi.za,Big Brother Mzansi,,ZA,,,c/ZA,eng,,false,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/MDH.png
 BigGanga.in,Big Ganga,,IN,,,c/IN,hin,,false,http://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/Cv1pf7Up.png
 BigGangaTalkies.in,Big Ganga Talkies,,IN,,,c/IN,hin,,false,https://www.lyngsat.com/logo/tv/bb/big_ganga_in_talkies.png
 Biggs.pt,Biggs,,PT,,,c/PT,por,,false,https://www.zap.co.ao/media/cache/movie_thumb/uploads/ao/channels/54bd12ad0d307.png
@@ -5534,7 +5535,7 @@ GoToLuxeTV.lu,Go To Luxe TV,,LU,,,c/LU,fra,,false,https://www.lyngsat.com/logo/t
 GoTV.at,GoTV,,AT,,,c/AT,deu,,false,https://ocdn.eu/ptv2-images-transforms/1/dhqkrZsb2dvLW1pZ3JhdGVkL2dvdHYucG5nkpUCZADCw5UCACjCww
 GoTV.hn,Go TV,,HN,,,c/HN,spa,,false,https://www.lyngsat.com/logo/tv/gg/go-tv-hn.png
 GOTV.nl,GO-TV,,NL,,,c/NL,nld,,false,https://live-delta.ottnow.stoneroos.com/image/logo/tv.delta.nl/assets/graphics/thumbnails/channel/delta/gotv.svg
-GOTVCanale163.ch,GO-TV Canale 163,,IT,,,c/CH;c/IT,ita,,false,https://services.SG101.prd.sctv.ch/content/images/tv/channel/1811_image_7_w116.webp
+GOTVCanale163.it,GO-TV Canale 163,,IT,,,c/CH;c/IT,ita,,false,https://services.SG101.prd.sctv.ch/content/images/tv/channel/1811_image_7_w116.webp
 GoTVGuide.ng,GoTV Guide,,NG,,,c/NG,eng,,false,https://www.lyngsat.com/logo/tv/gg/gotv-guide-ng.png
 GourmetNewsNetwork.pk,Gourmet News Network,,PK,,,c/PK,eng,,false,https://www.lyngsat.com/logo/tv/gg/gourmet-news-network-pk.png
 GouwestadTV.nl,Gouwestad TV,,NL,,,c/NL,nld,,false,https://live-delta.ottnow.stoneroos.com/image/logo/tv.delta.nl/assets/graphics/thumbnails/channel/delta/gouwestad.svg
@@ -5553,6 +5554,7 @@ GrandeBolly.ng,Grande Bolly,,NG,,,c/NG,eng,,false,https://www.lyngsat.com/logo/t
 GrandeGospel.ng,Grande Gospel,,NG,,,c/NG,eng,,false,https://www.lyngsat.com/logo/tv/gg/grande-gospel-ng.png
 GrandeSportsFootball.ng,Grande Sports Football,,NG,,,c/NG,eng,,false,https://www.lyngsat.com/logo/tv/gg/grande-sports-football-ng.png
 GrandeSportsXtra.ng,Grande Sports Xtra,,NG,,,c/NG,eng,,false,
+GrandGeneveTV.fr,Grand Genève TV,,FR,,,c/CH;c/FR,fra,,false,https://services.SG101.prd.sctv.ch/content/images/tv/channel/1328_image_7_w116.webp
 GrapheTV.mq,Graphé TV,,MQ,,,c/MQ,fra,,false,https://service.canal-overseas.com/image-api/v1/image/a5a69f52a56b0c220a07e31cf108e66c
 GreatAmericanCountry.us,Great American Country,,US,,,c/US,eng,,false,https://www.directv.com/images/logos/channels/dark/large/580.png
 GreatCommissionTV.ph,Great Commission TV,,PH,,,c/PH,eng,,false,https://www.lyngsat.com/logo/tv/gg/great-commission-tv-ph.png
@@ -12069,6 +12071,7 @@ MCTV.us,MCTV,,US,,,c/US,eng,,false,https://cdn.tvpassport.com/image/station/100x
 MDRFernsehenSachsen.de,MDR Fernsehen Sachsen,,DE,,,c/DE,deu,,false,https://services.sg101.prd.sctv.ch/content/images/tv/channel/256_image_7_w116.webp
 MDRFernsehenSachsenAnhalt.de,MDR Fernsehen Sachsen-Anhalt,,DE,,,c/DE,deu,,false,https://tvheute.at/images/channels/MDR--953349571-01.png
 MDRFernsehenThuringen.de,MDR Fernsehen Thüringen,,DE,,,c/DE,deu,,false,https://www.lyngsat.com/logo/tv/mm/mdr_fernsehen_thuringen.png
+Me.za,Me,,ZA,,,c/ZA,eng,,false,https://rndcdn.dstv.com/dstvcms/2021/10/22/M-Net_Me_logo_4-3_001_xlrg.png
 MedalhaoPersa.br,Medalhão Persa,,BR,,,c/BR,por,,false,https://www.lyngsat.com/logo/tv/mm/medalhao_persa.png
 MedegbeTV.bj,Medegbe TV,,BJ,,,c/BJ,fra,,false,https://www.lyngsat.com/logo/tv/mm/medegbe-tv-bj.png
 MedekikuTV.jp,Medekiku TV,,JP,,,c/JP,jpn,,false,https://www.lyngsat.com/logo/tv/mm/medekiku_tv.png
@@ -12319,6 +12322,7 @@ MNetMovies1WestAfrica.za,M-Net Movies 1 West Africa,,ZA,,,c/ZA,afr,,false,https:
 MNetMovies2.za,M-Net Movies 2,,ZA,,,c/ZA,afr,,false,https://rndcdn.dstv.com/dstvcms/2020/08/31/M-Net_Movies_2_Logo_4-3_lightbackground_xlrg.png
 MNetMovies3.za,M-Net Movies 3,,ZA,,,c/ZA,afr,,false,https://rndcdn.dstv.com/dstvcms/2020/09/01/M-Net_Movies_3_Logo_4-3_lightbackground_xlrg.png
 MNetMovies4.za,M-Net Movies 4,,ZA,,,c/ZA,afr,,false,https://rndcdn.dstv.com/dstvcms/2020/09/01/M-Net_Movies_4_Logo_4-3_lightbackground_xlrg.png
+MNetMoviesMenofAction.za,M-Net Movies Men of Action,,ZA,,,c/ZA,eng,,false,https://rndcdn.dstv.com/dstvcms/2022/01/13/MenOfAction_2021_logo_4-3_LB_xlrg.png
 MNetPlus1.za,M-Net +1,,ZA,,,c/ZA,afr,,false,
 MNetSouthAfrica.za,M-Net South Africa,,ZA,,,c/ZA,afr,,false,https://rndcdn.dstv.com/dstvcms/2016/06/14/DStvNowApp_M-Net_new4-4logo_xlrg.png
 MNetTerrestrial.za,M-Net Terrestrial,,ZA,,,c/ZA,afr,,false,https://www.lyngsat.com/logo/tv/mm/mnet_west.png
@@ -12711,6 +12715,7 @@ MWDMovies.mm,MWD Movies,,MM,,,c/MM,mya,,false,https://www.lyngsat.com/logo/tv/mm
 MWDShopping.mm,MWD Shopping,,MM,,,c/MM,mya,,false,https://www.lyngsat.com/logo/tv/mm/mwd-shopping-mm.png
 MWDVariety.mm,MWD Variety,,MM,,,c/MM,mya,,false,https://www.lyngsat.com/logo/tv/mm/mwd_variety.png
 MyanmarInternationalTV.mm,Myanmar International TV,,MM,,,c/MM,mya,,false,https://www.lyngsat.com/logo/tv/mm/myanmar-international-tv-mm.png
+MyChannelAfrica.ao,My Channel Africa,,AO,,,c/ZA;c/AO,eng,,false,https://rndcdn.dstv.com/dstvcms/2021/07/21/MyAfricaTV_Logo_4-3_LightBG_V2_xlrg.png
 MyCinema.id,My Cinema,,ID,,,c/ID,ind,,false,https://www.lyngsat.com/logo/tv/mm/my-cinema-id.png
 MyCinemaAsia.id,My Cinema Asia,,ID,,,c/ID,ind,,false,https://www.lyngsat.com/logo/tv/mm/my-cinema-asia-id.png
 MyCinemaEurope.ch,My Cinema Europe,,CH,,,c/CH,deu,,false,https://www.lyngsat.com/logo/tv/mm/my_cinema_europe_kr.png
@@ -14557,6 +14562,7 @@ R9TV.in,R9 TV,,IN,,,c/IN,hin,,false,https://www.lyngsat.com/logo/tv/rr/r9-tv-in.
 RaajjeTV.mv,Raajje TV,,MV,,,c/MV,div,,false,https://www.lyngsat.com/logo/tv/rr/raajje_tv.png
 RaaviTV.pk,Raavi TV,,PK,,,c/PK,eng,,false,https://www.lyngsat.com/logo/tv/rr/raavi_tv.png
 RabboniTV.za,Rabboni TV,,ZA,,,c/ZA,afr,,false,https://www.lyngsat.com/logo/tv/rr/rabboni_tv_za.png
+Racing240.za,Racing 240,,ZA,,,c/ZA,eng,,false,https://rndcdn.dstv.com/dstvcms/2022/01/19/Racing240_2022_logo_4-3-LB_xlrg.png
 Racingcom.au,Racing.com,,AU,,,c/AU,eng,,false,https://i.mjh.nz/.images/tv.101305020528.png
 RacingTV.uk,Racing TV,,UK,,,c/UK,eng,,false,https://otv-us-web.s3-us-west-2.amazonaws.com/logos/guide/2/Open/92x36_352/Source/30169/racinguktv.png
 RacingTVInternational.uk,Racing TV International,,UK,,,c/UK,eng,,false,https://www.sms.cz/kategorie/televize/bmp/loga/velka/racinguk.png
@@ -16788,6 +16794,14 @@ SuperSportMaximo360.za,SuperSport Máximo 360,,ZA,,,c/ZA,afr,,false,https://rndc
 SuperSportMotorsport.za,SuperSport Motorsport,,ZA,,,c/ZA,afr,,false,https://www.lyngsat.com/logo/tv/ss/supersport-motorsport-za.png
 SuperSportMotorsportAfrica.za,SuperSport Motorsport Africa,,ZA,,,c/ZA,afr,,false,https://rndcdn.dstv.com/dstvcms/2020/09/01/SS_Logo_Motorsport_4-3_001_xlrg.png
 SuperSportMotorsportPortuguese.za,SuperSport Motorsport Portuguese,,ZA,,,c/ZA,afr,,false,https://www.lyngsat.com/logo/tv/ss/supersport-motorsport-za.png
+SuperSportOTT.za,SuperSport OTT,,ZA,,,c/ZA,eng,,false,https://rndcdn.dstv.com/dstvcms/2018/04/25/SuperSport_Logo_4-3_001_xlrg.png
+SuperSportOTT2.za,SuperSport OTT 2,,ZA,,,c/ZA,eng,,false,https://rndcdn.dstv.com/dstvcms/2018/04/25/SuperSport_Logo_4-3_001_xlrg.png
+SuperSportOTT3.za,SuperSport OTT 3,,ZA,,,c/ZA,eng,,false,https://rndcdn.dstv.com/dstvcms/2018/04/25/SuperSport_Logo_4-3_001_xlrg.png
+SuperSportOTT4.za,SuperSport OTT 4,,ZA,,,c/ZA,eng,,false,https://rndcdn.dstv.com/dstvcms/2018/04/25/SuperSport_Logo_4-3_001_xlrg.png
+SuperSportOTT5.za,SuperSport OTT 5,,ZA,,,c/ZA,eng,,false,https://rndcdn.dstv.com/dstvcms/2018/04/25/SuperSport_Logo_4-3_001_xlrg.png
+SuperSportOTT6.za,SuperSport OTT 6,,ZA,,,c/ZA,eng,,false,https://rndcdn.dstv.com/dstvcms/2018/04/25/SuperSport_Logo_4-3_001_xlrg.png
+SuperSportOTT7.za,SuperSport OTT 7,,ZA,,,c/ZA,eng,,false,https://rndcdn.dstv.com/dstvcms/2018/04/25/SuperSport_Logo_4-3_001_xlrg.png
+SuperSportOTT8.za,SuperSport OTT 8,,ZA,,,c/ZA,eng,,false,https://rndcdn.dstv.com/dstvcms/2018/04/25/SuperSport_Logo_4-3_001_xlrg.png
 SuperSportPlay.za,SuperSport Play,,ZA,,,c/ZA,afr,,false,https://rndcdn.dstv.com/dstvcms/2020/09/02/SS_Logo_Play_4-3_001_xlrg.png
 SuperSportPremierLeague.za,SuperSport Premier League,,ZA,,,c/ZA,afr,,false,https://www.lyngsat.com/logo/tv/ss/supersport-premier-league-za.png
 SuperSportPremierLeagueAfrica.za,SuperSport Premier League Africa,,ZA,,,c/ZA,afr,,false,https://rndcdn.dstv.com/dstvcms/2021/08/09/SS_Logo_PremiereLeague_4-3_005_xlrg.png
