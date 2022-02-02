@@ -17,6 +17,7 @@ id,name,network,country,subdivision,city,broadcast_area,languages,categories,is_
 10PeachNorth.au,10 Peach North,,AU,,,c/AU,eng,,false,https://www.lyngsat.com/logo/tv/tt/ten-peach-au.png
 10PeachSouth.au,10 Peach South,,AU,,,c/AU,eng,,false,https://www.lyngsat.com/logo/tv/tt/ten-peach-au.png
 10PeachSydney.au,10 Peach Sydney,,AU,,,c/AU,eng,,false,https://www.lyngsat.com/logo/tv/tt/ten-peach-au.png
+10Shake.au,10 Shake,,AU,,,c/AU,eng,,false,https://upload.wikimedia.org/wikipedia/en/thumb/c/cc/10_Shake_logo_2020.svg/512px-10_Shake_logo_2020.svg.png
 10Sydney.au,10 Sydney,,AU,,,c/AU,eng,,false,https://www.lyngsat.com/logo/tv/tt/ten-au.png
 10TV.in,10 TV,,IN,,,c/IN,hin,,false,https://www.lyngsat.com/logo/tv/num/10_tv_in.png
 11TV.af,11 TV,,AF,,,c/AF,pus,,false,
@@ -4979,6 +4980,7 @@ FoxCrimeSrbija.us,Fox Crime Srbija,,US,,,c/US,eng,,false,https://tv2go.t-2.net/s
 FoxCrimeTurkiye.us,Fox Crime Türkiye,,US,,,c/US,eng,,false,https://www.dsmart.com.tr/epg/images/0x50/5d9dc98ecfef0b5db33df65d
 FoxDeportes.us,Fox Deportes,,US,,,c/US,eng,,false,https://imagenes.gatotv.com/logos/canales/oscuros/fox_deportes-mediano.png
 FoxDeutschland.us,Fox Deutschland,,US,,,c/US,eng,,false,
+FoxDocos.au,Fox Docos,,AU,,,c/AU,eng,,false,https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Fox_Docos_logo.png/800px-Fox_Docos_logo.png
 FoxEast.us,Fox East,,US,,,c/US,eng,,false,https://cdn.tvpassport.com/image/station/100x100/foxcable.png
 FoxEspana.us,Fox España,,US,,,c/US,eng,,false,https://imagenes.gatotv.com/logos/canales/oscuros/fox_channel_espana-mediano.png
 FoxFamilyMovies.us,Fox Family Movies,,US,,,c/US,eng,,false,https://www.lyngsat.com/logo/tv/ff/fox_movies_family.png
@@ -5079,7 +5081,6 @@ FoxSportsRacing.us,Fox Sports Racing,,US,,,c/US,eng,,false,https://cdn.tvpasspor
 FoxSportsVietnam.us,Fox Sports Vietnam,,US,,,c/US,eng,,false,
 FoxSrbija.us,Fox Srbija,,US,,,c/US,eng,,false,https://prd-static-mkt.spectar.tv/rev-1636968170/image_transform.php/transform/1/instance_id/1/video_id/610324
 Foxtel4K.au,Foxtel 4K,,AU,,,c/AU,eng,,false,https://www.lyngsat.com/logo/tv/ff/foxtel-4k-au.png
-FoxtelArts.au,Foxtel Arts,,AU,,,c/AU,eng,,false,https://www.lyngsat.com/logo/tv/ff/foxtel-arts-au.png
 FoxtelDigitalHelp.au,Foxtel Digital Help,,AU,,,c/AU,eng,,false,
 FoxtelMoviesAction.au,Foxtel Movies Action,,AU,,,c/AU,eng,,false,https://www.lyngsat.com/logo/tv/ff/foxtel-movies-action-au.png
 FoxtelMoviesActionPlus2.au,Foxtel Movies Action +2,,AU,,,c/AU,eng,,false,https://www.lyngsat.com/logo/tv/ff/foxtel-movies-action-au.png
@@ -5149,6 +5150,7 @@ FreeSports.uk,FreeSports,,UK,,,c/UK,eng,sports,false,https://images.stv.tv/playe
 FreeTV.eg,Free TV,,EG,,,c/EG,ara,,false,https://www.lyngsat.com/logo/tv/ff/free_tv_eg.png
 Fresh.za,Fresh,,ZA,,,c/ZA,afr,,false,https://www.lyngsat.com/logo/tv/ff/fresh-za.png
 FreshNews.kh,Fresh News,,KH,,,c/KH,khm,news,false,https://www.lyngsat.com/logo/tv/ff/fresh-news-kh.png
+Frikanalen.no,Frikanalen,,NO,,,c/NO,nor,,false,https://www.rikstv.no/globalassets/innholdsblokker/11-tv-kanaler/logo-png/frikanalen-logo-rgb.png
 Frisbee.it,Frisbee,,IT,,,c/IT,ita,,false,https://services.sg101.prd.sctv.ch/content/images/tv/channel/189_image_7_w116.webp
 FrissonsTV.ca,Frissons TV,,CA,,,c/CA,eng,,false,https://cdn.tvpassport.com/image/station/100x100/frissons.png
 FrontierTV.in,Frontier TV,,IN,,,c/IN,hin,,false,https://www.lyngsat.com/logo/tv/ff/frontier_tv_in.png
@@ -14770,6 +14772,7 @@ Revolt.us,Revolt,,US,,,c/US,eng,,false,https://www.directv.com/images/logos/chan
 RevTVCanada.ca,Rev TV Canada,,CA,,,c/CA,eng,,false,https://cdn.tvpassport.com/image/station/100x100/revtvcanada.png
 Rewind.ca,Rewind,,CA,,,c/CA,eng,,false,https://cdn.tvpassport.com/image/station/100x100/rewind_tv.png
 RFDDT1.us,RFD-DT1,,US,,,c/US,eng,,false,https://www.directv.com/images/logos/channels/dark/large/570.png
+RFDTV.us,RFD-TV,,US,,,c/US,eng,,false,https://www.lyngsat.com/logo/tv/rr/rfd_tv_us.png
 RFDTVCanada.us,RFD-TV Canada,,US,,,c/US,eng,,false,https://www.lyngsat.com/logo/tv/rr/rfd_tv_us.png
 RFMTV.fr,RFM TV,,FR,,,c/FR,fra,,false,https://ocdn.eu/ptv2-images-transforms/1/mPekrhsb2dvLW1pZ3JhdGVkL3JmbS10di5wbmeSlQJkAMLDlQIAKMLD
 RFO.de,RFO,,DE,,,c/DE,deu,,false,https://cdn.hd-plus.de/senderlogos/bright-cropped/24538-1.png
@@ -16227,6 +16230,7 @@ SpotlightTV.uk,Spotlight TV,,UK,,,c/UK,eng,,false,https://i.imgur.com/axXipp8.pn
 SpoTV.kr,SpoTV,,KR,,,c/KR,kor,,false,https://www.lyngsat.com/logo/tv/ss/spotv-kr.png
 SpoTV2.kr,SpoTV 2,,KR,,,c/KR,kor,,false,
 SpoTVPlus.kr,SpoTV Plus,,KR,,,c/KR,kor,,false,https://www.lyngsat.com/logo/tv/ss/spo_tv_kr_plus.png
+SpreeTV.au,Spree TV,,AU,,,c/AU,eng,,false,https://upload.wikimedia.org/wikipedia/en/d/d2/Spree_TV_2015_logo.png
 SpringsNetwork.za,Springs Network,,ZA,,,c/ZA,afr,,false,https://www.lyngsat.com/logo/tv/ss/springs-network-za.png
 SPSClassic.mn,SPS Classic,,MN,,,c/MN,mon,,false,https://www.lyngsat.com/logo/tv/ss/sps-classic-mn.png
 SPSFight.mn,SPS Fight,,MN,,,c/MN,mon,,false,https://www.lyngsat.com/logo/tv/ss/sps-fight-mn.png
