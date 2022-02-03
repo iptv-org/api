@@ -2,6 +2,14 @@
 
 ## Overview
 
+- [Channels](#channels)
+- [Guides](#guides)
+- [Categories](#categories)
+- [Languages](#languages)
+- [Countries](#countries)
+- [Subdivisions](#subdivisions)
+- [Regions](#regions)
+
 ### Channels
 
 ```
@@ -12,23 +20,23 @@ https://iptv-org.github.io/api/channels.json
 [
   ...
   {
-    "id": "CNN.us",
-    "name": "CNN",
-    "network": "CNN",
+    "id": "KSTSDT3.us",
+    "name": "KSTS-DT3",
+    "network": "NBC",
     "country": "US",
-    "subdivision": null,
-    "city": null,
+    "subdivision": "US-CA",
+    "city": "San Francisco",
     "broadcast_area": [
-      "c/US"
+      "s/US-CA"
     ],
     "languages": [
       "eng"
     ],
     "categories": [
-      "news"
+      "general"
     ],
     "is_nsfw": false,
-    "logo": "https://myhealthhub.frontline.ca/myhealthhubtv/channellogos/cnn.png"
+    "logo": "https://cdn.tvpassport.com/image/station/100x100/nbc.png"
   },
   ...
 ]
@@ -47,6 +55,32 @@ https://iptv-org.github.io/api/channels.json
 | categories     | List of [categories](database/categories.csv) to which this channel belongs                                                                          |
 | is_nsfw        | Indicates whether the channel broadcasts adult content                                                                                               |
 | logo           | Logo URL                                                                                                                                             |
+
+### Guides
+
+```
+https://iptv-org.github.io/api/guides.json
+```
+
+```
+[
+  ...
+  {
+    "channel": "KSTSDT3.us",
+    "site": "tvtv.us",
+    "lang": "en",
+    "url": "https://iptv-org.github.io/epg/guides/us/tvtv.us.epg.xml"
+  },
+  ...
+]
+```
+
+| Field   | Description                                                                       |
+| ------- | --------------------------------------------------------------------------------- |
+| channel | Channel ID                                                                        |
+| site    | Program source domain name                                                        |
+| lang    | Language of the guide ([ISO_639-1](https://en.wikipedia.org/wiki/ISO_639-1) code) |
+| url     | Link to the guide                                                                 |
 
 ### Categories
 
@@ -69,6 +103,28 @@ https://iptv-org.github.io/api/categories.json
 | ----- | -------------------- |
 | id    | Category ID          |
 | name  | Name of the category |
+
+### Languages
+
+```
+https://iptv-org.github.io/api/languages.json
+```
+
+```
+[
+  ...
+  {
+    "name": "French",
+    "code": "fra"
+  },
+  ...
+]
+```
+
+| Field | Description                                                               |
+| ----- | ------------------------------------------------------------------------- |
+| name  | Language name                                                             |
+| code  | [ISO 639-3](https://en.wikipedia.org/wiki/ISO_639-3) code of the language |
 
 ### Countries
 
@@ -119,28 +175,6 @@ https://iptv-org.github.io/api/subdivisions.json
 | country | [ISO 3166-1 alpha-2](https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2) code of the country |
 | name    | Subdivision name                                                                           |
 | code    | [ISO 3166-2](https://en.wikipedia.org/wiki/ISO_3166-2) code of the subdivision             |
-
-### Languages
-
-```
-https://iptv-org.github.io/api/languages.json
-```
-
-```
-[
-  ...
-  {
-    "name": "French",
-    "code": "fra"
-  },
-  ...
-]
-```
-
-| Field | Description                                                               |
-| ----- | ------------------------------------------------------------------------- |
-| name  | Language name                                                             |
-| code  | [ISO 639-3](https://en.wikipedia.org/wiki/ISO_639-3) code of the language |
 
 ### Regions
 
