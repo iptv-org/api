@@ -1,4 +1,4 @@
-const { csv } = require('./core')
+const { csv } = require('../core')
 const path = require('path')
 const glob = require('glob')
 const fs = require('fs')
