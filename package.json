@@ -2,6 +2,7 @@
   "name": "@iptv-org/api",
   "scripts": {
     "act:auto-update": "act workflow_dispatch -W .github/workflows/auto-update.yml",
+    "act:check": "act pull_request -W .github/workflows/check.yml",
     "api:update": "node scripts/api/update.js",
     "db:validate": "node scripts/db/validate.js"
   },
