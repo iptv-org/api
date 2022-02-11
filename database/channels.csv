@@ -14430,7 +14430,7 @@ MesajTV.tr,Mesaj TV,,TR,,,c/TR,tur,,false,
 MESat.eg,ME Sat,,EG,,,c/EG,ara,religious,false,https://copticocc.org/mesat/wp-content/uploads/2018/07/logo-width12.png
 MesogeiosTV.gr,Mesogeios TV,,GR,,,c/GR,ell,,false,https://i.imgur.com/OnB6n3C.jpg
 MessatidaTV.gr,Messatida TV,,GR,,,c/GR,ell,,false,https://i.imgur.com/y3pUxXe.png
-MetalTV.ru,Metal TV,,RU,,,r/INT,cat;ara;pus;eng;sqi;hye;por;spa;deu;nld;swe;aze;bos;ben;fra;bul;msa;dzo;nor;bel;zho;ell;ces;dan;est;tir;amh;fin;fao;kat;kal;hrv;hun;ind;gle;heb;hin;fas;isl;ita;jpn;kir;khm;kor;kaz;lao;sin;lit;lav;ron;srp;mkd;mya;mon;mlt;div;nep;pol;rus;kin;slv;slk;som;tha;tgk;tuk;tur;swa;ukr;uzb;vie;bis;smo;afr,music,false,
+MetalTV.ru,Metal TV,,RU,,,c/RU,eng,music,false,
 MeteoMedia.ca,MétéoMédia,,CA,,,c/CA,fra,weather,false,https://s1.twnmm.com/images/en_ca/mobile/logos/twn-mobile-logo.png
 MeteoMediaMontreal.ca,MétéoMédia Montreal,,CA,,,c/CA,eng,,false,https://cdn.tvpassport.com/image/station/100x100/meteo-copy.png
 MeteoMediaQuebec.ca,MétéoMédia Quebec,,CA,,,c/CA,eng,,false,https://cdn.tvpassport.com/image/station/100x100/meteo-copy.png
