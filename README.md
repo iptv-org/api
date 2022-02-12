@@ -51,8 +51,8 @@ https://iptv-org.github.io/api/channels.json
 | subdivision    | Code of the subdivision (e.g., provinces or states) from which the broadcast is transmitted ([ISO 3166-2](https://en.wikipedia.org/wiki/ISO_3166-2)) |
 | city           | Name of the city from which the broadcast is transmitted                                                                                             |
 | broadcast_area | List of codes describing the broadcasting area (`r/<region_code>`, `c/<country_code>`, `s/<subdivision_code>`)                                       |
-| languages      | List of [languages](database/languages.csv) broadcast                                                                                                |
-| categories     | List of [categories](database/categories.csv) to which this channel belongs                                                                          |
+| languages      | List of languages broadcast                                                                                                                          |
+| categories     | List of categories to which this channel belongs                                                                                                     |
 | is_nsfw        | Indicates whether the channel broadcasts adult content                                                                                               |
 | logo           | Logo URL                                                                                                                                             |
 
@@ -200,11 +200,11 @@ https://iptv-org.github.io/api/regions.json
 ]
 ```
 
-| Field     | Description                                               |
-| --------- | --------------------------------------------------------- |
-| name      | Region name                                               |
-| code      | Code of the region                                        |
-| countries | List of [countries](database/countries.csv) in the region |
+| Field     | Description                     |
+| --------- | ------------------------------- |
+| name      | Region name                     |
+| code      | Code of the region              |
+| countries | List of countries in the region |
 
 ## Contribution
 
