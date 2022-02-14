@@ -9,6 +9,7 @@
 - [Countries](#countries)
 - [Subdivisions](#subdivisions)
 - [Regions](#regions)
+- [Blocklist](#blocklist)
 
 ### Channels
 
@@ -205,6 +206,28 @@ https://iptv-org.github.io/api/regions.json
 | name      | Region name                     |
 | code      | Code of the region              |
 | countries | List of countries in the region |
+
+### Blocklist
+
+```
+https://iptv-org.github.io/api/blocklist.json
+```
+
+```
+[
+  ...
+  {
+    "channel": "AnimalPlanetEast.us",
+    "ref": "https://github.com/iptv-org/iptv/issues/1831",
+  },
+  ...
+]
+```
+
+| Field   | Description                                     |
+| ------- | ----------------------------------------------- |
+| channel | Channel ID                                      |
+| ref     | Link to removal request or DMCA takedown notice |
 
 ## Contribution
 
