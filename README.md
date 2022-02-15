@@ -148,7 +148,7 @@ https://iptv-org.github.io/api/countries.json
 
 | Field | Description                                                                                |
 | ----- | ------------------------------------------------------------------------------------------ |
-| name  | Name of the category                                                                       |
+| name  | Name of the country                                                                        |
 | code  | [ISO 3166-1 alpha-2](https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2) code of the country |
 | lang  | Official language ([ISO 639-3](https://en.wikipedia.org/wiki/ISO_639-3) code)              |
 | flag  | Country flag emoji                                                                         |
