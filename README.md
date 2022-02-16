@@ -37,19 +37,19 @@ https://iptv-org.github.io/api/channels.json
 ]
 ```
 
-| Field          | Description                                                                                                                                          |
-| -------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
-| id             | Unique channel ID                                                                                                                                    |
-| name           | Full name of the channel                                                                                                                             |
-| network        | Name of the network operating the channel                                                                                                            |
-| country        | Country code from which the broadcast is transmitted ([ISO 3166-1 alpha-2](https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2))                        |
-| subdivision    | Code of the subdivision (e.g., provinces or states) from which the broadcast is transmitted ([ISO 3166-2](https://en.wikipedia.org/wiki/ISO_3166-2)) |
-| city           | Name of the city from which the broadcast is transmitted                                                                                             |
-| broadcast_area | List of codes describing the broadcasting area (`r/<region_code>`, `c/<country_code>`, `s/<subdivision_code>`)                                       |
-| languages      | List of languages broadcast                                                                                                                          |
-| categories     | List of categories to which this channel belongs                                                                                                     |
-| is_nsfw        | Indicates whether the channel broadcasts adult content                                                                                               |
-| logo           | Logo URL                                                                                                                                             |
+| Field          | Type    | Description                                                                                                                                          |
+| -------------- | ------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
+| id             | string  | Unique channel ID                                                                                                                                    |
+| name           | string  | Full name of the channel                                                                                                                             |
+| network        | string  | Name of the network operating the channel                                                                                                            |
+| country        | string  | Country code from which the broadcast is transmitted ([ISO 3166-1 alpha-2](https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2))                        |
+| subdivision    | string  | Code of the subdivision (e.g., provinces or states) from which the broadcast is transmitted ([ISO 3166-2](https://en.wikipedia.org/wiki/ISO_3166-2)) |
+| city           | string  | Name of the city from which the broadcast is transmitted                                                                                             |
+| broadcast_area | array   | List of codes describing the broadcasting area (`r/<region_code>`, `c/<country_code>`, `s/<subdivision_code>`)                                       |
+| languages      | array   | List of languages broadcast                                                                                                                          |
+| categories     | array   | List of categories to which this channel belongs                                                                                                     |
+| is_nsfw        | boolean | Indicates whether the channel broadcasts adult content                                                                                               |
+| logo           | string  | Logo URL                                                                                                                                             |
 
 ### Guides
 
@@ -70,12 +70,12 @@ https://iptv-org.github.io/api/guides.json
 ]
 ```
 
-| Field   | Description                                                                       |
-| ------- | --------------------------------------------------------------------------------- |
-| channel | Channel ID                                                                        |
-| site    | Program source domain name                                                        |
-| lang    | Language of the guide ([ISO_639-1](https://en.wikipedia.org/wiki/ISO_639-1) code) |
-| url     | Link to the guide                                                                 |
+| Field   | Type   | Description                                                                       |
+| ------- | ------ | --------------------------------------------------------------------------------- |
+| channel | string | Channel ID                                                                        |
+| site    | string | Program source domain name                                                        |
+| lang    | string | Language of the guide ([ISO_639-1](https://en.wikipedia.org/wiki/ISO_639-1) code) |
+| url     | string | Link to the guide                                                                 |
 
 ### Categories
 
@@ -94,10 +94,10 @@ https://iptv-org.github.io/api/categories.json
 ]
 ```
 
-| Field | Description          |
-| ----- | -------------------- |
-| id    | Category ID          |
-| name  | Name of the category |
+| Field | Type   | Description          |
+| ----- | ------ | -------------------- |
+| id    | string | Category ID          |
+| name  | string | Name of the category |
 
 ### Languages
 
@@ -116,10 +116,10 @@ https://iptv-org.github.io/api/languages.json
 ]
 ```
 
-| Field | Description                                                               |
-| ----- | ------------------------------------------------------------------------- |
-| name  | Language name                                                             |
-| code  | [ISO 639-3](https://en.wikipedia.org/wiki/ISO_639-3) code of the language |
+| Field | Type   | Description                                                               |
+| ----- | ------ | ------------------------------------------------------------------------- |
+| name  | string | Language name                                                             |
+| code  | string | [ISO 639-3](https://en.wikipedia.org/wiki/ISO_639-3) code of the language |
 
 ### Countries
 
@@ -140,12 +140,12 @@ https://iptv-org.github.io/api/countries.json
 ]
 ```
 
-| Field | Description                                                                                |
-| ----- | ------------------------------------------------------------------------------------------ |
-| name  | Name of the country                                                                        |
-| code  | [ISO 3166-1 alpha-2](https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2) code of the country |
-| lang  | Official language ([ISO 639-3](https://en.wikipedia.org/wiki/ISO_639-3) code)              |
-| flag  | Country flag emoji                                                                         |
+| Field | Type   | Description                                                                                |
+| ----- | ------ | ------------------------------------------------------------------------------------------ |
+| name  | string | Name of the country                                                                        |
+| code  | string | [ISO 3166-1 alpha-2](https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2) code of the country |
+| lang  | string | Official language ([ISO 639-3](https://en.wikipedia.org/wiki/ISO_639-3) code)              |
+| flag  | string | Country flag emoji                                                                         |
 
 ### Subdivisions
 
@@ -165,11 +165,11 @@ https://iptv-org.github.io/api/subdivisions.json
 ]
 ```
 
-| Field   | Description                                                                                |
-| ------- | ------------------------------------------------------------------------------------------ |
-| country | [ISO 3166-1 alpha-2](https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2) code of the country |
-| name    | Subdivision name                                                                           |
-| code    | [ISO 3166-2](https://en.wikipedia.org/wiki/ISO_3166-2) code of the subdivision             |
+| Field   | Type   | Description                                                                                |
+| ------- | ------ | ------------------------------------------------------------------------------------------ |
+| country | string | [ISO 3166-1 alpha-2](https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2) code of the country |
+| name    | string | Subdivision name                                                                           |
+| code    | string | [ISO 3166-2](https://en.wikipedia.org/wiki/ISO_3166-2) code of the subdivision             |
 
 ### Regions
 
@@ -189,11 +189,11 @@ https://iptv-org.github.io/api/regions.json
 ]
 ```
 
-| Field     | Description                     |
-| --------- | ------------------------------- |
-| name      | Region name                     |
-| code      | Code of the region              |
-| countries | List of countries in the region |
+| Field     | Type   | Description                     |
+| --------- | ------ | ------------------------------- |
+| name      | string | Region name                     |
+| code      | string | Code of the region              |
+| countries | array  | List of countries in the region |
 
 ### Blocklist
 
@@ -212,10 +212,10 @@ https://iptv-org.github.io/api/blocklist.json
 ]
 ```
 
-| Field   | Description                                     |
-| ------- | ----------------------------------------------- |
-| channel | Channel ID                                      |
-| ref     | Link to removal request or DMCA takedown notice |
+| Field   | Type   | Description                                     |
+| ------- | ------ | ----------------------------------------------- |
+| channel | string | Channel ID                                      |
+| ref     | string | Link to removal request or DMCA takedown notice |
 
 ## Contribution
 
