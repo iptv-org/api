@@ -75,16 +75,16 @@ https://iptv-org.github.io/api/streams.json
 ]
 ```
 
-| Field         | Description                                                                                                          |
-| ------------- | -------------------------------------------------------------------------------------------------------------------- |
-| channel       | Channel ID                                                                                                           |
-| url           | Stream URL                                                                                                           |
-| http_referrer | The [Referer](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Referer) request header for the stream       |
-| user_agent    | The [User-Agent](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/User-Agent) request header for the stream |
-| status        | One of the following: `online`, `blocked`, `timeout`, `error`                                                        |
-| width         | The maximum width of the stream in pixels. Specified only if the status is `online`                                  |
-| height        | The maximum height of the stream in pixels. Specified only if the status is `online`                                 |
-| bitrate       | The bitrate of the stream in bits per second. Specified only if the status is `online`                               |
+| Field         | Type           | Description                                                                                                          |
+| ------------- | -------------- | -------------------------------------------------------------------------------------------------------------------- |
+| channel       | string         | Channel ID                                                                                                           |
+| url           | string         | Stream URL                                                                                                           |
+| http_referrer | string or null | The [Referer](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Referer) request header for the stream       |
+| user_agent    | string or null | The [User-Agent](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/User-Agent) request header for the stream |
+| status        | string         | One of the following: `online`, `blocked`, `timeout`, `error`                                                        |
+| width         | integer        | The maximum width of the stream in pixels. Specified only if the status is `online`                                  |
+| height        | integer        | The maximum height of the stream in pixels. Specified only if the status is `online`                                 |
+| bitrate       | integer        | The bitrate of the stream in bits per second. Specified only if the status is `online`                               |
 
 ### Guides
 
