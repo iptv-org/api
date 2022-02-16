@@ -86,6 +86,8 @@ https://iptv-org.github.io/api/streams.json
 | height        | integer        | The maximum height of the stream in pixels. Specified only if the status is `online`                                 |
 | bitrate       | integer        | The bitrate of the stream in bits per second. Specified only if the status is `online`                               |
 
+Source of data: https://github.com/iptv-org/iptv
+
 ### Guides
 
 ```
