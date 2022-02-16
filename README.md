@@ -3,6 +3,7 @@
 ## Overview
 
 - [Channels](#channels)
+- [Streams](#streams)
 - [Guides](#guides)
 - [Categories](#categories)
 - [Languages](#languages)
@@ -56,6 +57,40 @@ https://iptv-org.github.io/api/channels.json
 | categories     | List of categories to which this channel belongs                                                                                                     |
 | is_nsfw        | Indicates whether the channel broadcasts adult content                                                                                               |
 | logo           | Logo URL                                                                                                                                             |
+
+### Streams
+
+```
+https://iptv-org.github.io/api/streams.json
+```
+
+```jsonc
+[
+  //...
+  {
+    "channel": "BBCNews.uk",
+    "url": "http://1111296894.rsc.cdn77.org/LS-ATL-54548-6/index.m3u8",
+    "http_referrer": "http://example.com/",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+    "status": "online",
+    "width": 1280,
+    "height": 720,
+    "bitrate": 565040
+  }
+  //...
+]
+```
+
+| Field         | Description                                                                                                          |
+| ------------- | -------------------------------------------------------------------------------------------------------------------- |
+| channel       | Channel ID                                                                                                           |
+| url           | Stream URL                                                                                                           |
+| http_referrer | The [Referer](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Referer) request header for the stream       |
+| user_agent    | The [User-Agent](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/User-Agent) request header for the stream |
+| status        | One of the following: `online`, `blocked`, `timeout`, `error`                                                        |
+| width         | The maximum width of the stream in pixels. Specified only if the status is `online`                                  |
+| height        | The maximum height of the stream in pixels. Specified only if the status is `online`                                 |
+| bitrate       | The bitrate of the stream in bits per second. Specified only if the status is `online`                               |
 
 ### Guides
 
