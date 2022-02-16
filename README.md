@@ -17,9 +17,9 @@
 https://iptv-org.github.io/api/channels.json
 ```
 
-```
+```jsonc
 [
-  ...
+  //...
   {
     "id": "KSTSDT3.us",
     "name": "KSTS-DT3",
@@ -27,19 +27,13 @@ https://iptv-org.github.io/api/channels.json
     "country": "US",
     "subdivision": "US-CA",
     "city": "San Francisco",
-    "broadcast_area": [
-      "s/US-CA"
-    ],
-    "languages": [
-      "eng"
-    ],
-    "categories": [
-      "general"
-    ],
+    "broadcast_area": ["s/US-CA"],
+    "languages": ["eng"],
+    "categories": ["general"],
     "is_nsfw": false,
     "logo": "https://cdn.tvpassport.com/image/station/100x100/nbc.png"
-  },
-  ...
+  }
+  //...
 ]
 ```
 
@@ -63,16 +57,16 @@ https://iptv-org.github.io/api/channels.json
 https://iptv-org.github.io/api/guides.json
 ```
 
-```
+```jsonc
 [
-  ...
+  //...
   {
     "channel": "KSTSDT3.us",
     "site": "tvtv.us",
     "lang": "en",
     "url": "https://iptv-org.github.io/epg/guides/us/tvtv.us.epg.xml"
-  },
-  ...
+  }
+  //...
 ]
 ```
 
@@ -89,14 +83,14 @@ https://iptv-org.github.io/api/guides.json
 https://iptv-org.github.io/api/categories.json
 ```
 
-```
+```jsonc
 [
-  ...
+  //...
   {
     "id": "documentary",
     "name": "Documentary"
-  },
-  ...
+  }
+  //...
 ]
 ```
 
@@ -111,14 +105,14 @@ https://iptv-org.github.io/api/categories.json
 https://iptv-org.github.io/api/languages.json
 ```
 
-```
+```jsonc
 [
-  ...
+  //...
   {
     "name": "French",
     "code": "fra"
-  },
-  ...
+  }
+  //...
 ]
 ```
 
@@ -133,16 +127,16 @@ https://iptv-org.github.io/api/languages.json
 https://iptv-org.github.io/api/countries.json
 ```
 
-```
+```jsonc
 [
-  ...
+  //...
   {
     "name": "United Kingdom",
     "code": "UK",
     "lang": "eng",
     "flag": "🇬🇧"
-  },
-  ...
+  }
+  //...
 ]
 ```
 
@@ -159,15 +153,15 @@ https://iptv-org.github.io/api/countries.json
 https://iptv-org.github.io/api/subdivisions.json
 ```
 
-```
+```jsonc
 [
-  ...
+  //...
   {
     "country": "CA",
     "name": "Ontario",
     "code": "CA-ON"
-  },
-  ...
+  }
+  //...
 ]
 ```
 
@@ -183,21 +177,15 @@ https://iptv-org.github.io/api/subdivisions.json
 https://iptv-org.github.io/api/regions.json
 ```
 
-```
+```jsonc
 [
-  ...
+  //...
   {
     "name": "Maghreb",
     "code": "MAGHREB",
-    "countries": [
-      "DZ",
-      "LY",
-      "MA",
-      "MR",
-      "TN"
-    ]
-  },
-  ...
+    "countries": ["DZ", "LY", "MA", "MR", "TN"]
+  }
+  //...
 ]
 ```
 
@@ -213,14 +201,14 @@ https://iptv-org.github.io/api/regions.json
 https://iptv-org.github.io/api/blocklist.json
 ```
 
-```
+```jsonc
 [
-  ...
+  //...
   {
     "channel": "AnimalPlanetEast.us",
-    "ref": "https://github.com/iptv-org/iptv/issues/1831",
-  },
-  ...
+    "ref": "https://github.com/iptv-org/iptv/issues/1831"
+  }
+  //...
 ]
 ```
 
