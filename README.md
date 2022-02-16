@@ -37,19 +37,19 @@ https://iptv-org.github.io/api/channels.json
 ]
 ```
 
-| Field          | Type    | Description                                                                                                                                          |
-| -------------- | ------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
-| id             | string  | Unique channel ID                                                                                                                                    |
-| name           | string  | Full name of the channel                                                                                                                             |
-| network        | string  | Name of the network operating the channel                                                                                                            |
-| country        | string  | Country code from which the broadcast is transmitted ([ISO 3166-1 alpha-2](https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2))                        |
-| subdivision    | string  | Code of the subdivision (e.g., provinces or states) from which the broadcast is transmitted ([ISO 3166-2](https://en.wikipedia.org/wiki/ISO_3166-2)) |
-| city           | string  | Name of the city from which the broadcast is transmitted                                                                                             |
-| broadcast_area | array   | List of codes describing the broadcasting area (`r/<region_code>`, `c/<country_code>`, `s/<subdivision_code>`)                                       |
-| languages      | array   | List of languages broadcast                                                                                                                          |
-| categories     | array   | List of categories to which this channel belongs                                                                                                     |
-| is_nsfw        | boolean | Indicates whether the channel broadcasts adult content                                                                                               |
-| logo           | string  | Logo URL                                                                                                                                             |
+| Field          | Type           | Description                                                                                                                                          |
+| -------------- | -------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
+| id             | string         | Unique channel ID                                                                                                                                    |
+| name           | string         | Full name of the channel                                                                                                                             |
+| network        | string or null | Name of the network operating the channel                                                                                                            |
+| country        | string         | Country code from which the broadcast is transmitted ([ISO 3166-1 alpha-2](https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2))                        |
+| subdivision    | string or null | Code of the subdivision (e.g., provinces or states) from which the broadcast is transmitted ([ISO 3166-2](https://en.wikipedia.org/wiki/ISO_3166-2)) |
+| city           | string or null | Name of the city from which the broadcast is transmitted                                                                                             |
+| broadcast_area | array          | List of codes describing the broadcasting area (`r/<region_code>`, `c/<country_code>`, `s/<subdivision_code>`)                                       |
+| languages      | array          | List of languages broadcast                                                                                                                          |
+| categories     | array          | List of categories to which this channel belongs                                                                                                     |
+| is_nsfw        | boolean        | Indicates whether the channel broadcasts adult content                                                                                               |
+| logo           | string or null | Logo URL                                                                                                                                             |
 
 ### Guides
 
