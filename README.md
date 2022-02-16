@@ -51,6 +51,8 @@ https://iptv-org.github.io/api/channels.json
 | is_nsfw        | boolean        | Indicates whether the channel broadcasts adult content                                                                                               |
 | logo           | string or null | Logo URL                                                                                                                                             |
 
+Source of data: https://github.com/iptv-org/database
+
 ### Guides
 
 ```
@@ -77,6 +79,8 @@ https://iptv-org.github.io/api/guides.json
 | lang    | string | Language of the guide ([ISO_639-1](https://en.wikipedia.org/wiki/ISO_639-1) code) |
 | url     | string | Link to the guide                                                                 |
 
+Source of data: https://github.com/iptv-org/epg
+
 ### Categories
 
 ```
@@ -99,6 +103,8 @@ https://iptv-org.github.io/api/categories.json
 | id    | string | Category ID          |
 | name  | string | Name of the category |
 
+Source of data: https://github.com/iptv-org/database
+
 ### Languages
 
 ```
@@ -120,6 +126,8 @@ https://iptv-org.github.io/api/languages.json
 | ----- | ------ | ------------------------------------------------------------------------- |
 | name  | string | Language name                                                             |
 | code  | string | [ISO 639-3](https://en.wikipedia.org/wiki/ISO_639-3) code of the language |
+
+Source of data: https://github.com/iptv-org/database
 
 ### Countries
 
@@ -147,6 +155,8 @@ https://iptv-org.github.io/api/countries.json
 | lang  | string | Official language ([ISO 639-3](https://en.wikipedia.org/wiki/ISO_639-3) code)              |
 | flag  | string | Country flag emoji                                                                         |
 
+Source of data: https://github.com/iptv-org/database
+
 ### Subdivisions
 
 ```
@@ -170,6 +180,8 @@ https://iptv-org.github.io/api/subdivisions.json
 | country | string | [ISO 3166-1 alpha-2](https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2) code of the country |
 | name    | string | Subdivision name                                                                           |
 | code    | string | [ISO 3166-2](https://en.wikipedia.org/wiki/ISO_3166-2) code of the subdivision             |
+
+Source of data: https://github.com/iptv-org/database
 
 ### Regions
 
@@ -195,6 +207,8 @@ https://iptv-org.github.io/api/regions.json
 | code      | string | Code of the region              |
 | countries | array  | List of countries in the region |
 
+Source of data: https://github.com/iptv-org/database
+
 ### Blocklist
 
 ```
@@ -216,6 +230,8 @@ https://iptv-org.github.io/api/blocklist.json
 | ------- | ------ | ----------------------------------------------- |
 | channel | string | Channel ID                                      |
 | ref     | string | Link to removal request or DMCA takedown notice |
+
+Source of data: https://github.com/iptv-org/database
 
 ## Contribution
 
