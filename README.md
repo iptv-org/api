@@ -31,6 +31,7 @@ https://iptv-org.github.io/api/channels.json
     "languages": ["eng"],
     "categories": ["general"],
     "is_nsfw": false,
+    "website": "http://nbc.com/",
     "logo": "https://cdn.tvpassport.com/image/station/100x100/nbc.png"
   }
   //...
@@ -49,6 +50,7 @@ https://iptv-org.github.io/api/channels.json
 | languages      | array          | List of languages broadcast                                                                                                                          |
 | categories     | array          | List of categories to which this channel belongs                                                                                                     |
 | is_nsfw        | boolean        | Indicates whether the channel broadcasts adult content                                                                                               |
+| website        | string or null | Official website URL                                                                                                                                 |
 | logo           | string or null | Logo URL                                                                                                                                             |
 
 Source of data: https://github.com/iptv-org/database
