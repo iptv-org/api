@@ -22,18 +22,19 @@ https://iptv-org.github.io/api/channels.json
 [
   //...
   {
-    "id": "KSTSDT3.us",
-    "name": "KSTS-DT3",
-    "network": "NBC",
-    "country": "US",
-    "subdivision": "US-CA",
-    "city": "San Francisco",
-    "broadcast_area": ["s/US-CA"],
-    "languages": ["eng"],
+    "id": "AnhuiTV.cn",
+    "name": "Anhui TV",
+    "native_name": "安徽卫视",
+    "network": "Anhui",
+    "country": "CN",
+    "subdivision": "CN-AH",
+    "city": "Hefei",
+    "broadcast_area": ["s/CN-AH"],
+    "languages": ["zho"],
     "categories": ["general"],
     "is_nsfw": false,
-    "website": "http://nbc.com/",
-    "logo": "https://cdn.tvpassport.com/image/station/100x100/nbc.png"
+    "website": "http://www.ahtv.cn/",
+    "logo": "https://example.com/logo.png"
   }
   //...
 ]
@@ -43,6 +44,7 @@ https://iptv-org.github.io/api/channels.json
 | -------------- | -------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
 | id             | string         | Unique channel ID                                                                                                                                    |
 | name           | string         | Full name of the channel                                                                                                                             |
+| native_name    | string or null | Channel name in the original language if available                                                                                                   |
 | network        | string or null | Name of the network operating the channel                                                                                                            |
 | country        | string         | Country code from which the broadcast is transmitted ([ISO 3166-1 alpha-2](https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2))                        |
 | subdivision    | string or null | Code of the subdivision (e.g., provinces or states) from which the broadcast is transmitted ([ISO 3166-2](https://en.wikipedia.org/wiki/ISO_3166-2)) |
