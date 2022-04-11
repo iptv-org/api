@@ -33,6 +33,8 @@ https://iptv-org.github.io/api/channels.json
     "languages": ["zho"],
     "categories": ["general"],
     "is_nsfw": false,
+    "launched": "2016-07-28",
+    "closed": "2020-05-31",
     "website": "http://www.ahtv.cn/",
     "logo": "https://example.com/logo.png"
   }
@@ -53,6 +55,8 @@ https://iptv-org.github.io/api/channels.json
 | languages      | array          | List of languages broadcast                                                                                                                          |
 | categories     | array          | List of categories to which this channel belongs                                                                                                     |
 | is_nsfw        | boolean        | Indicates whether the channel broadcasts adult content                                                                                               |
+| launched       | string or null | Launch date of the channel (`YYYY-MM-DD`)                                                                                                            |
+| closed         | string or null | Date on which the channel closed (`YYYY-MM-DD`)                                                                                                      |
 | website        | string or null | Official website URL                                                                                                                                 |
 | logo           | string or null | Logo URL                                                                                                                                             |
 
