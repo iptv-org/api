@@ -35,6 +35,7 @@ https://iptv-org.github.io/api/channels.json
     "is_nsfw": false,
     "launched": "2016-07-28",
     "closed": "2020-05-31",
+    "replaced_by": "CCTV1.cn",
     "website": "http://www.ahtv.cn/",
     "logo": "https://example.com/logo.png"
   }
@@ -57,6 +58,7 @@ https://iptv-org.github.io/api/channels.json
 | is_nsfw        | boolean        | Indicates whether the channel broadcasts adult content                                                                                               |
 | launched       | string or null | Launch date of the channel (`YYYY-MM-DD`)                                                                                                            |
 | closed         | string or null | Date on which the channel closed (`YYYY-MM-DD`)                                                                                                      |
+| replaced_by    | string or null | The ID of the channel that this channel was replaced by                                                                                              |
 | website        | string or null | Official website URL                                                                                                                                 |
 | logo           | string or null | Logo URL                                                                                                                                             |
 
