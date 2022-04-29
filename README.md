@@ -60,7 +60,7 @@ https://iptv-org.github.io/api/channels.json
 | closed         | string or null | Date on which the channel closed (`YYYY-MM-DD`)                                                                                                      |
 | replaced_by    | string or null | The ID of the channel that this channel was replaced by                                                                                              |
 | website        | string or null | Official website URL                                                                                                                                 |
-| logo           | string or null | Logo URL                                                                                                                                             |
+| logo           | string         | Logo URL                                                                                                                                             |
 
 Source of data: https://github.com/iptv-org/database
 
