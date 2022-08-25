@@ -121,7 +121,7 @@ https://iptv-org.github.io/api/guides.json
     "channel": "KSTSDT3.us",
     "site": "tvtv.us",
     "lang": "en",
-    "url": "https://iptv-org.github.io/epg/guides/us/tvtv.us.epg.xml"
+    "url": "https://iptv-org.github.io/epg/guides/us/tvtv.us.epg.xml.gz"
   }
   //...
 ]
