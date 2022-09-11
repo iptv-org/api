@@ -1,4 +1,4 @@
-# API (beta)
+# API
 
 ## Overview
 
