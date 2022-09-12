@@ -248,8 +248,8 @@ https://iptv-org.github.io/api/regions.json
 [
   //...
   {
-    "name": "Maghreb",
     "code": "MAGHREB",
+    "name": "Maghreb",
     "countries": ["DZ", "LY", "MA", "MR", "TN"]
   }
   //...
@@ -258,8 +258,8 @@ https://iptv-org.github.io/api/regions.json
 
 | Field     | Type   | Description                     |
 | --------- | ------ | ------------------------------- |
-| name      | string | Region name                     |
 | code      | string | Code of the region              |
+| name      | string | Full name of the region         |
 | countries | array  | List of countries in the region |
 
 Source of data: https://github.com/iptv-org/database
