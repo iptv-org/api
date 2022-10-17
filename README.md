@@ -26,6 +26,7 @@ https://iptv-org.github.io/api/channels.json
     "name": "Anhui TV",
     "native_name": "安徽卫视",
     "network": "Anhui",
+    "owners": ["China Central Television"],
     "country": "CN",
     "subdivision": "CN-AH",
     "city": "Hefei",
@@ -49,6 +50,7 @@ https://iptv-org.github.io/api/channels.json
 | name           | string         | Full name of the channel                                                                                                                             |
 | native_name    | string or null | Channel name in the original language if available                                                                                                   |
 | network        | string or null | Name of the network operating the channel                                                                                                            |
+| owners         | array          | List of channel owners                                                                                                                               |
 | country        | string         | Country code from which the broadcast is transmitted ([ISO 3166-1 alpha-2](https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2))                        |
 | subdivision    | string or null | Code of the subdivision (e.g., provinces or states) from which the broadcast is transmitted ([ISO 3166-2](https://en.wikipedia.org/wiki/ISO_3166-2)) |
 | city           | string or null | Name of the city from which the broadcast is transmitted                                                                                             |
