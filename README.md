@@ -196,21 +196,21 @@ https://iptv-org.github.io/api/countries.json
 [
   //...
   {
-    "name": "United Kingdom",
-    "code": "UK",
-    "lang": "eng",
-    "flag": "🇬🇧"
+    "name": "Canada",
+    "code": "CA",
+    "languages": ["eng", "fra"],
+    "flag": "🇨🇦"
   }
   //...
 ]
 ```
 
-| Field | Type   | Description                                                                                |
-| ----- | ------ | ------------------------------------------------------------------------------------------ |
-| name  | string | Name of the country                                                                        |
-| code  | string | [ISO 3166-1 alpha-2](https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2) code of the country |
-| lang  | string | Official language ([ISO 639-3](https://en.wikipedia.org/wiki/ISO_639-3) code)              |
-| flag  | string | Country flag emoji                                                                         |
+| Field     | Type   | Description                                                                                           |
+| --------- | ------ | ----------------------------------------------------------------------------------------------------- |
+| name      | string | Name of the country                                                                                   |
+| code      | string | [ISO 3166-1 alpha-2](https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2) code of the country            |
+| languages | array  | List of official languages of the country ([ISO 639-3](https://en.wikipedia.org/wiki/ISO_639-3) code) |
+| flag      | string | Country flag emoji                                                                                    |
 
 Source of data: https://github.com/iptv-org/database
 
