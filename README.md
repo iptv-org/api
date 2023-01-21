@@ -122,8 +122,8 @@ https://iptv-org.github.io/api/guides.json
   {
     "channel": "KSTSDT3.us",
     "site": "tvtv.us",
-    "days": 2,
     "lang": "en",
+    "days": 2,
     "url": "https://iptv-org.github.io/epg/guides/us.xml"
   }
   //...
@@ -134,8 +134,8 @@ https://iptv-org.github.io/api/guides.json
 | ------- | ------- | --------------------------------------------------------------------------------- |
 | channel | string  | Channel ID                                                                        |
 | site    | string  | Program source domain name                                                        |
-| days    | integer | Number of days for which this guide is intended                                   |
 | lang    | string  | Language of the guide ([ISO_639-1](https://en.wikipedia.org/wiki/ISO_639-1) code) |
+| days    | integer | Number of days for which this guide is intended                                   |
 | url     | string  | Link to the guide                                                                 |
 
 Source of data: https://github.com/iptv-org/epg
