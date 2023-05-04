@@ -79,34 +79,18 @@ https://iptv-org.github.io/api/streams.json
     "channel": "BBCNews.uk",
     "url": "http://1111296894.rsc.cdn77.org/LS-ATL-54548-6/index.m3u8",
     "http_referrer": "http://example.com/",
-    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-    "status": "online",
-    "width": 1280,
-    "height": 720,
-    "bitrate": 565040,
-    "frame_rate": 29.97,
-    "added_at": "2022-07-13T04:41:45Z",
-    "updated_at": "2022-07-13T04:41:45Z",
-    "checked_at": "2022-08-13T14:05:19Z"
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
   }
   //...
 ]
 ```
 
-| Field         | Type             | Description                                                                                                            |
-| ------------- | ---------------- | ---------------------------------------------------------------------------------------------------------------------- |
-| channel       | string           | Channel ID                                                                                                             |
-| url           | string           | Stream URL                                                                                                             |
-| http_referrer | string or null   | The [Referer](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Referer) request header for the stream         |
-| user_agent    | string or null   | The [User-Agent](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/User-Agent) request header for the stream   |
-| status        | string           | The status of the stream based on the last check. Can be one of the following: `online`, `blocked`, `timeout`, `error` |
-| width         | integer          | The maximum width of the stream in pixels.                                                                             |
-| height        | integer          | The maximum height of the stream in pixels.                                                                            |
-| bitrate       | integer          | The bitrate of the stream in bits per second.                                                                          |
-| frame_rate    | integer or float | The frame rate of the stream in frames per second.                                                                     |
-| added_at      | string           | Date the stream was added to the list ([ISO 8601](https://en.wikipedia.org/wiki/ISO_8601))                             |
-| updated_at    | string           | Date of last update ([ISO 8601](https://en.wikipedia.org/wiki/ISO_8601))                                               |
-| checked_at    | string           | Date of last check ([ISO 8601](https://en.wikipedia.org/wiki/ISO_8601))                                                |
+| Field         | Type           | Description                                                                                                          |
+| ------------- | -------------- | -------------------------------------------------------------------------------------------------------------------- |
+| channel       | string         | Channel ID                                                                                                           |
+| url           | string         | Stream URL                                                                                                           |
+| http_referrer | string or null | The [Referer](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Referer) request header for the stream       |
+| user_agent    | string or null | The [User-Agent](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/User-Agent) request header for the stream |
 
 Source of data: https://github.com/iptv-org/iptv
 
