@@ -4,7 +4,6 @@
 
 - [Channels](#channels)
 - [Streams](#streams)
-- [Guides](#guides)
 - [Categories](#categories)
 - [Languages](#languages)
 - [Countries](#countries)
@@ -93,36 +92,6 @@ https://iptv-org.github.io/api/streams.json
 | user_agent    | string or null | The [User-Agent](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/User-Agent) request header for the stream |
 
 Source of data: https://github.com/iptv-org/iptv
-
-### Guides
-
-```
-https://iptv-org.github.io/api/guides.json
-```
-
-```jsonc
-[
-  //...
-  {
-    "channel": "KSTSDT3.us",
-    "site": "tvtv.us",
-    "lang": "en",
-    "days": 2,
-    "url": "https://iptv-org.github.io/epg/guides/us.xml"
-  }
-  //...
-]
-```
-
-| Field   | Type    | Description                                                                       |
-| ------- | ------- | --------------------------------------------------------------------------------- |
-| channel | string  | Channel ID                                                                        |
-| site    | string  | Program source domain name                                                        |
-| lang    | string  | Language of the guide ([ISO_639-1](https://en.wikipedia.org/wiki/ISO_639-1) code) |
-| days    | integer | Number of days for which this guide is intended                                   |
-| url     | string  | Link to the guide                                                                 |
-
-Source of data: https://github.com/iptv-org/epg
 
 ### Categories
 
