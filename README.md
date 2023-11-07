@@ -77,6 +77,7 @@ https://iptv-org.github.io/api/streams.json
   {
     "channel": "BBCNews.uk",
     "url": "http://1111296894.rsc.cdn77.org/LS-ATL-54548-6/index.m3u8",
+    "timeshift": "2",
     "http_referrer": "http://example.com/",
     "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
   }
@@ -88,6 +89,7 @@ https://iptv-org.github.io/api/streams.json
 | ------------- | -------------- | -------------------------------------------------------------------------------------------------------------------- |
 | channel       | string         | Channel ID                                                                                                           |
 | url           | string         | Stream URL                                                                                                           |
+| timeshift     | string or null | Indicates the shift of the program schedule                                                                          |
 | http_referrer | string or null | The [Referer](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Referer) request header for the stream       |
 | user_agent    | string or null | The [User-Agent](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/User-Agent) request header for the stream |
 
