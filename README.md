@@ -4,6 +4,7 @@
 
 - [Channels](#channels)
 - [Streams](#streams)
+- [Guides](#guides)
 - [Categories](#categories)
 - [Languages](#languages)
 - [Countries](#countries)
@@ -94,6 +95,36 @@ https://iptv-org.github.io/api/streams.json
 | user_agent    | string or null | The [User-Agent](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/User-Agent) request header for the stream |
 
 Source of data: https://github.com/iptv-org/iptv
+
+### Guides
+
+```
+https://iptv-org.github.io/api/guides.json
+```
+
+```jsonc
+[
+  //...
+  {
+    "channel": "BBCNews.uk",
+    "site": "bt.com",
+    "site_id": "hsx4",
+    "site_name": "BBC News",
+    "lang": "en"
+  }
+  //...
+]
+```
+
+| Field     | Type   | Description                                                                       |
+| --------- | ------ | --------------------------------------------------------------------------------- |
+| channel   | string | Channel ID                                                                        |
+| site      | string | Site domain name                                                                  |
+| site_id   | string | Unique channel ID used on the site                                                |
+| site_name | string | Channel name used on the site                                                     |
+| lang      | string | Language of the guide ([ISO 639-1](https://en.wikipedia.org/wiki/ISO_639-1) code) |
+
+Source of data: https://github.com/iptv-org/epg
 
 ### Categories
 
