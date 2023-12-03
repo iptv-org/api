@@ -116,13 +116,13 @@ https://iptv-org.github.io/api/guides.json
 ]
 ```
 
-| Field     | Type   | Description                                                                       |
-| --------- | ------ | --------------------------------------------------------------------------------- |
-| channel   | string | Channel ID                                                                        |
-| site      | string | Site domain name                                                                  |
-| site_id   | string | Unique channel ID used on the site                                                |
-| site_name | string | Channel name used on the site                                                     |
-| lang      | string | Language of the guide ([ISO 639-1](https://en.wikipedia.org/wiki/ISO_639-1) code) |
+| Field     | Type           | Description                                                                       |
+| --------- | -------------- | --------------------------------------------------------------------------------- |
+| channel   | string or null | Channel ID                                                                        |
+| site      | string         | Site domain name                                                                  |
+| site_id   | string         | Unique channel ID used on the site                                                |
+| site_name | string         | Channel name used on the site                                                     |
+| lang      | string         | Language of the guide ([ISO 639-1](https://en.wikipedia.org/wiki/ISO_639-1) code) |
 
 Source of data: https://github.com/iptv-org/epg
 
