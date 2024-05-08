@@ -1,0 +1,345 @@
+[
+  //...
+  {
+    "id": "Tv1.my",
+    "name": "RTM Tv1",
+    "alt_names": ["Tv1"],
+    "network": "null",
+    "owners": ["Radio Televisyen Malaysia"],
+    "country": "MY",
+    "subdivision": "MY-JHR",
+    "city": "null",
+    "broadcast_area": ["j/MY-JHR"],
+    "languages": ["en"],
+    "categories": ["general"],
+    "is_nsfw": false,
+    "launched": "null",
+    "closed": "null",
+    "replaced_by": "RTM 1",
+    "website": "https://rtmklik.rtm.gov.my/",
+    "logo": "https://github.com/MIFNtechnology/siaranMy/raw/main/logo/Tv1.png""
+  }
+  //...
+]
+[
+  //...
+  {
+    "id": "Tv2.my",
+    "name": "Tv2",
+    "alt_names": ["Tv2"],
+    "network": "null",
+    "owners": ["Radio Televisyen Malaysia"],
+    "country": "MY",
+    "subdivision": "MY-JHR",
+    "city": "null",
+    "broadcast_area": ["j/MY-JHR"],
+    "languages": ["en"],
+    "categories": ["general"],
+    "is_nsfw": false,
+    "launched": "null",
+    "closed": "null",
+    "replaced_by": "RTM 2",
+    "website": "https://rtmklik.rtm.gov.my/",
+    "logo": "https://github.com/MIFNtechnology/siaranMy/raw/main/logo/Tv2.png""
+  }
+  //...
+]
+[
+  //...
+  {
+    "id": "Tv3.my",
+    "name": "Tv3",
+    "alt_names": ["Tv3"],
+    "network": "null",
+    "owners": ["Media Prima Berhad"],
+    "country": "MY",
+    "subdivision": "MY-JHR",
+    "city": "null",
+    "broadcast_area": ["j/MY-JHR"],
+    "languages": ["en"],
+    "categories": ["general"],
+    "is_nsfw": false,
+    "launched": "null",
+    "closed": "null",
+    "replaced_by": "null",
+    "website": "www.xtra.com.my",
+    "logo": "https://github.com/MIFNtechnology/siaranMy/raw/main/logo/Tv3.png""
+  }
+  //...
+]
+[
+  //...
+  {
+    "id": "OkeyTv.my",
+    "name": "OkeyTv",
+    "alt_names": ["OkeyTv"],
+    "network": "null",
+    "owners": ["Radio Televisyen Malaysia"],
+    "country": "MY",
+    "subdivision": "MY-JHR",
+    "city": "null",
+    "broadcast_area": ["j/MY-JHR"],
+    "languages": ["en"],
+    "categories": ["general"],
+    "is_nsfw": false,
+    "launched": "null",
+    "closed": "null",
+    "replaced_by": "TVi",
+    "website": "https://rtmklik.rtm.gov.my/",
+    "logo": "https://github.com/MIFNtechnology/siaranMy/raw/main/logo/OkeyTv.png""
+  }
+  //...
+]
+[
+  //...
+  {
+    "id": "Tvs.my",
+    "name": "Tvs",
+    "alt_names": ["Tvs"],
+    "network": "null",
+    "owners": ["Sarawak Media Group"],
+    "country": "MY",
+    "subdivision": "MY-JHR",
+    "city": "null",
+    "broadcast_area": ["j/MY-JHR"],
+    "languages": ["en"],
+    "categories": ["general"],
+    "is_nsfw": false,
+    "launched": "null",
+    "closed": "null",
+    "replaced_by": "Tv Sarawak",
+    "website": "https://www.tvsarawak.my/",
+    "logo": "https://github.com/MIFNtechnology/siaranMy/raw/main/logo/Tvs.png""
+  }
+  //...
+]
+[
+  //...
+  {
+    "id": "Tv6.my",
+    "name": "RTM Tv6",
+    "alt_names": ["Tv6"],
+    "network": "null",
+    "owners": ["Radio Televisyen Malaysia"],
+    "country": "MY",
+    "subdivision": "MY-JHR",
+    "city": "null",
+    "broadcast_area": ["j/MY-JHR"],
+    "languages": ["en"],
+    "categories": ["general"],
+    "is_nsfw": false,
+    "launched": "null",
+    "closed": "null",
+    "replaced_by": "null",
+    "website": "https://rtmklik.rtm.gov.my/",
+    "logo": "https://github.com/MIFNtechnology/siaranMy/raw/main/logo/Tv6.png""
+  }
+  //...
+]
+[
+  //...
+  {
+    "id": "Ntv7.my",
+    "name": "Didik Tv KPM",
+    "alt_names": ["Ntv7"],
+    "network": "null",
+    "owners": ["Media Prima Berhad"],
+    "country": "MY",
+    "subdivision": "MY-JHR",
+    "city": "null",
+    "broadcast_area": ["j/MY-JHR"],
+    "languages": ["en"],
+    "categories": ["general"],
+    "is_nsfw": false,
+    "launched": "null",
+    "closed": "null",
+    "replaced_by": "null",
+    "website": "www.xtra.com.my",
+    "logo": "https://github.com/MIFNtechnology/siaranMy/raw/main/logo/DidikTv.png""
+  }
+  //...
+]
+[
+  //...
+  {
+    "id": "8tv.my",
+    "name": "8tv",
+    "alt_names": ["8tv"],
+    "network": "null",
+    "owners": ["Media Prima Berhad"],
+    "country": "MY",
+    "subdivision": "MY-JHR",
+    "city": "null",
+    "broadcast_area": ["j/MY-JHR"],
+    "languages": ["en"],
+    "categories": ["general"],
+    "is_nsfw": false,
+    "launched": "null",
+    "closed": "null",
+    "replaced_by": "null",
+    "website": "www.xtra.com.my",
+    "logo": "https://github.com/MIFNtechnology/siaranMy/raw/main/logo/8tv.png""
+  }
+  //...
+]
+[
+  //...
+  {
+    "id": "Tv9.my",
+    "name": "Tv9",
+    "alt_names": ["Tv9"],
+    "network": "null",
+    "owners": ["Media Prima Berhad"],
+    "country": "MY",
+    "subdivision": "MY-JHR",
+    "city": "null",
+    "broadcast_area": ["j/MY-JHR"],
+    "languages": ["en"],
+    "categories": ["general"],
+    "is_nsfw": false,
+    "launched": "null",
+    "closed": "null",
+    "replaced_by": "null",
+    "website": "www.xtra.com.my",
+    "logo": "https://github.com/MIFNtechnology/siaranMy/raw/main/logo/Tv9.png""
+  }
+  //...
+]
+[
+  //...
+  {
+    "id": "DramaSangat.my",
+    "name": "DramaSangat",
+    "alt_names": ["DramaSangat"],
+    "network": "null",
+    "owners": ["Media Prima Berhad"],
+    "country": "MY",
+    "subdivision": "MY-JHR",
+    "city": "null",
+    "broadcast_area": ["j/MY-JHR"],
+    "languages": ["en"],
+    "categories": ["general"],
+    "is_nsfw": false,
+    "launched": "null",
+    "closed": "null",
+    "replaced_by": "null",
+    "website": "www.xtra.com.my",
+    "logo": "https://github.com/MIFNtechnology/siaranMy/raw/main/logo/DramaSangat.png""
+  }
+  //...
+]
+[
+  //...
+  {
+    "id": "BeritaRtm.my",
+    "name": "Berita Rtm",
+    "alt_names": ["BeritaRtm"],
+    "network": "null",
+    "owners": ["Radio Televisyen Malaysia"],
+    "country": "MY",
+    "subdivision": "MY-JHR",
+    "city": "null",
+    "broadcast_area": ["j/MY-JHR"],
+    "languages": ["en"],
+    "categories": ["general"],
+    "is_nsfw": false,
+    "launched": "null",
+    "closed": "null",
+    "replaced_by": "Saluran Berita RTM",
+    "website": "https://rtmklik.rtm.gov.my/",
+    "logo": "https://github.com/MIFNtechnology/siaranMy/raw/main/logo/BeritaRtm.png""
+  }
+  //...
+]
+[
+  //...
+  {
+    "id": "SukanRtm.my",
+    "name": "Sukan Rtm",
+    "alt_names": ["SukanRtm"],
+    "network": "null",
+    "owners": ["Radio Televisyen Malaysia"],
+    "country": "MY",
+    "subdivision": "MY-JHR",
+    "city": "null",
+    "broadcast_area": ["j/MY-JHR"],
+    "languages": ["en"],
+    "categories": ["general"],
+    "is_nsfw": false,
+    "launched": "null",
+    "closed": "null",
+    "replaced_by": "RTM Sports",
+    "website": "https://rtmklik.rtm.gov.my/",
+    "logo": "https://github.com/MIFNtechnology/siaranMy/raw/main/logo/SukanRtm.png""
+  }
+  //...
+]
+[
+  //...
+  {
+    "id": "TvIkim.my",
+    "name": "TvIkim",
+    "alt_names": ["TvIkim"],
+    "network": "null",
+    "owners": ["Institut Kefahaman Islam Malaysia"],
+    "country": "MY",
+    "subdivision": "MY-JHR",
+    "city": "null",
+    "broadcast_area": ["j/MY-JHR"],
+    "languages": ["en"],
+    "categories": ["general"],
+    "is_nsfw": false,
+    "launched": "null",
+    "closed": "null",
+    "replaced_by": "null",
+    "website": "https://www.tvikim.my/",
+    "logo": "https://github.com/MIFNtechnology/siaranMy/raw/main/logo/TvIkim.png""
+  }
+  //...
+]
+[
+  //...
+  {
+    "id": "AstroAwani.my",
+    "name": "Astro Awani",
+    "alt_names": ["AstroAwani"],
+    "network": "null",
+    "owners": ["Astro Malaysia Holdings"],
+    "country": "MY",
+    "subdivision": "MY-JHR",
+    "city": "null",
+    "broadcast_area": ["j/MY-JHR"],
+    "languages": ["en"],
+    "categories": ["general"],
+    "is_nsfw": false,
+    "launched": "null",
+    "closed": "null",
+    "replaced_by": "null",
+    "website": "https://www.astroawani.com/",
+    "logo": "https://github.com/MIFNtechnology/siaranMy/raw/main/logo/AstroAwani.png""
+  }
+  //...
+]
+[
+  //...
+  {
+    "id": "Bernama.my",
+    "name": "Bernama",
+    "alt_names": ["Bernama"],
+    "network": "null",
+    "owners": ["Pertubuhan Berita Nasional Malaysia"],
+    "country": "MY",
+    "subdivision": "MY-JHR",
+    "city": "null",
+    "broadcast_area": ["j/MY-JHR"],
+    "languages": ["en"],
+    "categories": ["general"],
+    "is_nsfw": false,
+    "launched": "null",
+    "closed": "null",
+    "replaced_by": "Bernama News Channel",
+    "website": "https://www.bernama.com/tv/",
+    "logo": "https://github.com/MIFNtechnology/siaranMy/raw/main/logo/Bernama.png""
+  }
+  //...
+]
