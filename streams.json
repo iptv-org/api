@@ -1,0 +1,207 @@
+jsonc
+[
+  //...
+  {
+    "channel": "Tv1.my",
+    "url": "https://mifntechnology.github.io/siaranMy/channels/Tv1/index.m3u8",
+    "timeshift": "2",
+    "http_referrer": "http://github.com/",
+    "user_agent": "Mozilla/5.0 (Linux; Android 10; CPH1819 Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/123.0.6312.121 Mobile Safari/537.36"
+  }
+  //...
+]
+
+jsonc
+[
+  //...
+  {
+    "channel": "Tv2.my",
+    "url": "https://mifntechnology.github.io/siaranMy/channels/Tv2/index.m3u8",
+    "timeshift": "2",
+    "http_referrer": "http://github.com/",
+    "user_agent": "Mozilla/5.0 (Linux; Android 10; CPH1819 Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/123.0.6312.121 Mobile Safari/537.36"
+  }
+  //...
+]
+
+jsonc
+[
+  //...
+  {
+    "channel": "Tv3.my",
+    "url": "https://mifntechnology.github.io/siaranMy/channels/Tv3/index.m3u8",
+    "timeshift": "2",
+    "http_referrer": "http://github.com/",
+    "user_agent": "Mozilla/5.0 (Linux; Android 10; CPH1819 Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/123.0.6312.121 Mobile Safari/537.36"
+  }
+  //...
+]
+
+jsonc
+[
+  //...
+  {
+    "channel": "TvOkey.my",
+    "url": "https://mifntechnology.github.io/siaranMy/channels/TvOkey/index.m3u8",
+    "timeshift": "2",
+    "http_referrer": "http://github.com/",
+    "user_agent": "Mozilla/5.0 (Linux; Android 10; CPH1819 Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/123.0.6312.121 Mobile Safari/537.36"
+  }
+  //...
+]
+
+jsonc
+[
+  //...
+  {
+    "channel": "Tvs.my",
+    "url": "https://mifntechnology.github.io/siaranMy/channels/Tvs/index.m3u8",
+    "timeshift": "2",
+    "http_referrer": "http://github.com/",
+    "user_agent": "Mozilla/5.0 (Linux; Android 10; CPH1819 Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/123.0.6312.121 Mobile Safari/537.36"
+  }
+  //...
+]
+
+jsonc
+[
+  //...
+  {
+    "channel": "Tv6.my",
+    "url": "https://mifntechnology.github.io/siaranMy/channels/Tv6/index.m3u8",
+    "timeshift": "2",
+    "http_referrer": "http://github.com/",
+    "user_agent": "Mozilla/5.0 (Linux; Android 10; CPH1819 Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/123.0.6312.121 Mobile Safari/537.36"
+  }
+  //...
+]
+
+jsonc
+[
+  //...
+  {
+    "channel": "Ntv7.my",
+    "url": "https://mifntechnology.github.io/siaranMy/channels/Ntv7/index.m3u8",
+    "timeshift": "2",
+    "http_referrer": "http://github.com/",
+    "user_agent": "Mozilla/5.0 (Linux; Android 10; CPH1819 Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/123.0.6312.121 Mobile Safari/537.36"
+  }
+  //...
+]
+
+jsonc
+[
+  //...
+  {
+    "channel": "8tv.my",
+    "url": "https://mifntechnology.github.io/siaranMy/channels/8tv/index.m3u8",
+    "timeshift": "2",
+    "http_referrer": "http://github.com/",
+    "user_agent": "Mozilla/5.0 (Linux; Android 10; CPH1819 Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/123.0.6312.121 Mobile Safari/537.36"
+  }
+  //...
+]
+
+jsonc
+[
+  //...
+  {
+    "channel": "Tv9.my",
+    "url": "https://mifntechnology.github.io/siaranMy/channels/Tv9/index.m3u8",
+    "timeshift": "2",
+    "http_referrer": "http://github.com/",
+    "user_agent": "Mozilla/5.0 (Linux; Android 10; CPH1819 Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/123.0.6312.121 Mobile Safari/537.36"
+  }
+  //...
+]
+
+jsonc
+[
+  //...
+  {
+    "channel": "DramaSangat.my",
+    "url": "https://mifntechnology.github.io/siaranMy/channels/DramaSangat/index.m3u8",
+    "timeshift": "2",
+    "http_referrer": "http://github.com/",
+    "user_agent": "Mozilla/5.0 (Linux; Android 10; CPH1819 Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/123.0.6312.121 Mobile Safari/537.36"
+  }
+  //...
+]
+
+jsonc
+[
+  //...
+  {
+    "channel": "BeritaRtm.my",
+    "url": "https://mifntechnology.github.io/siaranMy/channels/BeritaRtm/index.m3u8",
+    "timeshift": "2",
+    "http_referrer": "http://github.com/",
+    "user_agent": "Mozilla/5.0 (Linux; Android 10; CPH1819 Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/123.0.6312.121 Mobile Safari/537.36"
+  }
+  //...
+]
+
+jsonc
+[
+  //...
+  {
+    "channel": "SukanRtm.my",
+    "url": "https://mifntechnology.github.io/siaranMy/channels/SukanRtm/index.m3u8",
+    "timeshift": "2",
+    "http_referrer": "http://github.com/",
+    "user_agent": "Mozilla/5.0 (Linux; Android 10; CPH1819 Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/123.0.6312.121 Mobile Safari/537.36"
+  }
+  //...
+]
+
+jsonc
+[
+  //...
+  {
+    "channel": "TvIkim.my",
+    "url": "https://mifntechnology.github.io/siaranMy/channels/TvIkim/index.m3u8",
+    "timeshift": "2",
+    "http_referrer": "http://github.com/",
+    "user_agent": "Mozilla/5.0 (Linux; Android 10; CPH1819 Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/123.0.6312.121 Mobile Safari/537.36"
+  }
+  //...
+]
+
+jsonc
+[
+  //...
+  {
+    "channel": "AstroAwani.my",
+    "url": "https://mifntechnology.github.io/siaranMy/channels/AstroAwani/index.m3u8",
+    "timeshift": "2",
+    "http_referrer": "http://github.com/",
+    "user_agent": "Mozilla/5.0 (Linux; Android 10; CPH1819 Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/123.0.6312.121 Mobile Safari/537.36"
+  }
+  //...
+]
+
+jsonc
+[
+  //...
+  {
+    "channel": "DewanRakyat.my",
+    "url": "https://mifntechnology.github.io/siaranMy/channels/DewanRakyat/index.m3u8",
+    "timeshift": "2",
+    "http_referrer": "http://github.com/",
+    "user_agent": "Mozilla/5.0 (Linux; Android 10; CPH1819 Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/123.0.6312.121 Mobile Safari/537.36"
+  }
+  //...
+]
+
+jsonc
+[
+  //...
+  {
+    "channel": "DewanNegara.my",
+    "url": "https://mifntechnology.github.io/siaranMy/channels/DewanNegara/index.m3u8",
+    "timeshift": "2",
+    "http_referrer": "http://github.com/",
+    "user_agent": "Mozilla/5.0 (Linux; Android 10; CPH1819 Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/123.0.6312.121 Mobile Safari/537.36"
+  }
+  //...
+]
