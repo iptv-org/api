@@ -1,5 +1,10 @@
 # Changelog
 
+## 2025-03-05
+
+- **streams**: `channel` field now returns `null` if no value is specified
+- **blocklist**: added `reason` field
+
 ## 2023-12-03
 
 - **guides**: `channel` field now returns `null` if no value is specified
