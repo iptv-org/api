@@ -88,7 +88,7 @@ https://iptv-org.github.io/api/streams.json
 
 | Field         | Type           | Description                                                                                                          |
 | ------------- | -------------- | -------------------------------------------------------------------------------------------------------------------- |
-| channel       | string         | Channel ID                                                                                                           |
+| channel       | string or null | Channel ID                                                                                                           |
 | url           | string         | Stream URL                                                                                                           |
 | timeshift     | string or null | Indicates the shift of the program schedule                                                                          |
 | http_referrer | string or null | The [Referer](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Referer) request header for the stream       |
@@ -265,6 +265,7 @@ https://iptv-org.github.io/api/blocklist.json
   //...
   {
     "channel": "AnimalPlanetEast.us",
+    "reason": "dmca",
     "ref": "https://github.com/iptv-org/iptv/issues/1831"
   }
   //...
@@ -274,6 +275,7 @@ https://iptv-org.github.io/api/blocklist.json
 | Field   | Type   | Description                                     |
 | ------- | ------ | ----------------------------------------------- |
 | channel | string | Channel ID                                      |
+| reason  | string | Reason for blocking (`dmca` or `nsfw`)          |
 | ref     | string | Link to removal request or DMCA takedown notice |
 
 Source of data: https://github.com/iptv-org/database
