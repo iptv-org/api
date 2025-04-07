@@ -1,5 +1,12 @@
 # Changelog
 
+## 2025-04-07
+
+- added **feeds** and **timezones**
+- **channels**: removed `broadcast_area` and `languages` fields
+- **streams**: added `feed` and `quality` fields, renamed `http_referrer` field to `referrer`, removed `timeshift` field
+- **guides**: added `feed` field
+
 ## 2025-03-05
 
 - **streams**: `channel` field now returns `null` if no value is specified
