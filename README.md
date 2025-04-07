@@ -3,6 +3,7 @@
 ## Overview
 
 - [Channels](#channels)
+- [Feeds](#feeds)
 - [Streams](#streams)
 - [Guides](#guides)
 - [Categories](#categories)
@@ -10,6 +11,7 @@
 - [Countries](#countries)
 - [Subdivisions](#subdivisions)
 - [Regions](#regions)
+- [Timezones](#timezones)
 - [Blocklist](#blocklist)
 
 ### Channels
@@ -30,8 +32,6 @@ https://iptv-org.github.io/api/channels.json
     "country": "CN",
     "subdivision": "CN-AH",
     "city": "Hefei",
-    "broadcast_area": ["s/CN-AH"],
-    "languages": ["zho"],
     "categories": ["general"],
     "is_nsfw": false,
     "launched": "2016-07-28",
@@ -44,25 +44,59 @@ https://iptv-org.github.io/api/channels.json
 ]
 ```
 
-| Field          | Type           | Description                                                                                                                                          |
-| -------------- | -------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
-| id             | string         | Unique channel ID                                                                                                                                    |
-| name           | string         | Full name of the channel                                                                                                                             |
-| alt_names      | array          | List of alternative channel names                                                                                                                    |
-| network        | string or null | Name of the network operating the channel                                                                                                            |
-| owners         | array          | List of channel owners                                                                                                                               |
-| country        | string         | Country code from which the broadcast is transmitted ([ISO 3166-1 alpha-2](https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2))                        |
-| subdivision    | string or null | Code of the subdivision (e.g., provinces or states) from which the broadcast is transmitted ([ISO 3166-2](https://en.wikipedia.org/wiki/ISO_3166-2)) |
-| city           | string or null | Name of the city from which the broadcast is transmitted                                                                                             |
-| broadcast_area | array          | List of codes describing the broadcasting area (`r/<region_code>`, `c/<country_code>`, `s/<subdivision_code>`)                                       |
-| languages      | array          | List of languages broadcast                                                                                                                          |
-| categories     | array          | List of categories to which this channel belongs                                                                                                     |
-| is_nsfw        | boolean        | Indicates whether the channel broadcasts adult content                                                                                               |
-| launched       | string or null | Launch date of the channel (`YYYY-MM-DD`)                                                                                                            |
-| closed         | string or null | Date on which the channel closed (`YYYY-MM-DD`)                                                                                                      |
-| replaced_by    | string or null | The ID of the channel that this channel was replaced by                                                                                              |
-| website        | string or null | Official website URL                                                                                                                                 |
-| logo           | string         | Logo URL                                                                                                                                             |
+| Field       | Type           | Description                                                                                                                                          |
+| ----------- | -------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
+| id          | string         | Unique channel ID                                                                                                                                    |
+| name        | string         | Full name of the channel                                                                                                                             |
+| alt_names   | array          | List of alternative channel names                                                                                                                    |
+| network     | string or null | Name of the network operating the channel                                                                                                            |
+| owners      | array          | List of channel owners                                                                                                                               |
+| country     | string         | Country code from which the broadcast is transmitted ([ISO 3166-1 alpha-2](https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2))                        |
+| subdivision | string or null | Code of the subdivision (e.g., provinces or states) from which the broadcast is transmitted ([ISO 3166-2](https://en.wikipedia.org/wiki/ISO_3166-2)) |
+| city        | string or null | Name of the city from which the broadcast is transmitted                                                                                             |
+| categories  | array          | List of categories to which this channel belongs                                                                                                     |
+| is_nsfw     | boolean        | Indicates whether the channel broadcasts adult content                                                                                               |
+| launched    | string or null | Launch date of the channel (`YYYY-MM-DD`)                                                                                                            |
+| closed      | string or null | Date on which the channel closed (`YYYY-MM-DD`)                                                                                                      |
+| replaced_by | string or null | The ID of the channel that this channel was replaced by                                                                                              |
+| website     | string or null | Official website URL                                                                                                                                 |
+| logo        | string         | Logo URL                                                                                                                                             |
+
+Source of data: https://github.com/iptv-org/database
+
+### Feeds
+
+```
+https://iptv-org.github.io/api/feeds.json
+```
+
+```jsonc
+[
+  //...
+  {
+    "channel": "BBCOne.uk",
+    "id": "EastMidlandsHD",
+    "name": "East Midlands HD",
+    "is_main": false,
+    "broadcast_area": ["c/UK"],
+    "timezones": ["Europe/London"],
+    "languages": ["eng"],
+    "format": "1080i"
+  }
+  //...
+]
+```
+
+| Field          | Type    | Description                                                                                                    |
+| -------------- | ------- | -------------------------------------------------------------------------------------------------------------- |
+| channel        | string  | Channel ID                                                                                                     |
+| id             | string  | Unique feed ID                                                                                                 |
+| name           | string  | Name of the feed                                                                                               |
+| is_main        | boolean | Indicates if this feed is the main for the channel                                                             |
+| broadcast_area | array   | List of codes describing the broadcasting area (`r/<region_code>`, `c/<country_code>`, `s/<subdivision_code>`) |
+| timezones      | array   | List of timezones in which the feed is broadcast                                                               |
+| languages      | array   | List of broadcast languages                                                                                    |
+| format         | string  | Video format of the feed                                                                                       |
 
 Source of data: https://github.com/iptv-org/database
 
@@ -76,23 +110,25 @@ https://iptv-org.github.io/api/streams.json
 [
   //...
   {
-    "channel": "BBCNews.uk",
+    "channel": "BBCOne.uk",
+    "feed": "EastMidlandsHD",
     "url": "http://1111296894.rsc.cdn77.org/LS-ATL-54548-6/index.m3u8",
-    "timeshift": "2",
-    "http_referrer": "http://example.com/",
-    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+    "referrer": "http://example.com/",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+    "quality": "720p"
   }
   //...
 ]
 ```
 
-| Field         | Type           | Description                                                                                                          |
-| ------------- | -------------- | -------------------------------------------------------------------------------------------------------------------- |
-| channel       | string or null | Channel ID                                                                                                           |
-| url           | string         | Stream URL                                                                                                           |
-| timeshift     | string or null | Indicates the shift of the program schedule                                                                          |
-| http_referrer | string or null | The [Referer](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Referer) request header for the stream       |
-| user_agent    | string or null | The [User-Agent](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/User-Agent) request header for the stream |
+| Field      | Type           | Description                                                                                                          |
+| ---------- | -------------- | -------------------------------------------------------------------------------------------------------------------- |
+| channel    | string or null | Channel ID                                                                                                           |
+| feed       | string or null | Feed ID                                                                                                              |
+| url        | string         | Stream URL                                                                                                           |
+| referrer   | string or null | The [Referer](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Referer) request header for the stream       |
+| user_agent | string or null | The [User-Agent](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/User-Agent) request header for the stream |
+| quality    | string or null | Maximum stream quality                                                                                               |
 
 Source of data: https://github.com/iptv-org/iptv
 
@@ -106,10 +142,11 @@ https://iptv-org.github.io/api/guides.json
 [
   //...
   {
-    "channel": "BBCNews.uk",
-    "site": "bt.com",
-    "site_id": "hsx4",
-    "site_name": "BBC News",
+    "channel": "BBCOne.uk",
+    "feed": "EastMidlandsHD",
+    "site": "sky.co.uk",
+    "site_id": "bbcone",
+    "site_name": "BBC One",
     "lang": "en"
   }
   //...
@@ -119,6 +156,7 @@ https://iptv-org.github.io/api/guides.json
 | Field     | Type           | Description                                                                       |
 | --------- | -------------- | --------------------------------------------------------------------------------- |
 | channel   | string or null | Channel ID                                                                        |
+| feed      | string or null | Feed ID                                                                           |
 | site      | string         | Site domain name                                                                  |
 | site_id   | string         | Unique channel ID used on the site                                                |
 | site_name | string         | Channel name used on the site                                                     |
@@ -251,6 +289,32 @@ https://iptv-org.github.io/api/regions.json
 | code      | string | Code of the region              |
 | name      | string | Full name of the region         |
 | countries | array  | List of countries in the region |
+
+Source of data: https://github.com/iptv-org/database
+
+### Timezones
+
+```
+https://iptv-org.github.io/api/timezones.json
+```
+
+```jsonc
+[
+  //...
+  {
+    "id": "Europe/London",
+    "utc_offset": "+00:00",
+    "countries": ["UK", "GG", "IM", "JE"]
+  }
+  //...
+]
+```
+
+| Field      | Type   | Description                                                               |
+| ---------- | ------ | ------------------------------------------------------------------------- |
+| id         | string | Timezone ID from [tz database](https://en.wikipedia.org/wiki/Tz_database) |
+| utc_offset | string | [UTC offset](https://en.wikipedia.org/wiki/UTC_offset) for this time zone |
+| countries  | array  | List of countries included in this time zone                              |
 
 Source of data: https://github.com/iptv-org/database
 
