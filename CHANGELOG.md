@@ -1,5 +1,9 @@
 # Changelog
 
+## 2025-07-02
+
+- added **logos.json**
+
 ## 2025-04-07
 
 - added **feeds** and **timezones**
