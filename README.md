@@ -4,6 +4,7 @@
 
 - [Channels](#channels)
 - [Feeds](#feeds)
+- [Logos](#logos)
 - [Streams](#streams)
 - [Guides](#guides)
 - [Categories](#categories)
@@ -60,7 +61,7 @@ https://iptv-org.github.io/api/channels.json
 | closed      | string or null | Date on which the channel closed (`YYYY-MM-DD`)                                                                                                      |
 | replaced_by | string or null | The ID of the channel that this channel was replaced by                                                                                              |
 | website     | string or null | Official website URL                                                                                                                                 |
-| logo        | string         | Logo URL                                                                                                                                             |
+| logo        | string         | [DEPRECATED] Logo URL                                                                                                                                |
 
 Source of data: https://github.com/iptv-org/database
 
@@ -97,6 +98,40 @@ https://iptv-org.github.io/api/feeds.json
 | timezones      | array   | List of timezones in which the feed is broadcast                                                               |
 | languages      | array   | List of broadcast languages                                                                                    |
 | format         | string  | Video format of the feed                                                                                       |
+
+Source of data: https://github.com/iptv-org/database
+
+### Logos
+
+```
+https://iptv-org.github.io/api/logos.json
+```
+
+```jsonc
+[
+  //...
+  {
+    "channel": "France3.fr",
+    "feed": "Alpes",
+    "tags": ["horizontal", "white"],
+    "width": 1000,
+    "height": 468,
+    "format": "SVG",
+    "url": "https://example.com/logo.svg"
+  }
+  //...
+]
+```
+
+| Field   | Type           | Description                                                                |
+| ------- | -------------- | -------------------------------------------------------------------------- |
+| channel | string         | Channel ID                                                                 |
+| feed    | string or null | Feed ID                                                                    |
+| tags    | array          | List of keywords describing this version of the logo                       |
+| width   | number         | The width of the image in pixels                                           |
+| height  | number         | The height of the image in pixels                                          |
+| format  | string or null | Image format (one of: `PNG`, `JPEG`, `SVG`, `GIF`, `WebP`, `AVIF`, `APNG`) |
+| url     | string         | Logo URL                                                                   |
 
 Source of data: https://github.com/iptv-org/database
 
