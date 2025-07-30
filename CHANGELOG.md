@@ -1,5 +1,12 @@
 # Changelog
 
+## 2025-07-30
+
+- **channels**: removed `logo` field
+- **feeds**: added `alt_names` field
+- **streams**: added `title` field
+- **categories**: added `description` field
+
 ## 2025-07-02
 
 - added **logos.json**
