@@ -38,8 +38,7 @@ https://iptv-org.github.io/api/channels.json
     "launched": "2016-07-28",
     "closed": "2020-05-31",
     "replaced_by": "CCTV1.cn",
-    "website": "http://www.ahtv.cn/",
-    "logo": "https://example.com/logo.png"
+    "website": "http://www.ahtv.cn/"
   }
   //...
 ]
@@ -61,7 +60,6 @@ https://iptv-org.github.io/api/channels.json
 | closed      | string or null | Date on which the channel closed (`YYYY-MM-DD`)                                                                                                      |
 | replaced_by | string or null | The ID of the channel that this channel was replaced by                                                                                              |
 | website     | string or null | Official website URL                                                                                                                                 |
-| logo        | string         | [DEPRECATED] Logo URL                                                                                                                                |
 
 Source of data: https://github.com/iptv-org/database
 
@@ -75,14 +73,15 @@ https://iptv-org.github.io/api/feeds.json
 [
   //...
   {
-    "channel": "BBCOne.uk",
-    "id": "EastMidlandsHD",
-    "name": "East Midlands HD",
+    "channel": "France3.fr",
+    "id": "ParisIledeFrance",
+    "name": "Paris Ile-de-France",
+    "alt_names": ["Paris Île-de-France"],
     "is_main": false,
-    "broadcast_area": ["c/UK"],
-    "timezones": ["Europe/London"],
-    "languages": ["eng"],
-    "format": "1080i"
+    "broadcast_area": ["c/FR"],
+    "timezones": ["Europe/Paris"],
+    "languages": ["fra"],
+    "format": "576i"
   }
   //...
 ]
@@ -93,6 +92,7 @@ https://iptv-org.github.io/api/feeds.json
 | channel        | string  | Channel ID                                                                                                     |
 | id             | string  | Unique feed ID                                                                                                 |
 | name           | string  | Name of the feed                                                                                               |
+| alt_names      | array   | List of alternative feed names                                                                                 |
 | is_main        | boolean | Indicates if this feed is the main for the channel                                                             |
 | broadcast_area | array   | List of codes describing the broadcasting area (`r/<region_code>`, `c/<country_code>`, `s/<subdivision_code>`) |
 | timezones      | array   | List of timezones in which the feed is broadcast                                                               |
@@ -112,7 +112,7 @@ https://iptv-org.github.io/api/logos.json
   //...
   {
     "channel": "France3.fr",
-    "feed": "Alpes",
+    "feed": "ParisIledeFrance",
     "tags": ["horizontal", "white"],
     "width": 1000,
     "height": 468,
@@ -145,8 +145,9 @@ https://iptv-org.github.io/api/streams.json
 [
   //...
   {
-    "channel": "BBCOne.uk",
-    "feed": "EastMidlandsHD",
+    "channel": "France3.fr",
+    "feed": "NordPasdeCalaisHD",
+    "title": "BBC One Nord Pas-de-Calais HD",
     "url": "http://1111296894.rsc.cdn77.org/LS-ATL-54548-6/index.m3u8",
     "referrer": "http://example.com/",
     "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
@@ -160,6 +161,7 @@ https://iptv-org.github.io/api/streams.json
 | ---------- | -------------- | -------------------------------------------------------------------------------------------------------------------- |
 | channel    | string or null | Channel ID                                                                                                           |
 | feed       | string or null | Feed ID                                                                                                              |
+| title      | string         | Stream title                                                                                                         |
 | url        | string         | Stream URL                                                                                                           |
 | referrer   | string or null | The [Referer](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Referer) request header for the stream       |
 | user_agent | string or null | The [User-Agent](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/User-Agent) request header for the stream |
@@ -210,16 +212,18 @@ https://iptv-org.github.io/api/categories.json
   //...
   {
     "id": "documentary",
-    "name": "Documentary"
+    "name": "Documentary",
+    "description": "Programming that depicts a person or real-world event"
   }
   //...
 ]
 ```
 
-| Field | Type   | Description          |
-| ----- | ------ | -------------------- |
-| id    | string | Category ID          |
-| name  | string | Name of the category |
+| Field       | Type   | Description                       |
+| ----------- | ------ | --------------------------------- |
+| id          | string | Category ID                       |
+| name        | string | Name of the category              |
+| description | string | Short description of the category |
 
 Source of data: https://github.com/iptv-org/database
 
