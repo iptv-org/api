@@ -147,7 +147,7 @@ https://iptv-org.github.io/api/streams.json
   {
     "channel": "France3.fr",
     "feed": "NordPasdeCalaisHD",
-    "title": "BBC One Nord Pas-de-Calais HD",
+    "title": "France 3 Nord Pas-de-Calais HD",
     "url": "http://1111296894.rsc.cdn77.org/LS-ATL-54548-6/index.m3u8",
     "referrer": "http://example.com/",
     "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
