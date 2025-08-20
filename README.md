@@ -11,6 +11,7 @@
 - [Languages](#languages)
 - [Countries](#countries)
 - [Subdivisions](#subdivisions)
+- [Cities](#cities)
 - [Regions](#regions)
 - [Timezones](#timezones)
 - [Blocklist](#blocklist)
@@ -289,19 +290,51 @@ https://iptv-org.github.io/api/subdivisions.json
 [
   //...
   {
-    "country": "CA",
-    "name": "Ontario",
-    "code": "CA-ON"
+    "country": "BD",
+    "name": "Bandarban",
+    "code": "BD-01",
+    "parent": "BD-B"
   }
   //...
 ]
 ```
 
-| Field   | Type   | Description                                                                                |
-| ------- | ------ | ------------------------------------------------------------------------------------------ |
-| country | string | [ISO 3166-1 alpha-2](https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2) code of the country |
-| name    | string | Subdivision name                                                                           |
-| code    | string | [ISO 3166-2](https://en.wikipedia.org/wiki/ISO_3166-2) code of the subdivision             |
+| Field   | Type           | Description                                                                                |
+| ------- | -------------- | ------------------------------------------------------------------------------------------ |
+| country | string         | [ISO 3166-1 alpha-2](https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2) code of the country |
+| name    | string         | Subdivision name                                                                           |
+| code    | string         | [ISO 3166-2](https://en.wikipedia.org/wiki/ISO_3166-2) code of the subdivision             |
+| parent  | string or null | [ISO 3166-2](https://en.wikipedia.org/wiki/ISO_3166-2) code of the parent subdivision      |
+
+Source of data: https://github.com/iptv-org/database
+
+### Cities
+
+```
+https://iptv-org.github.io/api/cities.json
+```
+
+```jsonc
+[
+  //...
+  {
+    "country": "CN",
+    "subdivision": "CN-SD",
+    "name": "Yantai",
+    "code": "CNYAT",
+    "wikidata_id": "Q210493"
+  }
+  //...
+]
+```
+
+| Field       | Type           | Description                                                                                                          |
+| ----------- | -------------- | -------------------------------------------------------------------------------------------------------------------- |
+| country     | string         | [ISO 3166-1 alpha-2](https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2) code of the country where the city is located |
+| subdivision | string or null | [ISO 3166-2](https://en.wikipedia.org/wiki/ISO_3166-2) code of the subdivision where the city is located             |
+| name        | string         | City name                                                                                                            |
+| code        | string         | [UN/LOCODE](https://en.wikipedia.org/wiki/UN/LOCODE) of the city                                                     |
+| wikidata_id | string         | ID of this city in [Wikidata](https://www.wikidata.org/wiki/Wikidata:Main_Page)                                      |
 
 Source of data: https://github.com/iptv-org/database
 
