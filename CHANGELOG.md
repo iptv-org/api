@@ -1,5 +1,10 @@
 # Changelog
 
+## 2025-08-20
+
+- added **cities.json**
+- **subdivisions**: added `parent` field
+
 ## 2025-07-30
 
 - **channels**: removed `logo` field
