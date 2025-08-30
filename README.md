@@ -32,8 +32,6 @@ https://iptv-org.github.io/api/channels.json
     "network": "Anhui",
     "owners": ["China Central Television"],
     "country": "CN",
-    "subdivision": "CN-AH",
-    "city": "Hefei",
     "categories": ["general"],
     "is_nsfw": false,
     "launched": "2016-07-28",
@@ -45,22 +43,20 @@ https://iptv-org.github.io/api/channels.json
 ]
 ```
 
-| Field       | Type           | Description                                                                                                                                          |
-| ----------- | -------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
-| id          | string         | Unique channel ID                                                                                                                                    |
-| name        | string         | Full name of the channel                                                                                                                             |
-| alt_names   | array          | List of alternative channel names                                                                                                                    |
-| network     | string or null | Name of the network operating the channel                                                                                                            |
-| owners      | array          | List of channel owners                                                                                                                               |
-| country     | string         | Country code from which the broadcast is transmitted ([ISO 3166-1 alpha-2](https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2))                        |
-| subdivision | string or null | Code of the subdivision (e.g., provinces or states) from which the broadcast is transmitted ([ISO 3166-2](https://en.wikipedia.org/wiki/ISO_3166-2)) |
-| city        | string or null | Name of the city from which the broadcast is transmitted                                                                                             |
-| categories  | array          | List of categories to which this channel belongs                                                                                                     |
-| is_nsfw     | boolean        | Indicates whether the channel broadcasts adult content                                                                                               |
-| launched    | string or null | Launch date of the channel (`YYYY-MM-DD`)                                                                                                            |
-| closed      | string or null | Date on which the channel closed (`YYYY-MM-DD`)                                                                                                      |
-| replaced_by | string or null | The ID of the channel that this channel was replaced by                                                                                              |
-| website     | string or null | Official website URL                                                                                                                                 |
+| Field       | Type           | Description                                                                                                                   |
+| ----------- | -------------- | ----------------------------------------------------------------------------------------------------------------------------- |
+| id          | string         | Unique channel ID                                                                                                             |
+| name        | string         | Full name of the channel                                                                                                      |
+| alt_names   | array          | List of alternative channel names                                                                                             |
+| network     | string or null | Name of the network operating the channel                                                                                     |
+| owners      | array          | List of channel owners                                                                                                        |
+| country     | string         | Country code from which the broadcast is transmitted ([ISO 3166-1 alpha-2](https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2)) |
+| categories  | array          | List of categories to which this channel belongs                                                                              |
+| is_nsfw     | boolean        | Indicates whether the channel broadcasts adult content                                                                        |
+| launched    | string or null | Launch date of the channel (`YYYY-MM-DD`)                                                                                     |
+| closed      | string or null | Date on which the channel closed (`YYYY-MM-DD`)                                                                               |
+| replaced_by | string or null | The ID of the channel that this channel was replaced by                                                                       |
+| website     | string or null | Official website URL                                                                                                          |
 
 Source of data: https://github.com/iptv-org/database
 
@@ -88,17 +84,17 @@ https://iptv-org.github.io/api/feeds.json
 ]
 ```
 
-| Field          | Type    | Description                                                                                                    |
-| -------------- | ------- | -------------------------------------------------------------------------------------------------------------- |
-| channel        | string  | Channel ID                                                                                                     |
-| id             | string  | Unique feed ID                                                                                                 |
-| name           | string  | Name of the feed                                                                                               |
-| alt_names      | array   | List of alternative feed names                                                                                 |
-| is_main        | boolean | Indicates if this feed is the main for the channel                                                             |
-| broadcast_area | array   | List of codes describing the broadcasting area (`r/<region_code>`, `c/<country_code>`, `s/<subdivision_code>`) |
-| timezones      | array   | List of timezones in which the feed is broadcast                                                               |
-| languages      | array   | List of broadcast languages                                                                                    |
-| format         | string  | Video format of the feed                                                                                       |
+| Field          | Type    | Description                                                                                                                      |
+| -------------- | ------- | -------------------------------------------------------------------------------------------------------------------------------- |
+| channel        | string  | Channel ID                                                                                                                       |
+| id             | string  | Unique feed ID                                                                                                                   |
+| name           | string  | Name of the feed                                                                                                                 |
+| alt_names      | array   | List of alternative feed names                                                                                                   |
+| is_main        | boolean | Indicates if this feed is the main for the channel                                                                               |
+| broadcast_area | array   | List of codes describing the broadcasting area (`r/<region_code>`, `c/<country_code>`, `s/<subdivision_code>`, `ct/<city_code>`) |
+| timezones      | array   | List of timezones in which the feed is broadcast                                                                                 |
+| languages      | array   | List of broadcast languages                                                                                                      |
+| format         | string  | Video format of the feed                                                                                                         |
 
 Source of data: https://github.com/iptv-org/database
 
