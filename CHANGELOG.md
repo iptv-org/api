@@ -1,5 +1,9 @@
 # Changelog
 
+## 2025-08-30
+
+- **channels**: removed `subdivision` and `city` fields
+
 ## 2025-08-20
 
 - added **cities.json**
