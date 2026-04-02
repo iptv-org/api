@@ -1,5 +1,9 @@
 # Changelog
 
+## 2026-04-02
+
+- **streams**: added `label` field
+
 ## 2025-08-30
 
 - **channels**: removed `subdivision` and `city` fields
