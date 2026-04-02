@@ -148,7 +148,8 @@ https://iptv-org.github.io/api/streams.json
     "url": "http://1111296894.rsc.cdn77.org/LS-ATL-54548-6/index.m3u8",
     "referrer": "http://example.com/",
     "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-    "quality": "720p"
+    "quality": "720p",
+    "label": "Geo-blocked"
   }
   //...
 ]
@@ -163,6 +164,7 @@ https://iptv-org.github.io/api/streams.json
 | referrer   | string or null | The [Referer](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Referer) request header for the stream       |
 | user_agent | string or null | The [User-Agent](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/User-Agent) request header for the stream |
 | quality    | string or null | Maximum stream quality                                                                                               |
+| label      | string or null | Specified in cases where the broadcast for some reason may not be available to some users                            |
 
 Source of data: https://github.com/iptv-org/iptv
 
