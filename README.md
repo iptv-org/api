@@ -115,7 +115,7 @@ https://iptv-org.github.io/api/logos.json
     "width": 1000,
     "height": 468,
     "format": "SVG",
-    "url": "https://example.com/logo.svg",
+    "url": "https://example.com/logo.svg"
   },
   //...
 ]
