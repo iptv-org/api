@@ -1,5 +1,9 @@
 # Changelog
 
+## 2026-04-15
+
+- **logos**: added `in_use` field
+
 ## 2026-04-02
 
 - **streams**: added `label` field
