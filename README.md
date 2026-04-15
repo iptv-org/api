@@ -38,7 +38,7 @@ https://iptv-org.github.io/api/channels.json
     "closed": "2020-05-31",
     "replaced_by": "CCTV1.cn",
     "website": "http://www.ahtv.cn/"
-  }
+  },
   //...
 ]
 ```
@@ -79,7 +79,7 @@ https://iptv-org.github.io/api/feeds.json
     "timezones": ["Europe/Paris"],
     "languages": ["fra"],
     "format": "576i"
-  }
+  },
   //...
 ]
 ```
@@ -110,12 +110,13 @@ https://iptv-org.github.io/api/logos.json
   {
     "channel": "France3.fr",
     "feed": "ParisIledeFrance",
+    "in_use": true,
     "tags": ["horizontal", "white"],
     "width": 1000,
     "height": 468,
     "format": "SVG",
-    "url": "https://example.com/logo.svg"
-  }
+    "url": "https://example.com/logo.svg",
+  },
   //...
 ]
 ```
@@ -124,6 +125,7 @@ https://iptv-org.github.io/api/logos.json
 | ------- | -------------- | -------------------------------------------------------------------------- |
 | channel | string         | Channel ID                                                                 |
 | feed    | string or null | Feed ID                                                                    |
+| in_use  | boolean        | Indicates whether the broadcaster is currently using this logo             |
 | tags    | array          | List of keywords describing this version of the logo                       |
 | width   | number         | The width of the image in pixels                                           |
 | height  | number         | The height of the image in pixels                                          |
@@ -150,7 +152,7 @@ https://iptv-org.github.io/api/streams.json
     "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
     "quality": "720p",
     "label": "Geo-blocked"
-  }
+  },
   //...
 ]
 ```
@@ -184,7 +186,7 @@ https://iptv-org.github.io/api/guides.json
     "site_id": "bbcone",
     "site_name": "BBC One",
     "lang": "en"
-  }
+  },
   //...
 ]
 ```
@@ -213,7 +215,7 @@ https://iptv-org.github.io/api/categories.json
     "id": "documentary",
     "name": "Documentary",
     "description": "Programming that depicts a person or real-world event"
-  }
+  },
   //...
 ]
 ```
@@ -238,7 +240,7 @@ https://iptv-org.github.io/api/languages.json
   {
     "name": "French",
     "code": "fra"
-  }
+  },
   //...
 ]
 ```
@@ -264,7 +266,7 @@ https://iptv-org.github.io/api/countries.json
     "code": "CA",
     "languages": ["eng", "fra"],
     "flag": "🇨🇦"
-  }
+  },
   //...
 ]
 ```
@@ -292,7 +294,7 @@ https://iptv-org.github.io/api/subdivisions.json
     "name": "Bandarban",
     "code": "BD-01",
     "parent": "BD-B"
-  }
+  },
   //...
 ]
 ```
@@ -321,7 +323,7 @@ https://iptv-org.github.io/api/cities.json
     "name": "Yantai",
     "code": "CNYAT",
     "wikidata_id": "Q210493"
-  }
+  },
   //...
 ]
 ```
@@ -349,7 +351,7 @@ https://iptv-org.github.io/api/regions.json
     "code": "MAGHREB",
     "name": "Maghreb",
     "countries": ["DZ", "LY", "MA", "MR", "TN"]
-  }
+  },
   //...
 ]
 ```
@@ -375,7 +377,7 @@ https://iptv-org.github.io/api/timezones.json
     "id": "Europe/London",
     "utc_offset": "+00:00",
     "countries": ["UK", "GG", "IM", "JE"]
-  }
+  },
   //...
 ]
 ```
@@ -401,7 +403,7 @@ https://iptv-org.github.io/api/blocklist.json
     "channel": "AnimalPlanetEast.us",
     "reason": "dmca",
     "ref": "https://github.com/iptv-org/iptv/issues/1831"
-  }
+  },
   //...
 ]
 ```
