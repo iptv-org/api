@@ -151,7 +151,7 @@ https://iptv-org.github.io/api/streams.json
     "referrer": "http://example.com/",
     "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
     "quality": "720p",
-    "label": "Geo-blocked"
+    "labels": ["Geo-blocked"]
   },
   //...
 ]
@@ -166,7 +166,7 @@ https://iptv-org.github.io/api/streams.json
 | referrer   | string or null | The [Referer](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Referer) request header for the stream       |
 | user_agent | string or null | The [User-Agent](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/User-Agent) request header for the stream |
 | quality    | string or null | Maximum stream quality                                                                                               |
-| label      | string or null | Specified in cases where the broadcast for some reason may not be available to some users                            |
+| labels     | array          | List of reasons why the broadcast may not work for some users (`Geo-blocked`, `Not 24/7`)                            |
 
 Source of data: https://github.com/iptv-org/iptv
 
