@@ -1,5 +1,9 @@
 # Changelog
 
+## 2026-09-18
+
+- **streams**: the `label` field replaced with `labels`
+
 ## 2026-05-20
 
 - **guides**: added `sources` field
